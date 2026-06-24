@@ -47,6 +47,3 @@ research/
     experts_details/
     scripts/
 ```
-
-## Notes And Caveats
-- Veronica Heino and Santiago E. have useful LinkedIn/community material, but YouTube discovery was weaker after review, so they are represented through LinkedIn/profile sources.

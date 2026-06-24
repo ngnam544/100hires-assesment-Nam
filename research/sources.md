@@ -28,8 +28,3 @@ Selection logic: experts were chosen for hands-on community leadership, B2B SaaS
 - `research/other/experts_details/` — LinkedIn profile details (about, experience, recommendations).
 - `research/other/scripts/` — collection scripts and tooling used during research.
 
-## Notes For Later Synthesis
-
-- Best core experts for a B2B SaaS community-led growth playbook: Brian Oblinger, Dani Weinstein, Joshua Zerkel, Marius Ciortea, David Spinks, Holly Firestone.
-- Best developer/community angle: Wesley Faulkner and Sarah Jane Morris.
-- Best trust/reputation angle: Veronica Heino and Santiago E.
