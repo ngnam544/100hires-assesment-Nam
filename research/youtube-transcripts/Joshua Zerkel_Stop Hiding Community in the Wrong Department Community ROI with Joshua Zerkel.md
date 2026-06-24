@@ -2,7 +2,7 @@
 expert_name: Joshua Zerkel
 video_title: Stop Hiding Community in the Wrong Department | Community ROI with Joshua Zerkel
 publish_date: 1 month ago
-source_channel: 
+source_channel: Communiverse and Humans of Business
 appearance: guest appearance
 source_url: https://www.youtube.com/watch?v=DaEbSKGEIR0
 transcript_language: en

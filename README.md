@@ -1,17 +1,52 @@
-# AI Environment Setup
+# Community-Led Growth for B2B SaaS Research
 
-## Tools Installed
-- Cursor IDE
-- Claude Code extension 
-- Codex extension 
+This repository collects source material for a future playbook on community-led growth for B2B SaaS.
 
-## Steps Completed
-1. Installed Cursor and signed in.
-2. Installed Claude Code and Codex via Cursor's Extension Marketplace.
-3. Created public github repository with README.md file included.
-4. Cloned the repository using Cursor's agent.
-5. Edited README.md file
-6. Committed and pushed changes using Cursor's agent.
+## Expert Selection Criteria
 
-## Issues & Fixes
-Cursor's agent took unusually long to clone the repository with no clear error. Suspected Git wasn't installed on my machine, so I stopped the agent, installed Git manually, then re-ran the clone. It completed immediately after.
+Experts were selected because they match most or all of these signals:
+
+- Direct experience building, leading, or advising community programs for B2B SaaS or enterprise technology companies.
+- Recent LinkedIn activity about community, customer engagement, GTM, advocacy, developer relations, or customer education.
+- Public content that can support a practical playbook later: posts, talks, interviews, podcasts, and profile material.
+- Evidence of operating experience at companies such as Asana, HubSpot, IBM, SAP, Atlassian, Salesforce, Higher Logic, CMX, Etsy, and developer ecosystem teams.
+
+Some sources are stronger than others. I kept notes in `research/sources.md`.
+
+## Experts Covered
+
+- Brian Oblinger
+- Dani Weinstein
+- David Spinks
+- Holly Firestone
+- Joshua Zerkel
+- Marius Ciortea
+- Sarah Jane Morris
+- Santiago E.
+- Veronica Heino
+- Wesley Faulkner
+
+## What Was Collected
+
+- LinkedIn posts for 10 experts in `research/linkedin-posts/`
+- LinkedIn profile details in `research/other/experts_details/`
+- YouTube transcript files for 8 experts in `research/youtube-transcripts/`
+- Expert/source index with links, dates, and annotations in `research/sources.md`
+- Collection scripts and tooling in `research/other/scripts/`
+
+YouTube transcripts were pulled with Supadata. LinkedIn material was collected through a local Playwright scraper and then cleaned into markdown.
+
+## Repository Structure
+
+```text
+research/
+  sources.md
+  linkedin-posts/
+  youtube-transcripts/
+  other/
+    experts_details/
+    scripts/
+```
+
+## Notes And Caveats
+- Veronica Heino and Santiago E. have useful LinkedIn/community material, but YouTube discovery was weaker after review, so they are represented through LinkedIn/profile sources.

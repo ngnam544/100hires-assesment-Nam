@@ -1,4 +1,4 @@
-import argparse
+﻿import argparse
 import json
 import os
 import re
@@ -101,7 +101,7 @@ def parse_posts(raw_text, expert_name):
             continue
 
         if state == "WAITING_FOR_CONTENT_START":
-            if line == "Follow":
+            if line in ["Follow", "hashtag"]:
                 continue
             state = "IN_CONTENT"
             current_post.append(line)
@@ -112,8 +112,8 @@ def parse_posts(raw_text, expert_name):
                 f"{ELLIPSIS}more",
                 "...more",
                 f"{ELLIPSIS} see more",
-                "â€¦more",
-                "â€¦ see more",
+                "Ã¢â‚¬Â¦more",
+                "Ã¢â‚¬Â¦ see more",
                 "Activate to view larger image,",
                 "Activate to view larger image",
                 "Like",
@@ -124,6 +124,9 @@ def parse_posts(raw_text, expert_name):
             ]
             if line in stop_phrases or re.match(r"^\d+$", line) or re.match(r"^\d+\s+(comments|reposts|likes)$", line):
                 state = "SEARCHING_FOR_POST"
+                continue
+
+            if line == "hashtag":
                 continue
 
             if has_timestamp(line):
@@ -143,7 +146,7 @@ def parse_posts(raw_text, expert_name):
 def has_timestamp(line):
     return (
         "ago \u2022" in line
-        or "ago â€¢" in line
+        or "ago Ã¢â‚¬Â¢" in line
         or re.match(r"^\d+\s+(days|weeks|months|years|hours|minutes)\s+ago", line)
     )
 
@@ -169,14 +172,70 @@ def is_noise_line(line, username):
         f"{ELLIPSIS}more",
         "...more",
         f"{ELLIPSIS} see more",
-        "â€¦more",
-        "â€¦ see more",
+        "Ã¢â‚¬Â¦more",
+        "Ã¢â‚¬Â¦ see more",
         "Activate to view larger image,",
         "Activate to view larger image",
         "Connect",
         "Message",
         "Save",
         "Activity",
+        "hashtag",
+        "Profile enhanced with Premium",
+        "Contact info",
+        "Accessibility",
+        "Talent Solutions",
+        "Community Guidelines",
+        "Careers",
+        "Marketing Solutions",
+        "Privacy & Terms",
+        "Ad Choices",
+        "Advertising",
+        "Sales Solutions",
+        "Safety Center",
+        "Questions?",
+        "Visit our Help Center.",
+        "Manage your account and privacy",
+        "Go to your Settings.",
+        "Recommendation transparency",
+        "Learn more about Recommended Content.",
+        "Select language",
+        "Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© (Arabic)",
+        "à¦¬à¦¾à¦‚à¦²à¦¾ (Bangla)",
+        "ÄŒeÅ¡tina (Czech)",
+        "Dansk (Danish)",
+        "Deutsch (German)",
+        "Î•Î»Î»Î·Î½Î¹ÎºÎ¬ (Greek)",
+        "English (English)",
+        "EspaÃ±ol (Spanish)",
+        "ÙØ§Ø±Ø³ÛŒ (Persian)",
+        "Suomi (Finnish)",
+        "FranÃ§ais (French)",
+        "à¤¹à¤¿à¤‚à¤¦à¥€ (Hindi)",
+        "Magyar (Hungarian)",
+        "Bahasa Indonesia (Indonesian)",
+        "Italiano (Italian)",
+        "×¢×‘×¨×™×ª (Hebrew)",
+        "æ—¥æœ¬èªž (Japanese)",
+        "í•œêµ­ì–´ (Korean)",
+        "à¤®à¤°à¤¾à¤ à¥€ (Marathi)",
+        "Bahasa Malaysia (Malay)",
+        "Nederlands (Dutch)",
+        "Norsk (Norwegian)",
+        "à¨ªà©°à¨œà¨¾à¨¬à©€ (Punjabi)",
+        "Polski (Polish)",
+        "PortuguÃªs (Portuguese)",
+        "RomÃ¢nÄƒ (Romanian)",
+        "Ð ÑƒÑÑÐºÐ¸Ð¹ (Russian)",
+        "Svenska (Swedish)",
+        "à°¤à±†à°²à±à°—à± (Telugu)",
+        "à¸ à¸²à¸©à¸²à¹„à¸—à¸¢ (Thai)",
+        "Tagalog (Tagalog)",
+        "TÃ¼rkÃ§e (Turkish)",
+        "Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ° (Ukrainian)",
+        "Tiáº¿ng Viá»‡t (Vietnamese)",
+        "ç®€ä½“ä¸­æ–‡ (Chinese (Simplified))",
+        "æ­£é«”ä¸­æ–‡ (Chinese (Traditional))",
     ]
     if line in noise_exact:
         return True
@@ -190,40 +249,60 @@ def is_noise_line(line, username):
         return True
     if re.match(r"^Feed post number \d+", line):
         return True
-    if re.match(r"^\d+[mhdwy]\s*(\u2022|â€¢)", line):
+    if re.match(r"^\d+[mhdwy]\s*(\u2022|Ã¢â‚¬Â¢)", line):
         return True
     if re.match(r"^\d+\s+(days|weeks|months|years)\s+ago", line):
         return True
-    if any(marker in line for marker in ["\u2022 3rd", "\u2022 2nd", "\u2022 1st", "â€¢ 3rd", "â€¢ 2nd", "â€¢ 1st"]):
+    if any(marker in line for marker in ["\u2022 3rd", "\u2022 2nd", "\u2022 1st", "Ã¢â‚¬Â¢ 3rd", "Ã¢â‚¬Â¢ 2nd", "Ã¢â‚¬Â¢ 1st"]):
         return True
     if "Verified" in line:
         return True
     return False
 
 
-def clean_text_block(text, username):
+def clean_text_block(text, username, title="Unknown"):
     lines = text.split("\n")
     cleaned = []
     for line in lines:
-        if line.startswith("#"):
-            cleaned.append(f"\n{line.strip()}\n")
-            continue
+        stripped = line.strip()
+
+        # Stop completely when we hit footer elements or right rail
+        if "Accessibility" == stripped or "Select language" == stripped:
+            break
+        if stripped.startswith("People who follow "):
+            break
+        if "People you may know" in stripped:
+            break
+        if "Others named " in stripped:
+            break
+
+        if title == "Main Profile & About":
+            if stripped in ["Featured", "Activity", "Experience", "Education", "Licenses & certifications", "Skills", "Recommendations", "Volunteering"]:
+                break
+
+        # Ignore noisy lines defined in is_noise_line
         if is_noise_line(line, username):
             continue
-        stripped = line.strip()
-        if stripped:
-            if cleaned and cleaned[-1] != "" and not cleaned[-1].startswith("#"):
-                cleaned.append("")
-            cleaned.append(stripped)
-            cleaned.append("")
 
-    final_cleaned = []
-    for line in cleaned:
-        if line == "" and (not final_cleaned or final_cleaned[-1] == ""):
+        # Ignore UI artifacts (reactions, comments, alone dot)
+        if stripped == "Â·" or stripped == "Ã¢â‚¬Â¢" or stripped == "\u2022":
             continue
-        final_cleaned.append(line)
-    return "\n".join(final_cleaned).strip()
+        if ", number of reactions" in stripped:
+            continue
+        if "comments Â·" in stripped and "reposts" in stripped:
+            continue
 
+        # Append lines, preserving natural blank lines
+        if stripped:
+            cleaned.append(stripped)
+        else:
+            # Only add a blank line if the previous line wasn't blank
+            if cleaned and cleaned[-1] != "":
+                cleaned.append("")
+
+    # Final pass to ensure no double blanks and clean edges
+    final_text = "\n".join(cleaned).strip()
+    return final_text
 
 def login():
     with sync_playwright() as p:
@@ -238,6 +317,8 @@ def login():
 
 
 def get_main_text(page):
+    if page.locator("div.scaffold-layout__main").count() > 0:
+        return page.locator("div.scaffold-layout__main").inner_text()
     if page.locator("main").count() > 0:
         return page.locator("main").inner_text()
     return page.inner_text("body")
@@ -300,15 +381,15 @@ def scrape_posts(page, username):
                 all_posts.append(post)
                 if len(all_posts) == 20:
                     break
-                    
+
         if len(all_posts) == 20:
             break
 
         human_scroll(page)
 
-    posts_content = f"# 🗂️ Cleaned Posts for {username} (Found {len(all_posts)})\n\n"
+    posts_content = f"# ðŸ—‚ï¸ Cleaned Posts for {username} (Found {len(all_posts)})\n\n"
     for i, post in enumerate(all_posts, 1):
-        posts_content += f"### 📝 Post {i}\n────────────────────────────────────────\n{post}\n\n\n"
+        posts_content += f"### ðŸ“ Post {i}\nâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€\n{post}\n\n\n"
 
     with open(posts_path, "w", encoding="utf-8") as f:
         f.write(posts_content)
@@ -317,11 +398,10 @@ def scrape_posts(page, username):
 
 
 def scrape_profile_details(page, username):
-    details_content = f"# Detailed Profile: {username}\n\n"
+    details_content = f"# ðŸ§‘â€ðŸ’¼ Detailed Profile: {username}\n\n"
     sections = [
         ("Main Profile & About", f"https://www.linkedin.com/in/{username}/"),
         ("Experience", f"https://www.linkedin.com/in/{username}/details/experience/"),
-        ("Featured", f"https://www.linkedin.com/in/{username}/details/featured/"),
         ("Recommendations (Received)", f"https://www.linkedin.com/in/{username}/details/recommendations/?detailScreenTabIndex=0"),
     ]
 
@@ -333,8 +413,12 @@ def scrape_profile_details(page, username):
         status, raw, error = navigate_and_extract(page, url, scrolls=PROFILE_SCROLLS)
         section_statuses[title] = status
         if status == "ok":
-            cleaned = clean_text_block(raw, username)
-            details_content += f"## {title}\n{cleaned}\n\n"
+            cleaned_text = clean_text_block(raw, username, title)
+            if cleaned_text:
+                details_content += f"==================================================\n"
+                details_content += f"## ðŸ“Œ {title}\n"
+                details_content += f"==================================================\n\n"
+                details_content += f"{cleaned_text}\n\n"
         elif status == "auth_blocked":
             raise AuthBlockedError(f"LinkedIn login/session blocked while scraping {title} for {username}. Run --login again.")
         else:
@@ -348,13 +432,16 @@ def scrape_profile_details(page, username):
     return section_statuses, False, errors
 
 
-def scrape():
+def scrape(single_user=None):
     if not os.path.exists(AUTH_STATE_FILE):
         print("Please run with --login first.")
         return
 
-    with open(EXPERTS_FILE, "r", encoding="utf-8") as f:
-        usernames = json.load(f)
+    if single_user:
+        usernames = [single_user]
+    else:
+        with open(EXPERTS_FILE, "r", encoding="utf-8") as f:
+            usernames = json.load(f)
 
     os.makedirs(os.path.join("research", "linkedin-posts"), exist_ok=True)
     os.makedirs(os.path.join("research", "other"), exist_ok=True)
@@ -406,11 +493,12 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--login", action="store_true")
     parser.add_argument("--scrape", action="store_true")
+    parser.add_argument("--user", type=str, help="Scrape a single specific username")
     args = parser.parse_args()
 
     if args.login:
         login()
-    elif args.scrape:
-        scrape()
+    elif args.scrape or args.user:
+        scrape(single_user=args.user)
     else:
-        print("Please specify --login or --scrape")
+        print("Please specify --login, --scrape, or --user <username>")

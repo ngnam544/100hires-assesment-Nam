@@ -98,16 +98,10 @@ Discovery only. Transcripts not pulled.
 
 | Title | Channel | URL | Publish Date |
 | --- | --- | --- | --- |
-| The Communards - Don't Leave Me This Way (with Sarah Jane Morris) [Official Video] | London Records | https://www.youtube.com/watch?v=1RHBAd5YUR8 | 8 years ago |
 | Dev Community in the Age of AI: How Human Connection is More Important than Ever | Sarah-Jane Morris | https://www.youtube.com/watch?v=-3_FFGRRF5U | 4 months ago |
 | Introduction to Listen Community Consulting | Sarah Jane (SJ) Morris | https://www.youtube.com/watch?v=gn_Gmwvs86g | 7 years ago |
 | ForwardJS Ottawa 2019: Sarah-Jane Morris - Building Inclusive Developer Experiences | Sarah Jane (SJ) Morris | https://www.youtube.com/watch?v=0D0dF_Ko5u4 | 7 years ago |
-| Sarah Jane Morris x RB Funkestra \| Glorious Fool \| Masterlink Sessions \| John Martyn cover | Redtenbacher's Funkestra | https://www.youtube.com/watch?v=_tTEB0iuQ20 | 6 years ago |
-| Sarah Jane Morris & Tony Remy - Imagine [Official Video] | Common and Kind | https://www.youtube.com/watch?v=FRjk0B3XmPM | 9 years ago |
-| The Communards - Don't Leave Me This Way | Jimmy Somerville OFFICIAL | https://www.youtube.com/watch?v=uxk7aSCLj4g | 12 years ago |
 | Bridging the Gap: Inclusive Community Engagement Strategies | Sarah-Jane Morris | https://www.youtube.com/watch?v=Qtd-ElkXqD0 | 9 years ago |
-| Sarah Jane Morris Carpet Interview at Step Up's 2023 Inspiration Awards | LRM Online | https://www.youtube.com/watch?v=TIrs9t5OSAU | 2 years ago |
-| Sarah Jane Morris & Mario Biondi "Back Together Again" Micky More & Andy Tee 12" DISCO Mix | Groove Culture Music | https://www.youtube.com/watch?v=aHPrLUZiceY | 4 months ago |
 
 ## Marius Ciortea
 
@@ -116,7 +110,6 @@ Discovery only. Transcripts not pulled.
 | The Benefits of Developing A Community Strategy with Marius Ciortea | CMX | https://www.youtube.com/watch?v=Yh6MYGF5FtM | 4 years ago |
 | Community is a Brand We All Are Responsible For \| Marius Ciortea | CMX | https://www.youtube.com/watch?v=scPWEOPqXls | 4 years ago |
 | Marius Ciortea Live Stream | Marius Ciortea | https://www.youtube.com/watch?v=NvjM1jO8VUc | Streamed 9 years ago |
-| Oracle FY11 Strategy: Marius Ciortea | oracleonthego | https://www.youtube.com/watch?v=jAkPOBvntXc | 15 years ago |
 | Trends in Tech: CCO of IBM | Clocktower Advisors | https://www.youtube.com/watch?v=EFNLqA4Pxy0 | Streamed 1 year ago |
 | CMX Summit Interview Series | The Community Collective | https://www.youtube.com/watch?v=vRAs4872-ME | 3 weeks ago |
 | CMX Summit Interview Series | The Community Collective | https://www.youtube.com/watch?v=bDYuO8E11dg | 3 weeks ago |

@@ -2,7 +2,7 @@
 expert_name: Brian Oblinger
 video_title: How Community Helps to Boost Retention and Lower Costs | Community ROI with Brian Oblinger
 publish_date: 1 year ago
-source_channel: 
+source_channel: Communiverse and Humans of Business
 appearance: guest appearance
 source_url: https://www.youtube.com/watch?v=KTlBr_oMNn4
 transcript_language: en
