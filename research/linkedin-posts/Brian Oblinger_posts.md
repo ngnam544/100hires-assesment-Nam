@@ -1,8 +1,8 @@
-﻿# Cleaned Posts for brianoblinger (Found 20)
+# Cleaned Posts for brianoblinger (Found 20)
 
 ### Post 1
 ---
-Headlines vs. Trendlines ðŸ§
+Headlines vs. Trendlines 🧐
 
 In speaking to Customer Success, Education, and Community leaders last week at Gainsight Pulse, I was reminded once more that there's a big gulf between our echo chambers and the truth on the ground.
 
@@ -38,7 +38,7 @@ Be more like Tiff.
 
 ### Post 3
 ---
-Your traffic didn't die. It moved into a blind spot. ðŸ™ˆ
+Your traffic didn't die. It moved into a blind spot. 🙈
 
 Here's the deal:
 
@@ -52,7 +52,7 @@ It's only a matter of time until AI companies productize analytics tools and we'
 
 Until then, it's on all of us to make sure that we are educating leaders about what's (likely) happening and what we're doing about it.
 
-Hint: Stop talking about volume. Start talking about value. ðŸ’°
+Hint: Stop talking about volume. Start talking about value. 💰
 
 I'll be on the Digital Center Stage tomorrow at Gainsight Pulse talking about how to reframe the value of community & education and reorient strategies to avoid this trap.
 
@@ -63,7 +63,7 @@ The best Advocacy programs are small, exclusive, and insanely valuable.
 
 We're often so focused on scaling the number of advocates in our programs that we dilute the thing that made them valuable in the first place: a sense that they earned something rare/valuable/differentiating.
 
-It's counter-intuitive to how most organizations think about it â€” a numbers game where the only measures of success are # Cumulative Advocates and # Reference Calls. Those programs lack depth, sustainability, and long-term strategic value.
+It's counter-intuitive to how most organizations think about it — a numbers game where the only measures of success are # Cumulative Advocates and # Reference Calls. Those programs lack depth, sustainability, and long-term strategic value.
 
 The programs that build fans for life are small, meritocratic, and over-deliver on value before they ever ask for anything. Companies like Salesforce, Microsoft, Tableau, and Freshworks treat advocates like the VIPs that they are, not another number in the reference call merry-go-round.
 
@@ -95,7 +95,7 @@ Customers:
 
 ### Post 7
 ---
-...as if millions of annoying Slack admins suddenly cried out in terror and were suddenly silenced. ðŸ¤«â˜¾
+...as if millions of annoying Slack admins suddenly cried out in terror and were suddenly silenced. 🤫☾
 
 Slack's Focus Mode is a game-changer for everyone logged into a bunch of workspaces that constantly use @channel to circumvent members' mute and notification preferences.
 
@@ -123,7 +123,7 @@ Everything else is noise.
 
 3. It's not that relevant in the scope of Enterprise B2B SaaS communities. It's a retail brand that rightfully chose to maximize the channels where their customers hang out today. Private B2B customer communities built around enablement, support, education, events, ideation, and advocacy programs aren't moving to public subreddits, X, and Threads.
 
-A client of mine â€” a consumer services company that you know and probably love â€” just moved their massive community off of social channels to an owned on-domain platform. Zero ink spilled. No "I told you so." Not a single "social platforms are so over."
+A client of mine — a consumer services company that you know and probably love — just moved their massive community off of social channels to an owned on-domain platform. Zero ink spilled. No "I told you so." Not a single "social platforms are so over."
 
 Be careful about extrapolating one situation into something larger than it probably is.
 
@@ -143,7 +143,7 @@ What's the value of your community?
 
 ### Post 11
 ---
-People-Powered Pillars ðŸ‘¥
+People-Powered Pillars 👥
 
 The future of community & customer marketing strategy is tripling-down on delivering experiences that AI can't.
 
@@ -166,11 +166,11 @@ When AI fatigue hits hard, what makes you a port in the storm?
 
 The answer: invest in customer-focused programs that create trust, differentiation, and a strategic value that your competitors can't copy with a fancy agent.
 
-This is the approach I'm all-in on, and so are my clients â€”Â many of the most admired, focused, and impactful brands in the world.
+This is the approach I'm all-in on, and so are my clients — many of the most admired, focused, and impactful brands in the world.
 
 You can start today, or watch an enlightened competitor take all of your customers while you wait for AI to solve all of your problems.
 
-Power to the people. â™¥ï¸
+Power to the people. ♥️
 
 Send a DM to learn more.
 
@@ -182,7 +182,7 @@ Oh.
 
 ### Post 13
 ---
-Fear. Uncertainty. Doubt. ðŸ’€
+Fear. Uncertainty. Doubt. 💀
 
 Such were the predominant vibes among community builders at CMX Summit 2026 last week.
 
@@ -192,43 +192,43 @@ Here are the themes I picked up on and how to think about them:
 
 _______________
 
-ðŸ’” The Feeling â€” "AI is killing communities!"
+💔 The Feeling — "AI is killing communities!"
 
-ðŸ¤” The Reality â€” AI is probably killing a very specific type of community use case around peer support discussions. While the deflection model undergoes disruption, there are plenty of other value drivers for community builders to lean on (local events, product ideation, and advocacy, to name a few).
+🤔 The Reality — AI is probably killing a very specific type of community use case around peer support discussions. While the deflection model undergoes disruption, there are plenty of other value drivers for community builders to lean on (local events, product ideation, and advocacy, to name a few).
 
 It's time to alter our strategies, not give up.
 
 It's also time to educate leadership about the realities of AI and how it is impacting communities so that they don't accept the uninformed ice cold takes from LinkedIn bros.
 
-We should be focused on delivering people-powered experiences that AI canâ€™t. Community is a moat.
+We should be focused on delivering people-powered experiences that AI can’t. Community is a moat.
 
-âœ¨ Arm yourself/your leadership â€” https://lnkd.in/gdTBnaYP
+✨ Arm yourself/your leadership — https://lnkd.in/gdTBnaYP
 
 _______________
 
-ðŸ’” The Feeling â€” "AEO/GEO is a paradigm shift for content!"
+💔 The Feeling — "AEO/GEO is a paradigm shift for content!"
 
-ðŸ¤” The Reality â€” Not really. It's SEO 2.0. There are some core changes in how we think about structure, frequency, and modality, but fundamentally it's the same concepts we've been chasing for decades. Focus on creating high-quality, differentiated, expert content and make sure it's available for LLMs to consume.
+🤔 The Reality — Not really. It's SEO 2.0. There are some core changes in how we think about structure, frequency, and modality, but fundamentally it's the same concepts we've been chasing for decades. Focus on creating high-quality, differentiated, expert content and make sure it's available for LLMs to consume.
 
 If AI is as amazing as the bros say, shouldn't it figure out how to surface our stuff whether we optimize or not? Don't overthink it.
 
 One concrete piece of advice is that keeping a store of old, outdated content probably isn't a best practice like it was before. It's time to think about culling the cruft and optimizing for the now to avoid confusing/wrong generative answers.
 
-âœ¨ Content is still Queen â€” https://lnkd.in/gWvxeFwf
+✨ Content is still Queen — https://lnkd.in/gWvxeFwf
 
 _______________
 
-ðŸ’” The Feeling â€” "This is all happening NOW," "You are already behind," "The war has long been lost," "Your job is already gone," "It's time to panic!!!!!!"
+💔 The Feeling — "This is all happening NOW," "You are already behind," "The war has long been lost," "Your job is already gone," "It's time to panic!!!!!!"
 
-ðŸ¤” The Reality â€” Nope. That person sitting next to you at the event doesn't have it all figured out either. Nor do the people trying to project here that they do. You can largely ignore anyone with that posture.
+🤔 The Reality — Nope. That person sitting next to you at the event doesn't have it all figured out either. Nor do the people trying to project here that they do. You can largely ignore anyone with that posture.
 
 AI is going to be transformative and you should not sleep on it at all, but we are at the beginning of the journey. If you're reading this post, playing around with ChatGPT/Claude/Gemini, and thinking about how your strategy needs to change, you're in the right pocket.
 
-âœ¨ More on how to process this all â€” https://lnkd.in/gbp4dyjA
+✨ More on how to process this all — https://lnkd.in/gbp4dyjA
 
 _______________
 
-Just keep going. ðŸ™Œ
+Just keep going. 🙌
 
 
 ### Post 14
@@ -239,7 +239,7 @@ A decade ago, Holly Firestone, Lauren Uyeno, Tuvy LeLipski, Madeline Johannsen, 
 
 It's a bit of a 'Back To The Future' situation today. Customers want to meet local peers, learn from each others' successes, and build their networks without an LLM in the way. The realness of those moments and the impact they drive simply can't be replicated by a chatbot. And so, we ride again.
 
-I'll be on stage at CMX Summit 2026 today â€” standing on the shoulders of Holly, Lauren, Tuvy, and Maddie â€” delivering expertise, learnings, and frameworks to community builders and customer marketers that will build the next generation of local meetup programs.
+I'll be on stage at CMX Summit 2026 today — standing on the shoulders of Holly, Lauren, Tuvy, and Maddie — delivering expertise, learnings, and frameworks to community builders and customer marketers that will build the next generation of local meetup programs.
 
 Brazenly steal my slides here: brianoblinger.com/slides
 
@@ -261,7 +261,7 @@ Customer Marketers and Community teams that are focusing on people-first program
 
 I'll be onstage at CMX Summit 2026 on Thursday delivering a workshop to help attendees develop modern local meetups strategies: https://lnkd.in/gZe_i9F8
 
-Sessions aren't being recorded this year, so comment below â€” I'll send you the slides and event planning framework.
+Sessions aren't being recorded this year, so comment below — I'll send you the slides and event planning framework.
 
 
 ### Post 16
@@ -270,12 +270,12 @@ The flywheel only works if community is connected to the rest of the business.
 
 At its best, community creates a compounding loop:
 
-âž¡ï¸ Educated customers close faster and expand deeply
-âž¡ï¸ They are more satisfied and become advocates
-âž¡ï¸ Advocacy attracts more customers
-âž¡ï¸ More customers justify more investment
-âž¡ï¸ Investment improves the community
-ðŸ” Repeat
+➡️ Educated customers close faster and expand deeply
+➡️ They are more satisfied and become advocates
+➡️ Advocacy attracts more customers
+➡️ More customers justify more investment
+➡️ Investment improves the community
+🔁 Repeat
 
 The organizations that are truly leveraging community as a strategic advantage treat community insights like product telemetry: systematically collected, widely distributed, and tied to decisions across the org.
 
@@ -308,7 +308,7 @@ A team sits on demo calls, evaluates feature sets, checks pricing, and picks a v
 
 A few things worth evaluating beyond features:
 
-+ Where is the vendor's roadmap going â€” and does it align with where your community is going?
++ Where is the vendor's roadmap going — and does it align with where your community is going?
 
 + Are they building for your use case or for a different market segment?
 
@@ -331,7 +331,7 @@ Is your community structured to produce the right outcomes? Can you measure it?
 
 ### Post 20
 ---
-We've been asking the wrong question ðŸ¤”
+We've been asking the wrong question 🤔
 
 AI-forward community & customer marketing strategy isn't about cramming AI into every experience. The better, more impactful path is to invest in people-powered programs that AI can't deliver:
 
@@ -347,6 +347,6 @@ AI-forward community & customer marketing strategy isn't about cramming AI into 
 
 I'll be onstage today at Community Week Online 2026 to uncover why your metrics are lying to you, how to build a programmatic counterweight to AI fatigue, and what it actually means to operate with AI while differentiating with humans.
 
-ðŸŽŸï¸ See you there: https://lnkd.in/gTMwBfAs
+🎟️ See you there: https://lnkd.in/gTMwBfAs
 
-ðŸ“² Download my slides here: https://lnkd.in/gdTBnaYP
+📲 Download my slides here: https://lnkd.in/gdTBnaYP

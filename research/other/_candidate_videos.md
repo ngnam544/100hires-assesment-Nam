@@ -62,20 +62,20 @@ Discovery only. Transcripts not pulled.
 | The Power of Community in Education & Enablement  \| Joshua Zerkel, Asana | Tango | https://www.youtube.com/watch?v=qY2H4mzm2XM | 2 years ago |
 | 01: Asana's Joshua Zerkel On Running a Productive and Efficient Remote Team | Marquis Murray | https://www.youtube.com/watch?v=ou_PUvP65XQ | 5 years ago |
 | The Blueprint for Community Reporting that gets Buy-in w/ Joshua Zerkel | Community Inc. | https://www.youtube.com/watch?v=nnzY5fpeIRo | 1 year ago |
-| Asanaâ€™s Joshua Zerkel on How to Build a B2B Community with a B2C Feel | Influitive | https://www.youtube.com/watch?v=pXel4_LW_z0 | 3 years ago |
+| Asana’s Joshua Zerkel on How to Build a B2B Community with a B2C Feel | Influitive | https://www.youtube.com/watch?v=pXel4_LW_z0 | 3 years ago |
 
 ## Holly Firestone
 
 | Title | Channel | URL | Publish Date |
 | --- | --- | --- | --- |
 | Return on Community with Holly Firestone (fmr Atlassian, Salesforce, Venifi) | Common Room | https://www.youtube.com/watch?v=ZPeMwkj5FJY | 2 years ago |
-| Holly Firestone â€“ Swarm 2020 â€“ Community Engagement: From a Small Flame to a Raging Fire | Australian Community Managers | https://www.youtube.com/watch?v=mXgdhx658HY | 5 months ago |
+| Holly Firestone – Swarm 2020 – Community Engagement: From a Small Flame to a Raging Fire | Australian Community Managers | https://www.youtube.com/watch?v=mXgdhx658HY | 5 months ago |
 | Community Life #4 with Holly Firestone | Communiverse | https://www.youtube.com/watch?v=k_8IkqZCRy8 | 3 years ago |
 | The What, Why, and How of Customer Communities with Venafi Head of Community Holly Firestone | SaaStr AI | https://www.youtube.com/watch?v=fl9r_UfpzSA | Streamed 5 years ago |
 | Getting Executive Buy-In \| Holly Firestone, Jeff Hudson, Beth McIntyre | CMX | https://www.youtube.com/watch?v=yQQPwBu-amc | 4 years ago |
 | Enterprise Communities: The What, Who, Why, When & How \| @VenafiCo Head of Community Holly Firestone | SaaStr AI | https://www.youtube.com/watch?v=CHV_GUO_FZw | 4 years ago |
 | OPS TOP DOGS presentation with Holly Firestone | Community OPServations | https://www.youtube.com/watch?v=gSS1jw7PapI | 4 years ago |
-| dreamOlÃ© '18 - ENG - Opening Keynote with Holly Firestone | dreamOlÃ© | https://www.youtube.com/watch?v=p2Gd5e7gTjw | 8 years ago |
+| dreamOlé '18 - ENG - Opening Keynote with Holly Firestone | dreamOlé | https://www.youtube.com/watch?v=p2Gd5e7gTjw | 8 years ago |
 | CMX Summit 2025 - Ready, Set, Go: The Winning Balance Between Speed and Precision | CMX | https://www.youtube.com/watch?v=Yy90eUwyYE0 | 1 year ago |
 | India Dreamin '17 Keynote Speaker \| Salesforce Ohana - A Force to be Reckoned With \| Holly Firestone | India Dreamin | https://www.youtube.com/watch?v=56W0rwZLEaA | 8 years ago |
 

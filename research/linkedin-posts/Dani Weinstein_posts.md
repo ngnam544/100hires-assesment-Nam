@@ -1,4 +1,4 @@
-﻿# Cleaned Posts for daniweinstein (Found 20)
+# Cleaned Posts for daniweinstein (Found 20)
 
 ### Post 1
 ---
@@ -18,7 +18,7 @@ Very impressed with the
 Highlights begin with the
 #humanconnection and running into folks I wasn't expecting to run into at this event. Christopher Detzel my fellow pro from the "big D" it was so good to spend quality time with you and introduce each other to our combined network. Jay Nathan where has the time gone amigo and who knew you were going to introduce me to my neighbor Andrew Marks.
 
-Jenny Weigle-Bonds our The Community Community MC. Glad we got to hug each other after so long. Thank you for helping make this a great event for all of us! And a reminder to be careful handing my phone over to you ðŸ˜Ž!
+Jenny Weigle-Bonds our The Community Community MC. Glad we got to hug each other after so long. Thank you for helping make this a great event for all of us! And a reminder to be careful handing my phone over to you 😎!
 
 The event kicked off with a very impressive AI generated movie starring Chuck Ganapathi, Erica Kuhl, Ori Entis which highlighted the opportunities to unlock the hidden treasures and long tail of customer success. The announcements on MCP and delivering unified experiences of
 #community and
@@ -61,7 +61,7 @@ Arrived in Las Vegas after a lovely lunch with Briana McDougall. All checked in 
 #Pulse2026 conference. Yes, we got our
 #community t-shirts!
 
-Iâ€™m looking forward to many great discussions over the next few days on
+I’m looking forward to many great discussions over the next few days on
 #community
 #customersuccees
 #customerjourneys and how we bring great value to our customers and the business. Yes
@@ -103,7 +103,7 @@ Yurii Lazaruk & Community ROI thanks for the shout out. Yes this us the one of t
 ---
 Great event yesterday in
 #sanfrancisco with Kaltura and the
-#KalturaConnect road show. A reunion of sorts getting to see again Ron Yekutiel ðŸ”…Dror Dotan Zohar Babin Eynav (Navi) Azaria Liad Eshkar Steven Wells Robert Schiller Sam Thompson Gonzalo Wynter Lilach Dahan
+#KalturaConnect road show. A reunion of sorts getting to see again Ron Yekutiel 🔅Dror Dotan Zohar Babin Eynav (Navi) Azaria Liad Eshkar Steven Wells Robert Schiller Sam Thompson Gonzalo Wynter Lilach Dahan
 
 Shout out to Ruthie Eisenberg for the invite!
 
@@ -156,7 +156,7 @@ Joshua Zerkel, CPO delivered a great session on why
 
 Aaron Weiss is crushing it with his summer of love wardrobe and
 #AI hottake series. So good to share my thoughts on
-#ai and catch up on life. I see more collaboration in the near future. Let's book a â›³ tee time soon.
+#ai and catch up on life. I see more collaboration in the near future. Let's book a ⛳ tee time soon.
 
 DeMario Bell reminded us all that without
 #strategy and a solid plan we may simply be spinning wheels.
@@ -164,19 +164,19 @@ DeMario Bell reminded us all that without
 Team Higher Logic Meredith Estremo Steven King Nicole Saunders Ashleigh A Brookshaw, M.A., CSPO,CSM so good to chat with each of you on
 #community! Marius Ciortea appreciate you brother and thanks again for spoiling us!
 
-Jon Wishart so good to see you. Team Gainsight happy hour, the bottle of red ðŸ· served was off the charts. See you all in Vegas at Pulse!
+Jon Wishart so good to see you. Team Gainsight happy hour, the bottle of red 🍷 served was off the charts. See you all in Vegas at Pulse!
 
-Jamie Johnston been too long and you are still crushing it at Spotify. Looking forward to seeing you in July in my â€˜hoodÂ when you take the family rafting.
+Jamie Johnston been too long and you are still crushing it at Spotify. Looking forward to seeing you in July in my ‘hood when you take the family rafting.
 
 Alex Eckhart Deborah Lilley so good to sync up on the market, lunch soon in the foothills Alex!
 
-Paz Pisarski ðŸµ great â˜• meetup at Sana, it was sorely needed that morning. Such a good crowd and energy to kick off CMX
+Paz Pisarski 🏵 great ☕ meetup at Sana, it was sorely needed that morning. Such a good crowd and energy to kick off CMX
 
-Team CMX Derek Andersen Margaux Miller ðŸŽ¤ Catharina Nilsson thanks for organizing an amazing event!! Did someone say ðŸŽ¤ karaoke? Nicole Saunders is ready to go on The Voice!
+Team CMX Derek Andersen Margaux Miller 🎤 Catharina Nilsson thanks for organizing an amazing event!! Did someone say 🎤 karaoke? Nicole Saunders is ready to go on The Voice!
 
-Tightknit team Zach & David great seeing you both and thank you for the daily â˜• ðŸ¥¯ ðŸ© breakfast and vibe.
+Tightknit team Zach & David great seeing you both and thank you for the daily ☕ 🥯 🍩 breakfast and vibe.
 
-Great conversations with Jessica Falkenthal Chris Heuer Nisha Baxi Jacob Gross Kaily B Veronica (Vero) Heino Stephanie Nakano Natalia LeMoyne HernÃ¡ndez, M.Ed. Regina W. Gal Biran Michael Puhala Sunny Prabhakar
+Great conversations with Jessica Falkenthal Chris Heuer Nisha Baxi Jacob Gross Kaily B Veronica (Vero) Heino Stephanie Nakano Natalia LeMoyne Hernández, M.Ed. Regina W. Gal Biran Michael Puhala Sunny Prabhakar
 
 If I missed u at CMX or want to chat please book time on my website. See comments.
 
@@ -198,10 +198,10 @@ Startup Grind conference has delivered some really good networking and quite a n
 Aaron Weiss crushed it yesterday with his
 #AI takes tour and honored to get my 60 seconds on his show. Great to meet Mike Adams and looking forward to the podcast and meet up of super connectors in San Francisco in June.
 
-Margaux Miller ðŸŽ¤is setting the bar even higher as MC! Great running in to Damon Moon and looking forward to collaborating with you on
+Margaux Miller 🎤is setting the bar even higher as MC! Great running in to Damon Moon and looking forward to collaborating with you on
 #community
 
-Always good to see Richard Millington Paz Pisarski ðŸµ Derek Andersen Guy Horowitz Christina Nguyen Blue
+Always good to see Richard Millington Paz Pisarski 🏵 Derek Andersen Guy Horowitz Christina Nguyen Blue
 
 Looking forward to following up with so many new connections
 
@@ -244,12 +244,12 @@ It was an honor to chat with David Nebinski on the
 #CLGNYC event last month.
 
 Here are some of the top ideas from the podcast episode:
-1. Digital burnout is driving a resurgence of in-person events:Â People are exhausted by purely digital engagement. High-quality, intimate in-person gatherings are where authentic conversations and real connections happen now.
-2. Communityâ€™s value must be translated into executive language:Â Most community professionals can speak to metrics like traffic and engagement, but the real skill is connecting community outcomes to what executives care about. Without that translation, community programs are vulnerable to budget cuts or leadership changes.
-3. The B2B community value proposition is peer-to-peer learning:Â In enterprise settings, customers donâ€™t want training classes or sales pitches, they want to connect with peers who have the same job title and challenges. Community fills that role by democratizing practical knowledge.
-4. AI should enhance community, not replace human connection:Â Rather than fearing AI, community leaders should embrace it operationally while being intentional about preserving the human elements that make community valuable in the first place.
-5. Community-led growth = trust + evidence of support:Â Companies grow when potential customers see a living, active community around a product. It signals that the brand cares, that peers are available for help, and that power users have a voice in shaping the product.
-6. The job market for community professionals is choppy, fractional/consulting could be the path forward:Â Layoffs are hitting community teams hard, even as the need for community grows. Experienced practitioners are finding opportunity in fractional and advisory roles rather than traditional W2 positions. At early stage startups, there is growing interest for events and community building.
+1. Digital burnout is driving a resurgence of in-person events: People are exhausted by purely digital engagement. High-quality, intimate in-person gatherings are where authentic conversations and real connections happen now.
+2. Community’s value must be translated into executive language: Most community professionals can speak to metrics like traffic and engagement, but the real skill is connecting community outcomes to what executives care about. Without that translation, community programs are vulnerable to budget cuts or leadership changes.
+3. The B2B community value proposition is peer-to-peer learning: In enterprise settings, customers don’t want training classes or sales pitches, they want to connect with peers who have the same job title and challenges. Community fills that role by democratizing practical knowledge.
+4. AI should enhance community, not replace human connection: Rather than fearing AI, community leaders should embrace it operationally while being intentional about preserving the human elements that make community valuable in the first place.
+5. Community-led growth = trust + evidence of support: Companies grow when potential customers see a living, active community around a product. It signals that the brand cares, that peers are available for help, and that power users have a voice in shaping the product.
+6. The job market for community professionals is choppy, fractional/consulting could be the path forward: Layoffs are hitting community teams hard, even as the need for community grows. Experienced practitioners are finding opportunity in fractional and advisory roles rather than traditional W2 positions. At early stage startups, there is growing interest for events and community building.
 
 #communityledgrowth
 #leadership

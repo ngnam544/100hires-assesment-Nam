@@ -1,4 +1,4 @@
-﻿# Detailed Profile: sjmorris
+# Detailed Profile: sjmorris
 
 ==================================================
 ## Main Profile & About
@@ -33,11 +33,11 @@ I've spent 20+ years in developer relations, community strategy, and programs th
 The definition of "developer" is changing, and I'm here for it. Technical customers, new builders, people figuring out the AI shift. There's room for all you.
 
 I'll never stop wanting tech to be more accessible, more collaborative, and more inspiring. We have a real opportunity to do that together right now.
-â€¦ more
+… more
 
 Top skills
 
-Developer Community â€¢ Community â€¢ Community Engagement â€¢ Event Planning â€¢ Content Strategy
+Developer Community • Community • Community Engagement • Event Planning • Content Strategy
 
 ==================================================
 ## Experience
@@ -47,11 +47,11 @@ Experience
 
 Head of Community | Builder Growth
 
-HubSpot Â· Full-time
+HubSpot · Full-time
 
-Feb 2022 - Present Â· 4 yrs 5 mos
+Feb 2022 - Present · 4 yrs 5 mos
 
-Brooklyn, New York, United States Â· Remote
+Brooklyn, New York, United States · Remote
 
 At HubSpot, I build, action and lead our builder and dev community strategy as a cross-functional capability, for an exponentially growing mix of builders, partners, and problem solvers.
 
@@ -71,9 +71,9 @@ Founder and Principal Consultant
 
 Listen Community Consulting
 
-Jan 2019 - Present Â· 7 yrs 6 mos
+Jan 2019 - Present · 7 yrs 6 mos
 
-Brooklyn, New York, United States Â· Remote
+Brooklyn, New York, United States · Remote
 
 Listen Community Consulting is a developer community growth consultancy that helps companies build active, engaged, and inclusive developer communities by starting with deep listening and baseline research, then translating insights into practical strategy and execution across programs, content, events, and online community
 
@@ -81,9 +81,9 @@ Community Building, Developer Community and +3 skills
 
 Co-host, Community Pulse
 
-Community Pulse Podcast Â· Part-time
+Community Pulse Podcast · Part-time
 
-Dec 2019 - Apr 2022 Â· 2 yrs 5 mos
+Dec 2019 - Apr 2022 · 2 yrs 5 mos
 
 Community Pulse is the monthly podcast for community managers and developer evangelists who are looking for information on community building. Community Builders Jason Hand, Mary Thengvall, PJ Hagerty, Sarah-Jane Morris and Wesley Faulkner interview experts in the field of Community Leadership and Management on a broad range of topics related to building community.
 
@@ -93,9 +93,9 @@ Community Pulse is the spot for Developer Relations and Community professionals 
 
 Senior Manager, Development Community
 
-Mailchimp Â· Full-time
+Mailchimp · Full-time
 
-Jan 2021 - Jan 2022 Â· 1 yr 1 mo
+Jan 2021 - Jan 2022 · 1 yr 1 mo
 
 New York, United States
 
@@ -106,18 +106,18 @@ Defining Developer Relations and growing the developer community at Mailchimp!
 
 Empowering developers to empower the underdog | Mailchimp Developer
 
-Introducing â€œMailchimp Engineering,â€ a space to elevate developer stories
+Introducing “Mailchimp Engineering,” a space to elevate developer stories
 
 Senior Program Manager/Developer Community & Content Lead, Developer Relations
 
-HubSpot Â· Full-time
+HubSpot · Full-time
 
-Nov 2019 - Nov 2020 Â· 1 yr 1 mo
+Nov 2019 - Nov 2020 · 1 yr 1 mo
 
 Greater Boston
 
-At HubSpot, Sarah Jane developed and lead community-driven programs to facilitate increased developer trust, loyalty and advocacy.  She identified developer community gaps and nurtured the creation and growth of connective tissue between HubSpotâ€™s developer community channels
-. Examples include the launch of the HubSpot Developer Blog, HubSpotâ€™s virtual developer event series, and an internal newsletter designed to rally internal awareness of developers at HubSpot, as well as co-leading HubSpotâ€™s Developer NPS program, developing and reporting on C-level developer engagement metrics.
+At HubSpot, Sarah Jane developed and lead community-driven programs to facilitate increased developer trust, loyalty and advocacy.  She identified developer community gaps and nurtured the creation and growth of connective tissue between HubSpot’s developer community channels
+. Examples include the launch of the HubSpot Developer Blog, HubSpot’s virtual developer event series, and an internal newsletter designed to rally internal awareness of developers at HubSpot, as well as co-leading HubSpot’s Developer NPS program, developing and reporting on C-level developer engagement metrics.
 
 HubSpot's Community Developer Day, 2020
 
@@ -131,33 +131,33 @@ Developer Community Lead / Platform Events and Advocacy
 
 Shopify
 
-Jan 2017 - Dec 2018 Â· 2 yrs
+Jan 2017 - Dec 2018 · 2 yrs
 
 San Francisco, California
 
-Shopify's Platform Community team exists to attract and welcome quality developers to a world class and inclusive developer community, so they can create the best apps for our 500,000+ merchants. We do this by going where developers are - conferences, meetups, blogs and forums - to inspire them to learn more about Shopifyâ€™s platform opportunity. We also create and nurture online and offline spaces for our developers to connect and support each other. Our goal is to tap into the worldâ€™s 20 million+ software developers and educate them on how Shopify apps are an opportunity to build software for a product with a growing merchant base and 100 year+ future.
+Shopify's Platform Community team exists to attract and welcome quality developers to a world class and inclusive developer community, so they can create the best apps for our 500,000+ merchants. We do this by going where developers are - conferences, meetups, blogs and forums - to inspire them to learn more about Shopify’s platform opportunity. We also create and nurture online and offline spaces for our developers to connect and support each other. Our goal is to tap into the world’s 20 million+ software developers and educate them on how Shopify apps are an opportunity to build software for a product with a growing merchant base and 100 year+ future.
 
 developers.shopify.com
 
-Announcing the Shopify Unite Fund 2018 â€“ Shopify
+Announcing the Shopify Unite Fund 2018 – Shopify
 
-Weâ€™re thrilled to announce that the Shopify Unite Fund isÂ back and bigger than ever! This year, we'll select 10 recipients to receive airfare, accommodations, and a ticket to attend Unite in Toronto from May 7-9, 2018.Â If you identify as a member of...
+We’re thrilled to announce that the Shopify Unite Fund is back and bigger than ever! This year, we'll select 10 recipients to receive airfare, accommodations, and a ticket to attend Unite in Toronto from May 7-9, 2018. If you identify as a member of...
 
 Getting your app ready for Black Friday and Cyber Monday
 
 Learn more about Shopify, commerce apps and what you need to be ready for as traffic increases across commerce sites this holiday season.
 
-Announcing The Shopify Unite Fund: Help to Get You There â€“ Shopify
+Announcing The Shopify Unite Fund: Help to Get You There – Shopify
 
-In an effort to add perspectives and voices to our partner community that weâ€™d otherwise miss, I launched a program called The Shopify Unite Fund.
+In an effort to add perspectives and voices to our partner community that we’d otherwise miss, I launched a program called The Shopify Unite Fund.
 
 Show all 4 media
 
 Technical Writer / Developer Community Engagement
 
-Keen IO Â· Full-time
+Keen IO · Full-time
 
-Jul 2015 - Jan 2017 Â· 1 yr 7 mos
+Jul 2015 - Jan 2017 · 1 yr 7 mos
 
 San Francisco Bay Area
 
@@ -175,11 +175,11 @@ Technical Writer and Developer Community Manager
 
 Mashery (Acquired by Intel)
 
-Nov 2012 - Jun 2015 Â· 2 yrs 8 mos
+Nov 2012 - Jun 2015 · 2 yrs 8 mos
 
 San Francisco Bay Area
 
-Built, managed and supported Masheryâ€™s/Intel Masheryâ€™s (hereby referred to as Mashery) network of 342,000+ API developers and 99,000+ active applications leveraging Mashery APIs. Served as advocate for Mashery API prospects, existing Mashery API customers, Intel Technologies and the developers using them. Communicated new APIs and Intel technologies and event presence to developers via newsletter, developer blog, developer events calendars on Lanyrd, dev.mashery.com and software.intel.com. Set Developer Evangelists up to succeed with clear messaging when working with developers one on one at the 70+ hackathons and developer events attended by the Developer Platform Services team in a typical year. Sponsored, helped organized or planned 200+ hackathons and developer events since joining Mashery in 2012.
+Built, managed and supported Mashery’s/Intel Mashery’s (hereby referred to as Mashery) network of 342,000+ API developers and 99,000+ active applications leveraging Mashery APIs. Served as advocate for Mashery API prospects, existing Mashery API customers, Intel Technologies and the developers using them. Communicated new APIs and Intel technologies and event presence to developers via newsletter, developer blog, developer events calendars on Lanyrd, dev.mashery.com and software.intel.com. Set Developer Evangelists up to succeed with clear messaging when working with developers one on one at the 70+ hackathons and developer events attended by the Developer Platform Services team in a typical year. Sponsored, helped organized or planned 200+ hackathons and developer events since joining Mashery in 2012.
 
 CMX Series - Building Developer Community Through Hackathons
 
@@ -189,7 +189,7 @@ Head of Developer Relations/Community Manager
 
 Context.IO (Acquired by Return Path)
 
-Mar 2011 - Nov 2012 Â· 1 yr 9 mos
+Mar 2011 - Nov 2012 · 1 yr 9 mos
 
 Greater Montreal Metropolitan Area
 
@@ -199,7 +199,7 @@ Marketing Account Manager
 
 NVI (Acquired by iProspect)
 
-Sep 2009 - Mar 2011 Â· 1 yr 7 mos
+Sep 2009 - Mar 2011 · 1 yr 7 mos
 
 Greater Montreal Metropolitan Area
 
@@ -218,17 +218,17 @@ Given
 
 Delyn S.
 
-Â· 3rd+
+· 3rd+
 
 VP of Product Marketing | Consultant | Prev. Shopify, eBay, Atlassian, Google Cloud Platform
 
 July 22, 2019, Delyn managed Sarah Jane (SJ) directly
 
-Sarah-Jane understands developer marketing deeply. Having worked with this audience for years allows her to position developer products and programs that will resonate â€” and avoid the ones that will miss the mark. SJ also has done significant work with underrepresented groups in tech, making sure there are opportunities for talent who might otherwise not have a voice.
+Sarah-Jane understands developer marketing deeply. Having worked with this audience for years allows her to position developer products and programs that will resonate — and avoid the ones that will miss the mark. SJ also has done significant work with underrepresented groups in tech, making sure there are opportunities for talent who might otherwise not have a voice.
 
 Alex Dao
 
-Â· 3rd+
+· 3rd+
 
 Senior Staff UX Researcher at Intuit Mailchimp
 
@@ -238,7 +238,7 @@ When it comes to social media and community management Sarah-Jane has her finger
 
 Eric Amzallag
 
-Â· 3rd+
+· 3rd+
 
 Lead SEO & Search Growth
 
@@ -248,7 +248,7 @@ I've had the privilege of working with Sarah-Jane at NVI for 1.5 years on recomm
 
 Sonia Allard
 
-Â· 3rd
+· 3rd
 
 Vice President, Marketing Communications, DAC Group
 
@@ -258,17 +258,17 @@ Sarah-Jane truly and deeply CARES about her clients: she wants them to succeed! 
 
 Christina Sforza
 
-Â· 3rd+
+· 3rd+
 
 Associate Director, Digital Messaging
 
 September 29, 2009, Christina worked with Sarah Jane (SJ) on the same team
 
-Sarah â€“Jane is a dedicated and passionate professional.  Her affable and cooperative nature makes her an invaluable asset to any company. As a goal-oriented and creative individual, Sarah-Jane has been influential in pursuing many successful projects and initiatives.  It was a pleasure to have worked with her.
+Sarah –Jane is a dedicated and passionate professional.  Her affable and cooperative nature makes her an invaluable asset to any company. As a goal-oriented and creative individual, Sarah-Jane has been influential in pursuing many successful projects and initiatives.  It was a pleasure to have worked with her.
 
 Jeff Talajic
 
-Â· 3rd
+· 3rd
 
 Partner at Ecomlabs
 
@@ -278,7 +278,7 @@ Sarah-Jane is an expert when it comes to social media and online marketing. She 
 
 John van der Woude
 
-Â· 3rd+
+· 3rd+
 
 Professional Visual Designer and Independent Contractor
 
@@ -288,7 +288,7 @@ Sarah-Jane is a superstar when it comes to online social marketing. As Marketing
 
 Amanda Aitken
 
-Â· 3rd+
+· 3rd+
 
 Experienced Copywriter, Copy Editor, Marketing Content Creator and Web Designer
 
@@ -298,27 +298,27 @@ Sarah-Jane is seriously passionate about the work she does.  She has an amazing 
 
 Julia Stead
 
-Â· 3rd
+· 3rd
 
 Chief Marketing Officer | SaaS Growth Executive and Passionate People Leader
 
-May 25, 2009, Sarah Jane (SJ) was senior to Julia but didnâ€™t manage Julia directly
+May 25, 2009, Sarah Jane (SJ) was senior to Julia but didn’t manage Julia directly
 
 Sarah-Jane is an expert in online marketing and provided me with excellent training and support when I first joined Ecom Access. She has exceptional relationship-building skills and demonstrated a strong aptitude for developing strong partnerships for our company as well as exploring new methods and strategies to grow our company's profitability, especially via social media platforms.
 
 Richard Zeidel
 
-Â· 3rd+
+· 3rd+
 
 Senior GTM Executive | Scaling Enterprise Growth through AI & MarTech | 2x Founder & Former Partner
 
-March 10, 2008, Richard was senior to Sarah Jane (SJ) but didnâ€™t manage Sarah Jane (SJ) directly
+March 10, 2008, Richard was senior to Sarah Jane (SJ) but didn’t manage Sarah Jane (SJ) directly
 
 Sales and marketing are seamlessly integrated. SJ plays a fundamental role of supporting the sales team by proactively providing strategic communications support. SJ's thirst for knowledge and passion for everything interactive makes working with her a great experience.
 
 Jonathan Levitt
 
-Â· 3rd
+· 3rd
 
 CMO | VP Marketing | Growth & Digital Transformation | Retail, Ecommerce & SaaS | VC, PE & Public Company Experience
 

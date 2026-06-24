@@ -1,4 +1,4 @@
-﻿# Detailed Profile: veronicaheino
+# Detailed Profile: veronicaheino
 
 ==================================================
 ## Main Profile & About
@@ -6,7 +6,7 @@
 
 Veronica (Vero) Heino
 
-Founder & CEO, Group COCO | Comms & Public Affairs | High-stakes counsel | Impact-driven Community Builder | Speaker | Womenâ€™s Leadership Advocate
+Founder & CEO, Group COCO | Comms & Public Affairs | High-stakes counsel | Impact-driven Community Builder | Speaker | Women’s Leadership Advocate
 
 Miami, Florida, United States
 
@@ -28,9 +28,9 @@ Experience
 
 Founder & CEO
 
-Group COCO Â· Full-time
+Group COCO · Full-time
 
-2025 - Mar 2026 Â· 1 yr 3 mos
+2025 - Mar 2026 · 1 yr 3 mos
 
 Remote
 
@@ -38,19 +38,19 @@ Senior communications and public affairs advisor supporting leaders with executi
 
 Etsy
 
-Full-time Â· 4 yrs 2 mos
+Full-time · 4 yrs 2 mos
 
 Head of Corporate Affairs and Community, Director
 
-Aug 2024 - Nov 2025 Â· 1 yr 4 mos
+Aug 2024 - Nov 2025 · 1 yr 4 mos
 
-Leads a global team responsible for client marketing, community engagement, education and advocacy,  deploying programs and campaigns reaching more than 5 million businesses worldwide. She oversees client communications and community initiatives, guiding her team in designing and executing innovative programs that help entrepreneurs unlock growth, strengthen customer relationships, and scale sustainably. Her leadership and her teamâ€™s work have increased seller adoption of Etsyâ€™s tools, improved retention and satisfaction across key markets, and strengthened Etsyâ€™s reputation as a trusted growth partner to independent businesses.
+Leads a global team responsible for client marketing, community engagement, education and advocacy,  deploying programs and campaigns reaching more than 5 million businesses worldwide. She oversees client communications and community initiatives, guiding her team in designing and executing innovative programs that help entrepreneurs unlock growth, strengthen customer relationships, and scale sustainably. Her leadership and her team’s work have increased seller adoption of Etsy’s tools, improved retention and satisfaction across key markets, and strengthened Etsy’s reputation as a trusted growth partner to independent businesses.
 
-Vero is a member of Etsyâ€™s Senior Leadership Team and partners with executives across Marketing, Product, Customer Service, and Policy to ensure community insights shape decision-making and growth strategy. She also advances education and enablement programs that strengthen seller marketing and operational capabilities, and champions womenâ€™s economic empowerment by creating initiatives that elevate women-owned businesses and expand opportunities for inclusive growth.
+Vero is a member of Etsy’s Senior Leadership Team and partners with executives across Marketing, Product, Customer Service, and Policy to ensure community insights shape decision-making and growth strategy. She also advances education and enablement programs that strengthen seller marketing and operational capabilities, and champions women’s economic empowerment by creating initiatives that elevate women-owned businesses and expand opportunities for inclusive growth.
 
 Head Corporate Affairs & Impact Communication, Director
 
-Oct 2021 - Aug 2024 Â· 2 yrs 11 mos
+Oct 2021 - Aug 2024 · 2 yrs 11 mos
 
 United States
 
@@ -59,19 +59,19 @@ She is a member of Etsy Inc. Senior Leadership Team and sits on Etsy's Impact In
 
 Visa
 
-Full-time Â· 3 yrs 7 mos
+Full-time · 3 yrs 7 mos
 
 Director, Social Impact Global Stakeholder Engagement & Content Creation
 
-Jun 2021 - Oct 2021 Â· 5 mos
+Jun 2021 - Oct 2021 · 5 mos
 
 Miami, Florida, United States
 
-Tasked with driving Visaâ€™s social impact stakeholder engagement strategy and content creation efforts globally. Responsible for amplifying the voice of Visa leaders telling our purpose and social impact story externally and internally, with a focus on inclusion, women's empowerment, diversity and corporate responsibility.
+Tasked with driving Visa’s social impact stakeholder engagement strategy and content creation efforts globally. Responsible for amplifying the voice of Visa leaders telling our purpose and social impact story externally and internally, with a focus on inclusion, women's empowerment, diversity and corporate responsibility.
 
 Corporate Communications Manager- Reputation & Head of Communications Measurement for Latin America
 
-Apr 2018 - Jun 2021 Â· 3 yrs 3 mos
+Apr 2018 - Jun 2021 · 3 yrs 3 mos
 
 Miami FL
 
@@ -81,13 +81,13 @@ Account Supervisor Latin America / Miami - Corporate Comms and Public Affairs
 
 FleishmanHillard
 
-2015 - Apr 2018 Â· 3 yrs 4 mos
+2015 - Apr 2018 · 3 yrs 4 mos
 
 Head of Programs and Public Relations, Senior Manager
 
-FundaciÃ³n Eduardo LeÃ³n Jimenes
+Fundación Eduardo León Jimenes
 
-Jul 2009 - Oct 2015 Â· 6 yrs 4 mos
+Jul 2009 - Oct 2015 · 6 yrs 4 mos
 
 Santo Domingo/Santiago, Dominican Republic
 
@@ -95,7 +95,7 @@ Special Consultant for Social Auditing (Accounting) pilot program in the Dominic
 
 World Bank Group
 
-Jun 2012 - Aug 2012 Â· 3 mos
+Jun 2012 - Aug 2012 · 3 mos
 
 Santo Domingo, Dominican Republic
 
@@ -103,7 +103,7 @@ District Representative
 
 U.S. House of Representatives
 
-2004 - 2009 Â· 5 yrs
+2004 - 2009 · 5 yrs
 
 White Plains, NY
 
@@ -111,7 +111,7 @@ Intern - Volunteer
 
 NGO CSW/NY
 
-Oct 2001 - May 2004 Â· 2 yrs 8 mos
+Oct 2001 - May 2004 · 2 yrs 8 mos
 
 New York, NY
 
@@ -119,7 +119,7 @@ Youth Liaison - UN DPI
 
 United Nations
 
-Jun 2001 - Sep 2001 Â· 4 mos
+Jun 2001 - Sep 2001 · 4 mos
 
 New York, NY
 
@@ -136,7 +136,7 @@ Given
 
 Deb Wasser, IRC, NIRI Fellow
 
-Â· 3rd+
+· 3rd+
 
 VP, Investor Relations, Etsy, Inc.
 

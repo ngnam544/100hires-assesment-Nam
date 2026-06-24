@@ -1,4 +1,4 @@
-﻿# Cleaned Posts for davidspinks (Found 20)
+# Cleaned Posts for davidspinks (Found 20)
 
 ### Post 1
 ---
@@ -8,7 +8,7 @@ on the train home after the event last night, my wife called me. our one year ol
 
 she has to stay home all week, which means i have to try to juggle all of that, while also taking care of her. which isn't possible. so some balls will drop. i have to let some balls drop. of course, letting balls drop means less income, which i also need to prioritize in order to take care of my family. rock meet hard place. hard place, rock.
 
-working for yourself and building a business while parenting young children is just a whole different ball game.Â i must have slept through this class in business school.
+working for yourself and building a business while parenting young children is just a whole different ball game. i must have slept through this class in business school.
 worrying about it won't help. what a great opportunity to notice spiraling thoughts, practice being present with it all, and taking things one step at a time.
 
 
@@ -119,23 +119,23 @@ can't wait to kick off this journey with you all!
 ---
 Ok, real talk time: the business side of my coaching practice has been on the struggle bus these past few months.
 
-At the start of the year, things were poppin, and I hit an income goal I didnâ€™t expect to hit for another couple years. â€œIâ€™m doing it! Iâ€™ve figured out how to be a full-time coach!â€ I thought to myself as I shook my fist at the imaginary haters in my mind.
+At the start of the year, things were poppin, and I hit an income goal I didn’t expect to hit for another couple years. “I’m doing it! I’ve figured out how to be a full-time coach!” I thought to myself as I shook my fist at the imaginary haters in my mind.
 
 But what goes up must come down (must it though?) and after some existing clients concluded, and leads slowed down, my income dropped substantially.
 
 I wish I could say I was as cool as a cucumber about this... alas, with a new mortgage, 2/3 kids still in childcare, and depleted savings after the big down payment, this triggered all sorts of money fear for me. Going broke is right up there with being buried alive and losing my kids at the carnival in my list of top fears.
 
-So I spent about a month feeling very ungrounded and had a frantic energy around the marketing and sales side of my coaching practice. I could feel the desperation seeping into what I was writing online and in my conversations with potential clients. I spun on my coaching positioning, trying to nail down exactly what my niche is, convinced that this was the problem. I spent hours with Claude trying to get the language just right on my website (Iâ€™ve learned that AI is an especially dangerous timesuck during these moments of panic).
+So I spent about a month feeling very ungrounded and had a frantic energy around the marketing and sales side of my coaching practice. I could feel the desperation seeping into what I was writing online and in my conversations with potential clients. I spun on my coaching positioning, trying to nail down exactly what my niche is, convinced that this was the problem. I spent hours with Claude trying to get the language just right on my website (I’ve learned that AI is an especially dangerous timesuck during these moments of panic).
 
-To make things harder, I received some critical feedback from a couple of my clients as we concluded. They shared that they started to feel lost with coaching, unclear of what to focus on in each session, and that they wanted more direction from me. So I started to doubt my abilities as a coach, and worried that Iâ€™m not going to succeed in this work that I love so much.
+To make things harder, I received some critical feedback from a couple of my clients as we concluded. They shared that they started to feel lost with coaching, unclear of what to focus on in each session, and that they wanted more direction from me. So I started to doubt my abilities as a coach, and worried that I’m not going to succeed in this work that I love so much.
 
-Itâ€™s hard to be honest about these moments because I tell myself a story that people want to hire a coach whoâ€™s unflappably confident and in high demand. But Iâ€™m not here to put on a show for anyone. For anyone who hires me as their coach, I want to be 100% in integrity with them. Iâ€™m feeling very confident again in my practice now (more on that in a minute), but for a little while there, I was questioning myself.
+It’s hard to be honest about these moments because I tell myself a story that people want to hire a coach who’s unflappably confident and in high demand. But I’m not here to put on a show for anyone. For anyone who hires me as their coach, I want to be 100% in integrity with them. I’m feeling very confident again in my practice now (more on that in a minute), but for a little while there, I was questioning myself.
 
 I also want to practice what I preach. I work with my clients regularly through their moments of panic and self-doubt. We all have them, even your coach or therapist. And so these moments give me an opportunity to practice exactly what I offer to my clients, which will in turn help me better serve them.
 
-Iâ€™m really proud of myself for how I moved through this slow period. Past me would have just kept trying to push through, and been stuck in panic for monthsâ€¦ maybe never leaving it. To some degree, I think I remained in this state for most of the eight years of leading my company.
+I’m really proud of myself for how I moved through this slow period. Past me would have just kept trying to push through, and been stuck in panic for months… maybe never leaving it. To some degree, I think I remained in this state for most of the eight years of leading my company.
 
-This time I responded differently. If you're curious about how I moved through this season, and what I've learned and adapted in my coaching practice, I just published a newsletter with the details. Link the comments ðŸ‘‡
+This time I responded differently. If you're curious about how I moved through this season, and what I've learned and adapted in my coaching practice, I just published a newsletter with the details. Link the comments 👇
 
 
 ### Post 10
@@ -159,7 +159,7 @@ or it could have a message about something i believe in and start conversations 
 
 this IRL > URL hat has it all. super high quality, fits my sexy dad motif, and has a message that i believe in and will undoubtedly start conversations.
 
-which means that when people ask me about it, i get to say "oh yeah my friend sent me this. she runs a company that helps creators launch dinner clubs with their audience. i know, cool right? yeah they spell it DNNR, look them up. what? sure you can take a pic. ðŸ˜˜âœŒï¸"
+which means that when people ask me about it, i get to say "oh yeah my friend sent me this. she runs a company that helps creators launch dinner clubs with their audience. i know, cool right? yeah they spell it DNNR, look them up. what? sure you can take a pic. 😘✌️"
 
 which is 1,000x better than if she just sent me a cheap shirt that said DNNR on it, which would promptly become a dish rag.
 
@@ -248,7 +248,7 @@ p.s. if you're building a community business, and looking for a formally facilit
 
 ### Post 13
 ---
-building a community business 101 - day 6ï¸âƒ£
+building a community business 101 - day 6️⃣
 
 let's talk about the silent community killer:
 
@@ -264,17 +264,17 @@ and then more programs and spaces creep in. annual research. masterminds. office
 
 and one day you look up and realize the community went from a small village to an urban metropolis with a lot of dead ends.
 
-itâ€™s what happens when we try to add more and more value to our community, but never cut or clean up anything.
+it’s what happens when we try to add more and more value to our community, but never cut or clean up anything.
 
 i know i know... it can feel hard to cut things from a community. what if some people still want it?
 
 a quick story...
 
-recently i coached a community founder who was feeling overwhelmed. there was SO much to do and they couldnâ€™t keep up with it all.
+recently i coached a community founder who was feeling overwhelmed. there was SO much to do and they couldn’t keep up with it all.
 
-together, we audited their community and found that there was a monthly event series that was taking up a huge amount of time and energy, but wasnâ€™t nearly as well-attended as it used to be.
+together, we audited their community and found that there was a monthly event series that was taking up a huge amount of time and energy, but wasn’t nearly as well-attended as it used to be.
 
-but they didnâ€™t want to get rid of it. it felt like an important tradition, going back to the origins of the community.
+but they didn’t want to get rid of it. it felt like an important tradition, going back to the origins of the community.
 
 alas, the writing was on the wall. the community had become too bloated. they had to make cuts to their programming or they were going to drown.
 
@@ -286,7 +286,7 @@ win win win
 
 here's how to do your own community audit:
 
-list out EVERYTHING going on in the community. every channel, program, event, piece of content, etc. anything thatâ€™s there on an ongoing basis.
+list out EVERYTHING going on in the community. every channel, program, event, piece of content, etc. anything that’s there on an ongoing basis.
 
 for each one, give it a rating:
 
@@ -294,7 +294,7 @@ for each one, give it a rating:
 2. how much time does it take us?
 3. is this bringing us joy to organize?
 
-shut down dead spaces. cut programs that have long run their course. eliminate whatâ€™s draining your team and the community of energy.
+shut down dead spaces. cut programs that have long run their course. eliminate what’s draining your team and the community of energy.
 
 your community and your calendar will thank you
 
@@ -327,11 +327,11 @@ Building a Community Business 101 - DAY 5
 
 Mapping the community commitment curve:
 
-Once members are onboarded, over time, theyâ€™ll move up whatâ€™s called â€œthe commitment curveâ€.
+Once members are onboarded, over time, they’ll move up what’s called “the commitment curve”.
 
 This is a tool I first learned from Douglas Atkin who led community for Meetup and Airbrnb, where he used this model.
 
-The idea here is that you donâ€™t want to ask for too much commitment from members when theyâ€™re still early on the curve. Start with small asks. Over time, build up to bigger ones.
+The idea here is that you don’t want to ask for too much commitment from members when they’re still early on the curve. Start with small asks. Over time, build up to bigger ones.
 
 How to create your own commitment curve:
 
@@ -343,18 +343,18 @@ How to create your own commitment curve:
 
 THEN PUT IT INTO ACTION:
 
-Once youâ€™ve mapped your commitment curve, you can start designing intentional pathways that help members gradually deepen their participation over time.
+Once you’ve mapped your commitment curve, you can start designing intentional pathways that help members gradually deepen their participation over time.
 
 For example, after someone:
 
-- attends an event â†’ invite them to join a smaller group
-- comments regularly â†’ invite them to start a discussion
-- helps others â†’ invite them to mentor newcomers
-- becomes a regular â†’ invite them into leadership
+- attends an event → invite them to join a smaller group
+- comments regularly → invite them to start a discussion
+- helps others → invite them to mentor newcomers
+- becomes a regular → invite them into leadership
 
 Sometimes members are ready to make a deeper commitment; they just need an invitation. Now you know what invitation to offer them.
 
-Remember: the map isnâ€™t the terrain here. Some members will want to jump ahead. Some will hit a ceiling of commitment. Some will drop back down. Thatâ€™s all okay.
+Remember: the map isn’t the terrain here. Some members will want to jump ahead. Some will hit a ceiling of commitment. Some will drop back down. That’s all okay.
 
 --
 
@@ -378,7 +378,7 @@ Thanks for tuning in! Hit +Follow to get the rest of the Community Business 101 
 ---
 Just received this email after a coaching session.
 
-Let this be a warning: You might leave with something different than what you came for when booking a coaching session with me ðŸ˜
+Let this be a warning: You might leave with something different than what you came for when booking a coaching session with me 😁
 
 This was a complimentary coaching session. I offer a bunch of these every month. If you're interested in doing a session together, you can apply here: https://lnkd.in/eYfQK-kt
 
@@ -389,7 +389,7 @@ This was a complimentary coaching session. I offer a bunch of these every month.
 ---
 Building a Community Business 101 - DAY 4
 
-How to get a NEW community off the ground ðŸš€
+How to get a NEW community off the ground 🚀
 
 I get this question all the time. You have a community idea in mind. How do you get started? Should you start looking at tools and software? Create a marketing plan? Kick off a beta? Start designing a brand?
 
@@ -397,7 +397,7 @@ There are so many things you *could* do to get a community started. Knowing wher
 
 Here's how I look at it:
 
-Communities are a lot like solar systems ðŸª (stick with me here, I promise it'll be good...)
+Communities are a lot like solar systems 🪐 (stick with me here, I promise it'll be good...)
 
 And people? People are like space dust. And just like space dust, we're attracted to each other. More precisely: we're attracted to where there is "social density". When there's a group of people connecting in a way that we want for ourselves, we're attracted to that group. It's social gravity.
 
@@ -449,11 +449,11 @@ it's an exciting time to be building a community business.
 ---
 Building a Community Business 101 - Day 3:
 
-How to make money! (everyoneâ€™s favorite topic)
+How to make money! (everyone’s favorite topic)
 
 So money is a prickly subject for a lot of community builders.
 
-For many of us, thereâ€™s a feeling that community is one of those things that should be free, like water and air. Donâ€™t we all have a right to community? Should we be charging for belonging? Feels ick donâ€™t it?
+For many of us, there’s a feeling that community is one of those things that should be free, like water and air. Don’t we all have a right to community? Should we be charging for belonging? Feels ick don’t it?
 
 Well, this is one of the primary reasons I see community founders burnout and community businesses fail.
 
@@ -471,11 +471,11 @@ Or you can charge a premium and keep it small ($100-200/month), like The Creator
 
 Or you can do both, high cost, and thousands of members, like Hampton, Chief, or YPO! These end up being much larger businesses so just make sure that's actually the job you want.
 
-Each of these communities are very successful as a business, and itâ€™s because their pricing and size is right sized for their members, the value theyâ€™re delivering, and the needs/visions of the founders.
+Each of these communities are very successful as a business, and it’s because their pricing and size is right sized for their members, the value they’re delivering, and the needs/visions of the founders.
 
 Some of them also offer different tiers, so you can have a more affordable option for most, and charge more for members who want to make a bigger investment for more value.
 
-Iâ€™m a big fan of membership fees because it aligns the community with the business model. Itâ€™s also subscription based, which brings a bit more consistency to your business.
+I’m a big fan of membership fees because it aligns the community with the business model. It’s also subscription based, which brings a bit more consistency to your business.
 
 But there are lots of other models to use for your business:
 
@@ -485,7 +485,7 @@ But there are lots of other models to use for your business:
 - Events - sell tickets to one-off events and workshops
 - Products and services - have a free community that you sell products and services to
 
-Whatever you do, PLEASE donâ€™t undercharge.
+Whatever you do, PLEASE don’t undercharge.
 
 Consider this: what if you're actually doing your members a disservice by not charging them more?
 

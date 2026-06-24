@@ -1,4 +1,4 @@
-﻿# Cleaned Posts for mariusciortea (Found 20)
+# Cleaned Posts for mariusciortea (Found 20)
 
 ### Post 1
 ---
@@ -8,14 +8,14 @@ Unanswered questions.
 
 If too many posts sit there with no real answer, the rest of the dashboard starts to feel cosmetic.
 
-Thatâ€™s also how Iâ€™d judge a lot of "AI for community" rollouts right now.
+That’s also how I’d judge a lot of "AI for community" rollouts right now.
 
 Not by how polished the summaries look.
 Not by how many AI features got turned on.
 By whether the unanswered backlog actually goes down.
 
-Because unanswered questions usually arenâ€™t a moderation problem.
-Theyâ€™re an ops problem.
+Because unanswered questions usually aren’t a moderation problem.
+They’re an ops problem.
 
 Usually some mix of:
 - weak routing
@@ -24,40 +24,40 @@ Usually some mix of:
 - no escalation path for harder questions
 - no loop that turns resolved answers into better docs
 
-Thatâ€™s where I think a lot of teams get stuck.
+That’s where I think a lot of teams get stuck.
 They treat unanswered questions like an annoying byproduct of scale.
-Theyâ€™re not.
-Theyâ€™re a trust tax.
+They’re not.
+They’re a trust tax.
 
 Every unanswered thread teaches customers the same lesson:
 this is not where I go to get help.
 
 AI can help here.
-Iâ€™m not skeptical of that.
+I’m not skeptical of that.
 
 It can triage.
 It can suggest likely responders.
 It can draft replies.
 It can surface similar solved threads.
 
-But it still wonâ€™t fix a community with no ownership, no response expectations, and no path for hard questions.
+But it still won’t fix a community with no ownership, no response expectations, and no path for hard questions.
 
-Thatâ€™s why I think the better framing is simple:
+That’s why I think the better framing is simple:
 AI is a multiplier.
 It is not the foundation.
 
-And if I were reporting community performance to leadership, Iâ€™d start with a handful of operating metrics:
+And if I were reporting community performance to leadership, I’d start with a handful of operating metrics:
 - unanswered rate
 - time to first response
 - time to accepted answer
 - repeat ask rate
 
-Then Iâ€™d layer in careful deflection math.
+Then I’d layer in careful deflection math.
 Not fake precision. Just clear assumptions.
 
 Some vendors are now selling directly against the unanswered gap.
 Khoros, for example, has positioned Aurora AI around helping answer questions that previously went unanswered.
-Iâ€™d treat numbers like that as vendor positioning, not proof.
+I’d treat numbers like that as vendor positioning, not proof.
 But the message is still useful: buyers care about coverage.
 
 Same with deflection benchmarks.
@@ -70,69 +70,69 @@ community teams should spend less time defending engagement metrics and more tim
 
 Once you can show that the right questions got answered faster, the ROI conversation gets much easier.
 
-Whatâ€™s had the biggest impact for you: better routing, expert escalation, or a stronger docs loop?
+What’s had the biggest impact for you: better routing, expert escalation, or a stronger docs loop?
 
 
 ### Post 2
 ---
-Community canâ€™t become strategic if it is only measured like a content site.
+Community can’t become strategic if it is only measured like a content site.
 
-This is ððšð«ð­ 2 ð¨ðŸ ðš 4-ð©ðšð«ð­ interview series with Scott K. Wilder from LastPass on community as customer-experience infrastructure.
+This is 𝐏𝐚𝐫𝐭 2 𝐨𝐟 𝐚 4-𝐩𝐚𝐫𝐭 interview series with Scott K. Wilder from LastPass on community as customer-experience infrastructure.
 
 Series map:
 
 1/4 Community operations https://lnkd.in/gAWj_KRz
-2/4 ð’ð®ðœðœðžð¬ð¬ ð¦ðžð­ð«ð¢ðœð¬
-3/4 The 2â€“3 year vision
+2/4 𝐒𝐮𝐜𝐜𝐞𝐬𝐬 𝐦𝐞𝐭𝐫𝐢𝐜𝐬
+3/4 The 2–3 year vision
 4/4 Where community goes next
 
-ðð®ðžð¬ð­ð¢ð¨ð§:
+𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧:
 What does success look like twelve months from now?
 
 Scott K. Wilder:
-ð˜šð˜¶ð˜¤ð˜¤ð˜¦ð˜´ð˜´ ð˜¢ð˜µ ð˜µð˜¸ð˜¦ð˜­ð˜·ð˜¦ ð˜®ð˜°ð˜¯ð˜µð˜©ð˜´ ð˜®ð˜¦ð˜¢ð˜¯ð˜´ ð˜´ð˜¶ð˜´ð˜µð˜¢ð˜ªð˜¯ð˜¦ð˜¥ ð˜®ð˜°ð˜·ð˜¦ð˜®ð˜¦ð˜¯ð˜µ ð˜ªð˜¯ ð˜§ð˜°ð˜¶ð˜³ ð˜¢ð˜³ð˜¦ð˜¢ð˜´:
+𝘚𝘶𝘤𝘤𝘦𝘴𝘴 𝘢𝘵 𝘵𝘸𝘦𝘭𝘷𝘦 𝘮𝘰𝘯𝘵𝘩𝘴 𝘮𝘦𝘢𝘯𝘴 𝘴𝘶𝘴𝘵𝘢𝘪𝘯𝘦𝘥 𝘮𝘰𝘷𝘦𝘮𝘦𝘯𝘵 𝘪𝘯 𝘧𝘰𝘶𝘳 𝘢𝘳𝘦𝘢𝘴:
 
-ð‘·ð’‚ð’“ð’•ð’Šð’„ð’Šð’‘ð’‚ð’•ð’Šð’ð’ ð’“ð’‚ð’•ð’† â€” ð˜µð˜©ð˜¦ ð˜³ð˜¢ð˜µð˜ªð˜° ð˜°ð˜§ ð˜¤ð˜°ð˜¯ð˜µð˜³ð˜ªð˜£ð˜¶ð˜µð˜°ð˜³ð˜´ ð˜µð˜° ð˜¢ð˜¤ð˜µð˜ªð˜·ð˜¦ ð˜¶ð˜´ð˜¦ð˜³ð˜´. ð˜ˆð˜¨ð˜¢ð˜ªð˜¯ð˜´ð˜µ ð˜µð˜©ð˜¦ ð˜§ð˜¢ð˜®ð˜ªð˜­ð˜ªð˜¢ð˜³ 90-9-1 ð˜±ð˜¢ð˜µð˜µð˜¦ð˜³ð˜¯ ð˜§ð˜°ð˜³ ð˜°ð˜¯ð˜­ð˜ªð˜¯ð˜¦ ð˜¤ð˜°ð˜®ð˜®ð˜¶ð˜¯ð˜ªð˜µð˜ªð˜¦ð˜´ (ð˜®ð˜°ð˜´ð˜µ ð˜­ð˜¶ð˜³ð˜¬, ð˜§ð˜¦ð˜¸ ð˜¤ð˜°ð˜¯ð˜µð˜³ð˜ªð˜£ð˜¶ð˜µð˜¦), ð˜µð˜©ð˜¦ ð˜¨ð˜°ð˜¢ð˜­ ð˜ªð˜´ ð˜¢ ð˜®ð˜¢ð˜µð˜¦ð˜³ð˜ªð˜¢ð˜­ð˜­ð˜º ð˜®ð˜°ð˜³ð˜¦ ð˜¢ð˜¤ð˜µð˜ªð˜·ð˜¦, ð˜±ð˜¦ð˜¦ð˜³-ð˜­ð˜¦ð˜¥ ð˜³ð˜¢ð˜µð˜ªð˜°. ð˜ð˜µâ€™ð˜´ ð˜¨ð˜³ð˜°ð˜¸ð˜¯ ð˜¸ð˜¦ð˜¦ð˜¬ ð˜°ð˜·ð˜¦ð˜³ ð˜¸ð˜¦ð˜¦ð˜¬ ð˜´ð˜ªð˜¯ð˜¤ð˜¦ ð˜­ð˜¢ð˜¶ð˜¯ð˜¤ð˜©, ð˜¢ð˜¯ð˜¥ ð˜ªð˜µâ€™ð˜´ ð˜µð˜©ð˜¦ ð˜¤ð˜­ð˜¦ð˜¢ð˜³ð˜¦ð˜´ð˜µ ð˜´ð˜ªð˜¨ð˜¯ ð˜µð˜©ð˜¦ ð˜¤ð˜°ð˜®ð˜®ð˜¶ð˜¯ð˜ªð˜µð˜º ð˜ªð˜´ ð˜£ð˜¦ð˜¤ð˜°ð˜®ð˜ªð˜¯ð˜¨ ð˜´ð˜¦ð˜­ð˜§-ð˜´ð˜¶ð˜´ð˜µð˜¢ð˜ªð˜¯ð˜ªð˜¯ð˜¨ ð˜³ð˜¢ð˜µð˜©ð˜¦ð˜³ ð˜µð˜©ð˜¢ð˜¯ ð˜´ð˜µð˜¢ð˜§ð˜§-ð˜´ð˜¦ð˜¦ð˜¥ð˜¦ð˜¥.
+𝑷𝒂𝒓𝒕𝒊𝒄𝒊𝒑𝒂𝒕𝒊𝒐𝒏 𝒓𝒂𝒕𝒆 — 𝘵𝘩𝘦 𝘳𝘢𝘵𝘪𝘰 𝘰𝘧 𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘰𝘳𝘴 𝘵𝘰 𝘢𝘤𝘵𝘪𝘷𝘦 𝘶𝘴𝘦𝘳𝘴. 𝘈𝘨𝘢𝘪𝘯𝘴𝘵 𝘵𝘩𝘦 𝘧𝘢𝘮𝘪𝘭𝘪𝘢𝘳 90-9-1 𝘱𝘢𝘵𝘵𝘦𝘳𝘯 𝘧𝘰𝘳 𝘰𝘯𝘭𝘪𝘯𝘦 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘪𝘦𝘴 (𝘮𝘰𝘴𝘵 𝘭𝘶𝘳𝘬, 𝘧𝘦𝘸 𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦), 𝘵𝘩𝘦 𝘨𝘰𝘢𝘭 𝘪𝘴 𝘢 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘭𝘺 𝘮𝘰𝘳𝘦 𝘢𝘤𝘵𝘪𝘷𝘦, 𝘱𝘦𝘦𝘳-𝘭𝘦𝘥 𝘳𝘢𝘵𝘪𝘰. 𝘐𝘵’𝘴 𝘨𝘳𝘰𝘸𝘯 𝘸𝘦𝘦𝘬 𝘰𝘷𝘦𝘳 𝘸𝘦𝘦𝘬 𝘴𝘪𝘯𝘤𝘦 𝘭𝘢𝘶𝘯𝘤𝘩, 𝘢𝘯𝘥 𝘪𝘵’𝘴 𝘵𝘩𝘦 𝘤𝘭𝘦𝘢𝘳𝘦𝘴𝘵 𝘴𝘪𝘨𝘯 𝘵𝘩𝘦 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘺 𝘪𝘴 𝘣𝘦𝘤𝘰𝘮𝘪𝘯𝘨 𝘴𝘦𝘭𝘧-𝘴𝘶𝘴𝘵𝘢𝘪𝘯𝘪𝘯𝘨 𝘳𝘢𝘵𝘩𝘦𝘳 𝘵𝘩𝘢𝘯 𝘴𝘵𝘢𝘧𝘧-𝘴𝘦𝘦𝘥𝘦𝘥.
 
-ð‘´ð’†ð’Žð’ƒð’†ð’“-ð’ˆð’†ð’ð’†ð’“ð’‚ð’•ð’†ð’… ð’‘ð’ð’”ð’•ð’” ð’‚ð’ð’… ð’‚ð’ð’”ð’˜ð’†ð’“ð’” â€” ð˜µð˜©ð˜¦ ð˜´ð˜©ð˜¢ð˜³ð˜¦ ð˜¤ð˜°ð˜®ð˜ªð˜¯ð˜¨ ð˜§ð˜³ð˜°ð˜® ð˜¯ð˜°ð˜¯-ð˜¦ð˜®ð˜±ð˜­ð˜°ð˜ºð˜¦ð˜¦ð˜´. ð˜”ð˜¦ð˜®ð˜£ð˜¦ð˜³ ð˜¢ð˜¯ð˜´ð˜¸ð˜¦ð˜³ð˜´ ð˜¢ð˜³ð˜¦ ð˜¨ð˜³ð˜°ð˜¸ð˜ªð˜¯ð˜¨ ð˜§ð˜¢ð˜´ð˜µð˜¦ð˜³ ð˜µð˜©ð˜¢ð˜¯ ð˜°ð˜·ð˜¦ð˜³ð˜¢ð˜­ð˜­ ð˜¢ð˜¯ð˜´ð˜¸ð˜¦ð˜³ ð˜·ð˜°ð˜­ð˜¶ð˜®ð˜¦, ð˜´ð˜ªð˜¨ð˜¯ð˜¢ð˜­ð˜ªð˜¯ð˜¨ ð˜³ð˜¦ð˜¢ð˜­ ð˜±ð˜¦ð˜¦ð˜³ ð˜´ð˜¶ð˜±ð˜±ð˜°ð˜³ð˜µ. ð˜›ð˜©ð˜¦ ð˜µð˜¢ð˜³ð˜¨ð˜¦ð˜µ ð˜ªð˜´ ð˜®ð˜¦ð˜®ð˜£ð˜¦ð˜³ð˜´ ð˜¢ð˜¯ð˜´ð˜¸ð˜¦ð˜³ð˜ªð˜¯ð˜¨ ð˜®ð˜°ð˜´ð˜µ ð˜²ð˜¶ð˜¦ð˜´ð˜µð˜ªð˜°ð˜¯ð˜´ ð˜¸ð˜ªð˜µð˜©ð˜°ð˜¶ð˜µ ð˜´ð˜µð˜¢ð˜§ð˜§ ð˜ªð˜¯ð˜µð˜¦ð˜³ð˜·ð˜¦ð˜¯ð˜µð˜ªð˜°ð˜¯.
+𝑴𝒆𝒎𝒃𝒆𝒓-𝒈𝒆𝒏𝒆𝒓𝒂𝒕𝒆𝒅 𝒑𝒐𝒔𝒕𝒔 𝒂𝒏𝒅 𝒂𝒏𝒔𝒘𝒆𝒓𝒔 — 𝘵𝘩𝘦 𝘴𝘩𝘢𝘳𝘦 𝘤𝘰𝘮𝘪𝘯𝘨 𝘧𝘳𝘰𝘮 𝘯𝘰𝘯-𝘦𝘮𝘱𝘭𝘰𝘺𝘦𝘦𝘴. 𝘔𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘴𝘸𝘦𝘳𝘴 𝘢𝘳𝘦 𝘨𝘳𝘰𝘸𝘪𝘯𝘨 𝘧𝘢𝘴𝘵𝘦𝘳 𝘵𝘩𝘢𝘯 𝘰𝘷𝘦𝘳𝘢𝘭𝘭 𝘢𝘯𝘴𝘸𝘦𝘳 𝘷𝘰𝘭𝘶𝘮𝘦, 𝘴𝘪𝘨𝘯𝘢𝘭𝘪𝘯𝘨 𝘳𝘦𝘢𝘭 𝘱𝘦𝘦𝘳 𝘴𝘶𝘱𝘱𝘰𝘳𝘵. 𝘛𝘩𝘦 𝘵𝘢𝘳𝘨𝘦𝘵 𝘪𝘴 𝘮𝘦𝘮𝘣𝘦𝘳𝘴 𝘢𝘯𝘴𝘸𝘦𝘳𝘪𝘯𝘨 𝘮𝘰𝘴𝘵 𝘲𝘶𝘦𝘴𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩𝘰𝘶𝘵 𝘴𝘵𝘢𝘧𝘧 𝘪𝘯𝘵𝘦𝘳𝘷𝘦𝘯𝘵𝘪𝘰𝘯.
 
-ð‘°ð’Žð’‘ð’ð’Šð’†ð’… ð‘¨ð‘¹ð‘¹ â€” ð˜¥ð˜³ð˜¢ð˜¸ð˜ªð˜¯ð˜¨ ð˜°ð˜¯ ð˜®ð˜¦ð˜µð˜©ð˜°ð˜¥ð˜°ð˜­ð˜°ð˜¨ð˜º ð˜§ð˜³ð˜°ð˜® ð˜ð˜¯ð˜µð˜¶ð˜ªð˜µ ð˜¢ð˜¯ð˜¥ ð˜°ð˜µð˜©ð˜¦ð˜³ð˜´, ð˜¸ð˜¦ ð˜¤ð˜°ð˜®ð˜±ð˜¢ð˜³ð˜¦ ð˜³ð˜¦ð˜µð˜¦ð˜¯ð˜µð˜ªð˜°ð˜¯, ð˜¦ð˜¹ð˜±ð˜¢ð˜¯ð˜´ð˜ªð˜°ð˜¯, ð˜¢ð˜¯ð˜¥ ð˜³ð˜¦ð˜¯ð˜¦ð˜¸ð˜¢ð˜­ ð˜§ð˜°ð˜³ ð˜¤ð˜°ð˜®ð˜®ð˜¶ð˜¯ð˜ªð˜µð˜º-ð˜¢ð˜¤ð˜µð˜ªð˜·ð˜¦ ð˜¢ð˜¤ð˜¤ð˜°ð˜¶ð˜¯ð˜µð˜´ ð˜¢ð˜¨ð˜¢ð˜ªð˜¯ð˜´ð˜µ ð˜¢ ð˜®ð˜¢ð˜µð˜¤ð˜©ð˜¦ð˜¥ ð˜£ð˜¢ð˜´ð˜¦ð˜­ð˜ªð˜¯ð˜¦ ð˜°ð˜§ ð˜¤ð˜°ð˜®ð˜±ð˜¢ð˜³ð˜¢ð˜£ð˜­ð˜¦ ð˜¢ð˜¤ð˜¤ð˜°ð˜¶ð˜¯ð˜µð˜´ â€” ð˜¤ð˜°ð˜¯ð˜µð˜³ð˜°ð˜­ð˜­ð˜ªð˜¯ð˜¨ ð˜§ð˜°ð˜³ ð˜´ð˜ªð˜»ð˜¦ ð˜¢ð˜¯ð˜¥ ð˜´ð˜±ð˜¦ð˜¯ð˜¥, ð˜´ð˜° ð˜µð˜©ð˜¦ ð˜¥ð˜¦ð˜­ð˜µð˜¢ ð˜³ð˜¦ð˜§ð˜­ð˜¦ð˜¤ð˜µð˜´ ð˜±ð˜¢ð˜³ð˜µð˜ªð˜¤ð˜ªð˜±ð˜¢ð˜µð˜ªð˜°ð˜¯ ð˜³ð˜¢ð˜µð˜©ð˜¦ð˜³ ð˜µð˜©ð˜¢ð˜¯ ð˜´ð˜¦ð˜­ð˜¦ð˜¤ð˜µð˜ªð˜°ð˜¯. ð˜Œð˜¯ð˜¨ð˜¢ð˜¨ð˜¦ð˜¥ ð˜¢ð˜¤ð˜¤ð˜°ð˜¶ð˜¯ð˜µð˜´ ð˜³ð˜¦ð˜µð˜¢ð˜ªð˜¯ ð˜£ð˜¦ð˜µð˜µð˜¦ð˜³, ð˜®ð˜¢ð˜¬ð˜ªð˜¯ð˜¨ ð˜¤ð˜°ð˜®ð˜®ð˜¶ð˜¯ð˜ªð˜µð˜º ð˜¢ ð˜®ð˜¦ð˜¢ð˜´ð˜¶ð˜³ð˜¢ð˜£ð˜­ð˜¦ ð˜³ð˜¦ð˜µð˜¦ð˜¯ð˜µð˜ªð˜°ð˜¯ ð˜­ð˜¦ð˜·ð˜¦ð˜³, ð˜¯ð˜°ð˜µ ð˜«ð˜¶ð˜´ð˜µ ð˜¢ ð˜´ð˜¶ð˜±ð˜±ð˜°ð˜³ð˜µ-ð˜¤ð˜°ð˜´ð˜µ ð˜°ð˜§ð˜§ð˜´ð˜¦ð˜µ.
+𝑰𝒎𝒑𝒍𝒊𝒆𝒅 𝑨𝑹𝑹 — 𝘥𝘳𝘢𝘸𝘪𝘯𝘨 𝘰𝘯 𝘮𝘦𝘵𝘩𝘰𝘥𝘰𝘭𝘰𝘨𝘺 𝘧𝘳𝘰𝘮 𝘐𝘯𝘵𝘶𝘪𝘵 𝘢𝘯𝘥 𝘰𝘵𝘩𝘦𝘳𝘴, 𝘸𝘦 𝘤𝘰𝘮𝘱𝘢𝘳𝘦 𝘳𝘦𝘵𝘦𝘯𝘵𝘪𝘰𝘯, 𝘦𝘹𝘱𝘢𝘯𝘴𝘪𝘰𝘯, 𝘢𝘯𝘥 𝘳𝘦𝘯𝘦𝘸𝘢𝘭 𝘧𝘰𝘳 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘺-𝘢𝘤𝘵𝘪𝘷𝘦 𝘢𝘤𝘤𝘰𝘶𝘯𝘵𝘴 𝘢𝘨𝘢𝘪𝘯𝘴𝘵 𝘢 𝘮𝘢𝘵𝘤𝘩𝘦𝘥 𝘣𝘢𝘴𝘦𝘭𝘪𝘯𝘦 𝘰𝘧 𝘤𝘰𝘮𝘱𝘢𝘳𝘢𝘣𝘭𝘦 𝘢𝘤𝘤𝘰𝘶𝘯𝘵𝘴 — 𝘤𝘰𝘯𝘵𝘳𝘰𝘭𝘭𝘪𝘯𝘨 𝘧𝘰𝘳 𝘴𝘪𝘻𝘦 𝘢𝘯𝘥 𝘴𝘱𝘦𝘯𝘥, 𝘴𝘰 𝘵𝘩𝘦 𝘥𝘦𝘭𝘵𝘢 𝘳𝘦𝘧𝘭𝘦𝘤𝘵𝘴 𝘱𝘢𝘳𝘵𝘪𝘤𝘪𝘱𝘢𝘵𝘪𝘰𝘯 𝘳𝘢𝘵𝘩𝘦𝘳 𝘵𝘩𝘢𝘯 𝘴𝘦𝘭𝘦𝘤𝘵𝘪𝘰𝘯. 𝘌𝘯𝘨𝘢𝘨𝘦𝘥 𝘢𝘤𝘤𝘰𝘶𝘯𝘵𝘴 𝘳𝘦𝘵𝘢𝘪𝘯 𝘣𝘦𝘵𝘵𝘦𝘳, 𝘮𝘢𝘬𝘪𝘯𝘨 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘺 𝘢 𝘮𝘦𝘢𝘴𝘶𝘳𝘢𝘣𝘭𝘦 𝘳𝘦𝘵𝘦𝘯𝘵𝘪𝘰𝘯 𝘭𝘦𝘷𝘦𝘳, 𝘯𝘰𝘵 𝘫𝘶𝘴𝘵 𝘢 𝘴𝘶𝘱𝘱𝘰𝘳𝘵-𝘤𝘰𝘴𝘵 𝘰𝘧𝘧𝘴𝘦𝘵.
 
-ð‘¯ð’–ð’ƒ ð’Šð’Žð’‘ð’‚ð’„ð’• â€” ð˜“ð˜¢ð˜´ð˜µð˜—ð˜¢ð˜´ð˜´ ð˜Šð˜¦ð˜¯ð˜µð˜³ð˜¢ð˜­ ð˜°ð˜³ð˜¨ð˜¢ð˜¯ð˜ªð˜»ð˜¦ð˜´ ð˜¤ð˜°ð˜¯ð˜µð˜¦ð˜¯ð˜µ ð˜ªð˜¯ð˜µð˜° ð˜µð˜°ð˜±ð˜ªð˜¤ð˜¢ð˜­ ð˜©ð˜¶ð˜£ð˜´. ð˜šð˜¶ð˜¤ð˜¤ð˜¦ð˜´ð˜´ ð˜ªð˜´ ð˜®ð˜¦ð˜¢ð˜´ð˜¶ð˜³ð˜¦ð˜¥ ð˜£ð˜º ð˜©ð˜¶ð˜£ ð˜µð˜³ð˜¢ð˜§ð˜§ð˜ªð˜¤, ð˜´ð˜¦ð˜¢ð˜³ð˜¤ð˜©-ð˜µð˜°-ð˜¤ð˜°ð˜¯ð˜µð˜¦ð˜¯ð˜µ ð˜®ð˜¢ð˜µð˜¤ð˜© ð˜³ð˜¢ð˜µð˜¦ð˜´, ð˜¢ð˜¯ð˜¥ ð˜³ð˜¦ð˜¥ð˜¶ð˜¤ð˜¦ð˜¥ ð˜¥ð˜¶ð˜±ð˜­ð˜ªð˜¤ð˜¢ð˜µð˜¦ ð˜´ð˜¶ð˜±ð˜±ð˜°ð˜³ð˜µ ð˜¤ð˜°ð˜¯ð˜µð˜¢ð˜¤ð˜µð˜´, ð˜¸ð˜ªð˜µð˜© ð˜Šð˜ˆð˜— ð˜¬ð˜¦ð˜¦ð˜±ð˜ªð˜¯ð˜¨ ð˜©ð˜¶ð˜£ ð˜¤ð˜°ð˜¯ð˜µð˜¦ð˜¯ð˜µ ð˜¢ð˜­ð˜ªð˜¨ð˜¯ð˜¦ð˜¥ ð˜µð˜° ð˜©ð˜°ð˜¸ ð˜¤ð˜¶ð˜´ð˜µð˜°ð˜®ð˜¦ð˜³ð˜´ ð˜¢ð˜¤ð˜µð˜¶ð˜¢ð˜­ð˜­ð˜º ð˜¢ð˜´ð˜¬.
+𝑯𝒖𝒃 𝒊𝒎𝒑𝒂𝒄𝒕 — 𝘓𝘢𝘴𝘵𝘗𝘢𝘴𝘴 𝘊𝘦𝘯𝘵𝘳𝘢𝘭 𝘰𝘳𝘨𝘢𝘯𝘪𝘻𝘦𝘴 𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘪𝘯𝘵𝘰 𝘵𝘰𝘱𝘪𝘤𝘢𝘭 𝘩𝘶𝘣𝘴. 𝘚𝘶𝘤𝘤𝘦𝘴𝘴 𝘪𝘴 𝘮𝘦𝘢𝘴𝘶𝘳𝘦𝘥 𝘣𝘺 𝘩𝘶𝘣 𝘵𝘳𝘢𝘧𝘧𝘪𝘤, 𝘴𝘦𝘢𝘳𝘤𝘩-𝘵𝘰-𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘮𝘢𝘵𝘤𝘩 𝘳𝘢𝘵𝘦𝘴, 𝘢𝘯𝘥 𝘳𝘦𝘥𝘶𝘤𝘦𝘥 𝘥𝘶𝘱𝘭𝘪𝘤𝘢𝘵𝘦 𝘴𝘶𝘱𝘱𝘰𝘳𝘵 𝘤𝘰𝘯𝘵𝘢𝘤𝘵𝘴, 𝘸𝘪𝘵𝘩 𝘊𝘈𝘗 𝘬𝘦𝘦𝘱𝘪𝘯𝘨 𝘩𝘶𝘣 𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘢𝘭𝘪𝘨𝘯𝘦𝘥 𝘵𝘰 𝘩𝘰𝘸 𝘤𝘶𝘴𝘵𝘰𝘮𝘦𝘳𝘴 𝘢𝘤𝘵𝘶𝘢𝘭𝘭𝘺 𝘢𝘴𝘬.
 
-Iâ€™ve seen too many community dashboards stop at activity. Activity matters, but it is not the whole case.
+I’ve seen too many community dashboards stop at activity. Activity matters, but it is not the whole case.
 
 
 ### Post 3
 ---
 Community should not sit off to the side of the customer experience.
 
-This is ððšð«ð­ 1 of a 4-part interview series with Scott K. Wilder from LastPass on what it looks like when community becomes customer-experience infrastructure, not just a forum.
+This is 𝐏𝐚𝐫𝐭 1 of a 4-part interview series with Scott K. Wilder from LastPass on what it looks like when community becomes customer-experience infrastructure, not just a forum.
 
-Iâ€™ll link the other parts in the comments as they go live:
+I’ll link the other parts in the comments as they go live:
 
 1/4 Community operations
 2/4 Success metrics
-3/4 The 2â€“3 year vision
+3/4 The 2–3 year vision
 4/4 Where community goes next
 
 Part 1 starts with the operating model: what gets seeded, where time gets spent, and how community connects to the rest of the business.
 
-ðð®ðžð¬ð­ð¢ð¨ð§:
-How are you running the community day to day â€” what do you seed, where do you spend your time, and how does the community fit into the rest of what your team does?
+𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧:
+How are you running the community day to day — what do you seed, where do you spend your time, and how does the community fit into the rest of what your team does?
 
 Scott K. Wilder:
-Privacy and security have become consequential for individuals, families, and businesses â€” a shift accelerated by AI-driven threats and a widening attack surface. LastPass is well positioned to be the authoritative place people go for credible answers in one location.
+Privacy and security have become consequential for individuals, families, and businesses — a shift accelerated by AI-driven threats and a widening attack surface. LastPass is well positioned to be the authoritative place people go for credible answers in one location.
 
 Day to day, my time splits across three areas: content curation and seeding (surfacing high-value topics from support signals before members need them), member engagement (making sure active threads get answered and strong contributors get recognized), and architecture (keeping LastPass Central organized so content from support, University, and sales materials is easy to find). We seed a blend of first-party and third-party content so the community stays relevant beyond the product itself.
 
-Underneath it all is our voice-of-customer initiative, the Content Analyzer Platform (CAP), which mines support cases, chat transcripts, community questions, G2 reviews, and Reddit at once to learn the exact language customers use. We might write â€œone to manyâ€; customers say â€œshared.â€ The goal is to meet them in their words, not ours â€” which makes the community more findable and more trusted.
+Underneath it all is our voice-of-customer initiative, the Content Analyzer Platform (CAP), which mines support cases, chat transcripts, community questions, G2 reviews, and Reddit at once to learn the exact language customers use. We might write “one to many”; customers say “shared.” The goal is to meet them in their words, not ours — which makes the community more findable and more trusted.
 
 What stood out to me: the strongest community teams are not just answering questions. They are learning how customers actually talk about their problems.
 
 I keep coming back to that language gap: the words companies use internally are often not the words customers use when they need help.
 
-Where does your community spend more time today: answering questions, or learning the customerâ€™s language?
+Where does your community spend more time today: answering questions, or learning the customer’s language?
 
 
 ### Post 4
@@ -149,9 +149,9 @@ That's a different design problem.
 
 I think the real product here is the permission ladder:
 
-â†’ Always allow
-â†’ Needs approval
-â†’ Locked
+→ Always allow
+→ Needs approval
+→ Locked
 
 Most teams will get this wrong by thinking in verbs.
 
@@ -172,20 +172,20 @@ It has to be risk-based.
 My default for community tools would look something like this:
 
 Always allow:
-â€¢ Public content lookup
-â€¢ Summarizing public threads
-â€¢ Tagging likely duplicates for review
+• Public content lookup
+• Summarizing public threads
+• Tagging likely duplicates for review
 
 Needs approval:
-â€¢ Posting replies as the brand
-â€¢ Editing member-facing content
-â€¢ Changing workflows, access, or routing
+• Posting replies as the brand
+• Editing member-facing content
+• Changing workflows, access, or routing
 
 Locked:
-â€¢ Deletes
-â€¢ Bans
-â€¢ Bulk changes
-â€¢ Anything that touches sensitive member data
+• Deletes
+• Bans
+• Bulk changes
+• Anything that touches sensitive member data
 
 This is why I don't think the moat will be the fanciest bot.
 
@@ -221,9 +221,9 @@ What would you never let run unattended?
 
 ### Post 5
 ---
-If your AI deflection number doesnâ€™t come with CSAT and a policy-hallucination rate, itâ€™s not deflection.
+If your AI deflection number doesn’t come with CSAT and a policy-hallucination rate, it’s not deflection.
 
-Itâ€™s debt.
+It’s debt.
 
 A lot of teams are posting big automation wins right now.
 
@@ -240,9 +240,9 @@ That means you only count the win if three things are true:
 - policy-hallucination rate stays under a hard ceiling
 - escalation rules are explicit enough that edge cases reach a human before they turn into repeat contacts, refunds, or compliance problems
 
-Thatâ€™s the part a lot of leaders miss.
+That’s the part a lot of leaders miss.
 
-Model choice matters, but itâ€™s not the expensive part.
+Model choice matters, but it’s not the expensive part.
 
 The expensive part is the operating discipline behind the rollout:
 - auditing the knowledge base before launch
@@ -252,13 +252,13 @@ The expensive part is the operating discipline behind the rollout:
 
 One composite operator case study I read recently made the point well: about 10k monthly tickets, around 60% concentrated in repeat archetypes, 51% deflection by month five, CSAT held within roughly +/-1.5 points, and policy hallucinations kept below 0.4%.
 
-The important part wasnâ€™t the model.
+The important part wasn’t the model.
 
 It was the sequence: knowledge audit, category-aware retrieval, gated pilot, then a clear escalation rubric.
 
-Thatâ€™s the playbook more teams should be publishing.
+That’s the playbook more teams should be publishing.
 
-So if youâ€™re leading AI support this quarter, Iâ€™d ask for a simple trust ledger:
+So if you’re leading AI support this quarter, I’d ask for a simple trust ledger:
 
 CSAT band.
 Policy-hallucination ceiling.
@@ -269,7 +269,7 @@ If nobody can show those three things, the deflection number is telling you less
 
 ### Post 6
 ---
-Join me and Emma LoðŸ§‹ tomorrow!
+Join me and Emma Lo🧋 tomorrow!
 
 Customer Success and Community should be a lot closer than they usually are.
 In most companies, CS owns the customer relationship and Community owns the customer conversation. But customers don't experience it that way. Nobody hits a wall and thinks, "ah, this is a CS problem" or "this one belongs in the community." They just have a problem.
@@ -279,8 +279,8 @@ CS sees what's happening inside an account. Community sees what's happening acro
 When those signals stay in separate buckets, things slip through. You answer the same question privately over and over instead of turning it into something everyone can find. You catch risk later than you should. And the customer ends up with an experience that feels stitched together from parts that never talked to each other.
 But when CS and Community actually work together, the whole thing gets smarter. A repeated support question becomes a resource. A quiet customer gets noticed before the renewal call, not during it. A helpful customer becomes an advocate. A messy thread surfaces a real product gap. One answer ends up helping hundreds of people instead of one.
 That's the part I'm excited to dig into.
-Because at the end of the day, CS and Community are after the same thing â€” helping customers succeed after the sale. They're just looking at different parts of the same story.
-I'll be getting into all of this in an upcoming webinar: why CS and Community belong together, and how to make that partnership actually work day to day. If you're in Customer Success, Community, Support, or Customer Education, I think you'll get something out of it, join me and Emma LoðŸ§‹ an in-depth conversation on this.
+Because at the end of the day, CS and Community are after the same thing — helping customers succeed after the sale. They're just looking at different parts of the same story.
+I'll be getting into all of this in an upcoming webinar: why CS and Community belong together, and how to make that partnership actually work day to day. If you're in Customer Success, Community, Support, or Customer Education, I think you'll get something out of it, join me and Emma Lo🧋 an in-depth conversation on this.
 Details here: https://hubs.li/Q04jXzT00
 
 
@@ -290,7 +290,7 @@ One of the best community MCP use cases in community is not a dashboard.
 
 It is an early-warning list.
 
-Start with a simple question: â€œShow me members who posted five or more times last quarter and have posted zero times this quarter.â€
+Start with a simple question: “Show me members who posted five or more times last quarter and have posted zero times this quarter.”
 
 That alone is useful. But the better move is to layer signals.
 
@@ -302,7 +302,7 @@ The output should not just be a spreadsheet.
 
 It should be a short list of people, why they matter, what changed, and the next best action.
 
-That is where MCP becomes interesting for community teams. Not because it finds â€œinactive users,â€ but because it helps you ask a better question before those relationships disappear.
+That is where MCP becomes interesting for community teams. Not because it finds “inactive users,” but because it helps you ask a better question before those relationships disappear.
 
 to learn more about Higher Logic Vanilla MCP go here: https://lnkd.in/gc7GmE62
 
@@ -311,16 +311,16 @@ to learn more about Higher Logic Vanilla MCP go here: https://lnkd.in/gc7GmE62
 ---
 How do you learn new things? By talking to people that know and do the things you want to learn about.
 
-I have the opportunity to talk to Emma LoðŸ§‹ during my next Webinar at Higher Logic and explore some of the ways AI is changing Customer Success and Community.
+I have the opportunity to talk to Emma Lo🧋 during my next Webinar at Higher Logic and explore some of the ways AI is changing Customer Success and Community.
 
-Let me know in the comments what questions I should as Emma LoðŸ§‹ !
+Let me know in the comments what questions I should as Emma Lo🧋 !
 
 
 ### Post 9
 ---
 This image made me stop for a second.
 
-Itâ€™s from 1979, but it feels like it could have been written for the AI conversations weâ€™re having now.
+It’s from 1979, but it feels like it could have been written for the AI conversations we’re having now.
 
 In community, AI can help surface patterns, summarize context, suggest next steps, and make teams faster.
 
@@ -364,13 +364,13 @@ True Prodigy - https://lnkd.in/gt8NNV2U
 ---
 Community teams are about to feel a very practical AI shift.
 
-Not just â€œwrite me a summary.â€
+Not just “write me a summary.”
 
 More like: can I ask my community platform what members are struggling with, where questions are going unanswered, and what needs action next?
 
-Thatâ€™s the MCP conversation Iâ€™m excited to unpack today with Matt Crouse in a short Higher Logic webinar.
+That’s the MCP conversation I’m excited to unpack today with Matt Crouse in a short Higher Logic webinar.
 
-If you work in community and youâ€™re trying to separate AI hype from useful operational change, this one is for you.
+If you work in community and you’re trying to separate AI hype from useful operational change, this one is for you.
 
 Register here: https://lnkd.in/g548n6gZ
 
@@ -398,7 +398,7 @@ That is where MCP becomes useful.
 
 Community data can identify helpers. CRM data can add account context. Product or support data can show where someone has real experience with the problem you are trying to solve.
 
-The practical output is not â€œtop members.â€
+The practical output is not “top members.”
 
 It is a shortlist with a reason: invite this person because they help others, understand the product, represent this segment, and have shown sustained interest in this topic.
 
@@ -418,9 +418,9 @@ community-beat.ghost.io
 ---
 Another very practical MCP use case for community: unanswered questions.
 
-Not â€œwhat is our engagement rate?â€
+Not “what is our engagement rate?”
 
-A better question is: â€œFind questions from the last 30 days with zero or one reply, then group them by theme.â€
+A better question is: “Find questions from the last 30 days with zero or one reply, then group them by theme.”
 
 That gives you a much more useful starting point.
 
@@ -428,7 +428,7 @@ From there, you can go deeper. Which themes show up most often? Which ones come 
 
 You can answer this from community data alone, but it gets more useful when MCP can connect the dots across support tickets, documentation, search terms, product areas, and customer segments.
 
-The output should not be â€œwe had 42 unanswered questions.â€
+The output should not be “we had 42 unanswered questions.”
 
 The output should be a reply queue, a content plan, and a product signal.
 
@@ -439,19 +439,19 @@ To learning more about Higher Logic Vanilla MCP, go here: https://lnkd.in/gc7GmE
 
 ### Post 15
 ---
-The ð•ðšð§ð¢ð¥ð¥ðš ðŒð‚ð ð¥ðšð®ð§ðœð¡ðžð yesterday. 10 ways Vanilla customers can collaborate with AI.
+The 𝐕𝐚𝐧𝐢𝐥𝐥𝐚 𝐌𝐂𝐏 𝐥𝐚𝐮𝐧𝐜𝐡𝐞𝐝 yesterday. 10 ways Vanilla customers can collaborate with AI.
 
-Itâ€™s what it means for the actual work of community management.
+It’s what it means for the actual work of community management.
 
 For the last decade, a lot of the job has been data wrangling. Pulling reports. Building lists. Cross-referencing tools. Trying to answer basic questions like: who is going quiet, what topics are rising, where are members stuck, and who is quietly doing the work of helping everyone else.
 
-A lot of what gets called â€œcommunity strategyâ€ has really been data plumbing.
+A lot of what gets called “community strategy” has really been data plumbing.
 
 MCP starts to collapse that.
 
 When AI can ask the community platform questions in natural language and act on the answers, the work shifts from query to judgment. From building the list to deciding what to do with the people on it. From finding the signal to knowing which signal matters.
 
-That is the arc Iâ€™ve been working on at Higher Logic: helping community teams spend less time wrestling with systems and more time making better decisions about their members.
+That is the arc I’ve been working on at Higher Logic: helping community teams spend less time wrestling with systems and more time making better decisions about their members.
 
 Yesterday launch is one piece of that.
 
@@ -460,7 +460,7 @@ Link in comments.
 
 ### Post 16
 ---
-If your community is about to get an AI agent, Iâ€™d do one boring thing before connecting anything:
+If your community is about to get an AI agent, I’d do one boring thing before connecting anything:
 
 draw the permission ladder.
 
@@ -468,13 +468,13 @@ Not the architecture diagram.
 Not the demo flow.
 The permission ladder.
 
-Because the question is not just â€œcan the agent connect?â€
+Because the question is not just “can the agent connect?”
 
-Itâ€™s:
+It’s:
 
 What can it do when nobody is watching?
 
-Thatâ€™s where things get real.
+That’s where things get real.
 
 My rough version would look like this:
 
@@ -496,9 +496,9 @@ Locked:
 - bulk actions
 - anything involving sensitive member data
 
-The trap is thinking â€œread-onlyâ€ automatically means safe.
+The trap is thinking “read-only” automatically means safe.
 
-It doesnâ€™t.
+It doesn’t.
 
 A read-only agent can still search private spaces.
 It can still summarize something sensitive.
@@ -507,20 +507,20 @@ It can still pull the wrong internal context into a moment where it does not bel
 So yes, reads should usually be easier than writes.
 But they still need boundaries.
 
-This is what I like about Circleâ€™s MCP guidance. The split is practical: read-only tools can be set to always allow, while write and delete actions stay approval-gated.
+This is what I like about Circle’s MCP guidance. The split is practical: read-only tools can be set to always allow, while write and delete actions stay approval-gated.
 
 OpenAI seems to be moving in the same direction with workspace agents: tool access, approvals, and monitoring are becoming part of the product conversation.
 
 That feels right to me.
 
 Not agents everywhere.
-Not â€œlet the AI handle it.â€
+Not “let the AI handle it.”
 
 Bounded autonomy.
 
 Community teams already live with trust debt. Bad permissions just add interest.
 
-So before piloting an agent in community or support ops, Iâ€™d want the first draft of the ladder in writing:
+So before piloting an agent in community or support ops, I’d want the first draft of the ladder in writing:
 
 What is always allowed?
 What needs approval?
@@ -581,17 +581,17 @@ What permission default do you trust by default: read, write, or neither?
 ---
 Mark Birch called me out here and Richard Millington post started a healthy debate.
 
-My read is that this may be less about whether community â€œworksâ€ and more about whether the business goal changed.
+My read is that this may be less about whether community “works” and more about whether the business goal changed.
 
 Communities are usually strongest when the job is problem-solving, peer support, learning, belonging, and helping customers help each other.
 
-But beauty, especially Sephoraâ€™s world, is now heavily shaped by influencers, creators, trends, and share of voice. That is a much more â€œme-centeredâ€ media environment. If the priority became reach and cultural influence, then an owned community platform is probably not the strongest tool for the job.
+But beauty, especially Sephora’s world, is now heavily shaped by influencers, creators, trends, and share of voice. That is a much more “me-centered” media environment. If the priority became reach and cultural influence, then an owned community platform is probably not the strongest tool for the job.
 
-In that world, Sephora may have been comparing two investments: keep nurturing a customer community, or put more money into influencers who already have the audienceâ€™s attention. And because customers in beauty are often already listening to influencers anyway, the community can start to look like an extra layer rather than the center of the ecosystem.
+In that world, Sephora may have been comparing two investments: keep nurturing a customer community, or put more money into influencers who already have the audience’s attention. And because customers in beauty are often already listening to influencers anyway, the community can start to look like an extra layer rather than the center of the ecosystem.
 
 The counterargument is that community helps you know your customers. I agree with that. But for a B2C company like Sephora, loyalty programs, purchase history, rewards, offers, and sales behavior may already provide better customer data than the community itself.
 
-So to really answer the question, I think youâ€™d need to know what the Sephora community was originally meant to do. My guess is that purpose changed over time. And once the metrics became more about reach, influence, and share of voice, the community platform was being asked to do something communities are not naturally great at.
+So to really answer the question, I think you’d need to know what the Sephora community was originally meant to do. My guess is that purpose changed over time. And once the metrics became more about reach, influence, and share of voice, the community platform was being asked to do something communities are not naturally great at.
 
 The community may not have failed. It may simply have become the wrong tool for the new marketing job.
 

@@ -1,8 +1,8 @@
-﻿# Cleaned Posts for sjmorris (Found 9)
+# Cleaned Posts for sjmorris (Found 9)
 
 ### Post 1
 ---
-Our Build Mode panel recording from NY TECH WEEK by a16z is live on the HubSpot for Developers YouTube! Featuring Lica Wouters ðŸ‘©â€ðŸ’¼ðŸŒŸ, Andreas Wernicke, Juli Durante and moderation by my good friend and colleague Chris Riley - featuring more on Lica's BRAINS ðŸ§  framework, art teacher stories from Juli, and Andreas reminding you that Claude will never give you shit because you asked it a question you should already know the answer to. That and all kinds of great RevOps and go-to-market-focused AI insights for our growing builder community! Link in the comments!
+Our Build Mode panel recording from NY TECH WEEK by a16z is live on the HubSpot for Developers YouTube! Featuring Lica Wouters 👩‍💼🌟, Andreas Wernicke, Juli Durante and moderation by my good friend and colleague Chris Riley - featuring more on Lica's BRAINS 🧠 framework, art teacher stories from Juli, and Andreas reminding you that Claude will never give you shit because you asked it a question you should already know the answer to. That and all kinds of great RevOps and go-to-market-focused AI insights for our growing builder community! Link in the comments!
 
 
 ### Post 2
@@ -32,9 +32,9 @@ Benjamin Is one of the many members of our brand-new ecosystem mentorship progra
 ---
 Jennifer Nixon just walked me through the pairings for our next Ecosystem Mentorship Program Mini-Cohort, and I'm SO EXCITED.
 
-This one's all about Building with AI - and it's a large, diverse, and really engaging group. We reveal the matches tomorrow morning! Hence the teaser screengrab from Jennifer's presentation. If you applied for this Mini-Cohort, you should already have the calendar invite on your calendar.Â And if you can't make it, don't worry, you'll get the recording!
+This one's all about Building with AI - and it's a large, diverse, and really engaging group. We reveal the matches tomorrow morning! Hence the teaser screengrab from Jennifer's presentation. If you applied for this Mini-Cohort, you should already have the calendar invite on your calendar. And if you can't make it, don't worry, you'll get the recording!
 
-My favorite part? Most folks who raised their hand got matched with someone amazing. Our community is really showing up for each other.Â ðŸ§¡
+My favorite part? Most folks who raised their hand got matched with someone amazing. Our community is really showing up for each other. 🧡
 
 In 2024, the first time I ran this program, I matched 17 pairs out of 188 applicants. Seventeen! We've come a long way.
 
@@ -47,7 +47,7 @@ Can't wait for tomorrow!
 
 ### Post 6
 ---
-It's so much fun to get the pics back after a rad event! Here's my fave from last week's Build Mode - our amazing panelists Juli Durante, Lica Wouters ðŸ‘©â€ðŸ’¼ðŸŒŸ, Andreas Wernicke and the amazing HubSpotters that made this event possible - Jennifer Nixon and Chris Riley ðŸ§¡ (and yeah, I was there too!)
+It's so much fun to get the pics back after a rad event! Here's my fave from last week's Build Mode - our amazing panelists Juli Durante, Lica Wouters 👩‍💼🌟, Andreas Wernicke and the amazing HubSpotters that made this event possible - Jennifer Nixon and Chris Riley 🧡 (and yeah, I was there too!)
 
 All our pics are being uploaded to the Partiful event page as we speak, link in comments. And stay tuned for our panel recording, coming very soon!!!
 
@@ -56,11 +56,11 @@ All our pics are being uploaded to the Partiful event page as we speak, link in 
 ---
 We hosted Build Mode at New York Tech Week tonight, and it was rad. I met some really cool people, and we had an amazing panel.
 
-Now that Iâ€™m home though, I find myself reflecting on the people who show up for you over the years. Iâ€™ve been in DevRel for about 15 years, and yes, itâ€™s changed a lot, but every now and then, you get reminded of what stays the same.
+Now that I’m home though, I find myself reflecting on the people who show up for you over the years. I’ve been in DevRel for about 15 years, and yes, it’s changed a lot, but every now and then, you get reminded of what stays the same.
 
-I was so tickled that both Tyler Singletary and Tim Falls came by. Tim and I go way back, from even before the Keen IO days, and Tylerâ€™s been in my orbit for just as long. Seeing their familiar faces, faces that have been with me throughout my entire devrel career, reminds me how connected this community can be, even with all the change weâ€™re dealing with.
+I was so tickled that both Tyler Singletary and Tim Falls came by. Tim and I go way back, from even before the Keen IO days, and Tyler’s been in my orbit for just as long. Seeing their familiar faces, faces that have been with me throughout my entire devrel career, reminds me how connected this community can be, even with all the change we’re dealing with.
 
-Seeing them tonight was a reminder of how lucky I am to have crossed paths with the people I have, and how much weâ€™ve all been through together. Feeling grateful, a little old, and really satisfied with another community event well done. Canâ€™t wait to share more about the event itself tomorrow. ðŸ§¡
+Seeing them tonight was a reminder of how lucky I am to have crossed paths with the people I have, and how much we’ve all been through together. Feeling grateful, a little old, and really satisfied with another community event well done. Can’t wait to share more about the event itself tomorrow. 🧡
 
 
 ### Post 8
@@ -72,11 +72,11 @@ While I remain very excited about our Wednesday night Build Mode event, this is 
 ---
 Build Mode is sold out. Like, five times over.
 
-Our event for RevOps and GTM builders at NY TECH WEEK by a16z (June 3rd) has more demand than we have room for, and I'm currently doing the best possible, but most challenging, kind of event math make sure the most worthy folks are in the room.Â ðŸ™ƒ
+Our event for RevOps and GTM builders at NY TECH WEEK by a16z (June 3rd) has more demand than we have room for, and I'm currently doing the best possible, but most challenging, kind of event math make sure the most worthy folks are in the room. 🙃
 
 If you're on the list and you KNOW you're coming, please comment or message me so I can make sure you actually get in. HubSpot community folks will not be left outside on the sidewalk on my watch!
 
-If you can't make it in person -- we're recording the panel with Lica, Andreas, and Juli, so you won't miss the good stuff. ðŸ§¡
+If you can't make it in person -- we're recording the panel with Lica, Andreas, and Juli, so you won't miss the good stuff. 🧡
 
 Every time I plan an event I rediscover how much I respect people who do this full-time. It's a lot. But the in-person time with this community, right now, going into UNBOUND season? Worth it.
 

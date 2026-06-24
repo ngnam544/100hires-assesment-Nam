@@ -1,4 +1,4 @@
-﻿# Detailed Profile: brianoblinger
+# Detailed Profile: brianoblinger
 
 ==================================================
 ## Main Profile & About
@@ -6,7 +6,7 @@
 
 Brian Oblinger
 
-Â· 3rd
+· 3rd
 
 Strategy Consultant | Community, Customer Marketing, & Advocacy for the AI era
 
@@ -32,21 +32,21 @@ Strategy Consultant | Community, Customer Marketing, Advocacy, Education, & CX
 
 Brian Oblinger | Strategic Consulting
 
-2020 - Present Â· 6 yrs 6 mos
+2020 - Present · 6 yrs 6 mos
 
 I help enterprise B2B and high-growth SaaS companies design community strategies that increase retention, ignite advocacy, and scale success in an AI-driven world
 
-â€¢ Provide executive-level leadership and strategic advisory to enterprise and high-growth SaaS companies seeking to use customer experience and community as strategic growth and efficiency levers
+• Provide executive-level leadership and strategic advisory to enterprise and high-growth SaaS companies seeking to use customer experience and community as strategic growth and efficiency levers
 
-â€¢ Advise C-suite, senior leaders, and delivery teams on customer experience, community strategy, and operating model design to improve retention, satisfaction, and expansion revenue
+• Advise C-suite, senior leaders, and delivery teams on customer experience, community strategy, and operating model design to improve retention, satisfaction, and expansion revenue
 
-â€¢ Provide guidance on initiatives to reduce support costs and increase customer self-service through scalable customer marketing, community, education, and engagement programs
+• Provide guidance on initiatives to reduce support costs and increase customer self-service through scalable customer marketing, community, education, and engagement programs
 
-â€¢ Partner with leadership to define success metrics, governance, and investment models for community-led GTM initiatives
+• Partner with leadership to define success metrics, governance, and investment models for community-led GTM initiatives
 
-â€¢ Serve as a trusted advisor to executive and technology leaders on platform investment decisions
+• Serve as a trusted advisor to executive and technology leaders on platform investment decisions
 
-â€¢ Deliver customized coaching and mentoring to high-performing teams and individuals by creating clarity, trust, and ownership â€” enabling individuals to stretch beyond perceived limits and consistently over-achieve
+• Deliver customized coaching and mentoring to high-performing teams and individuals by creating clarity, trust, and ownership — enabling individuals to stretch beyond perceived limits and consistently over-achieve
 
 Recent clients include: Airbnb, Cisco, Cornerstone, Docusign, Greenhouse, Hubspot, Oracle, Salesforce, SAP, Schneider Electric, Techstars, and more
 
@@ -58,11 +58,11 @@ Founder & Lead Instructor
 
 Community Strategy Academy
 
-2023 - Present Â· 3 yrs 6 mos
+2023 - Present · 3 yrs 6 mos
 
 Where community builders learn how to launch their careers to new heights, build better communities, and create more business impact.
 
-25 Courses Â» 400 Lessons Â» 42+ Hours of learning
+25 Courses » 400 Lessons » 42+ Hours of learning
 
 Start learning today for free at communitystrategyacademy.com
 
@@ -70,7 +70,7 @@ Podcast Co-Host
 
 In Before The Lock
 
-2020 - Present Â· 6 yrs 6 mos
+2020 - Present · 6 yrs 6 mos
 
 A podcast with Erica Kuhl about community, customer experience, and leadership at scale.
 
@@ -80,15 +80,15 @@ VP, Customer Experience & Global Community
 
 DataRobot
 
-2019 - 2020 Â· 1 yr
+2019 - 2020 · 1 yr
 
 Led global customer experience and community strategy for an enterprise AI and machine learning platform serving highly technical and executive audiences.
 
-â€¢ Designed and operated customer experiences for tens of thousands of data scientists, engineers, analysts, and business leaders globally, accelerating adoption of cutting-edge AI/ML solutions
+• Designed and operated customer experiences for tens of thousands of data scientists, engineers, analysts, and business leaders globally, accelerating adoption of cutting-edge AI/ML solutions
 
-â€¢ Aligned community, education, and engagement initiatives with enterprise customer needs, driving expansion and retention while realizing multi-million-dollar ROI
+• Aligned community, education, and engagement initiatives with enterprise customer needs, driving expansion and retention while realizing multi-million-dollar ROI
 
-â€¢ Drove cross-functional alignment across product, marketing, and services to support customer growth and reduce cost-to-serve in a rapidly scaling AI organization
+• Drove cross-functional alignment across product, marketing, and services to support customer growth and reduce cost-to-serve in a rapidly scaling AI organization
 
 Artificial Intelligence (AI), Machine Learning and +2 skills
 
@@ -96,15 +96,15 @@ Vice President, Community, Support, & Experience (Progressive Roles)
 
 Alteryx
 
-2015 - 2019 Â· 4 yrs
+2015 - 2019 · 4 yrs
 
 Held multiple executive leadership roles during a period of rapid growth through pre- and post-IPO scale, with accountability for global community, support, education, advocacy, and customer experience.
 
-â€¢ Built and scaled a global end-to-end customer journey serving 100,000+ data scientists and analysts worldwide, supporting demand generation, adoption, retention, and fanatical advocacy
+• Built and scaled a global end-to-end customer journey serving 100,000+ data scientists and analysts worldwide, supporting demand generation, adoption, retention, and fanatical advocacy
 
-â€¢ Contributed to new bookings, expansion, and industry-leading net revenue retention while transitioning $20M+ in annual customer support demand to self-service channels
+• Contributed to new bookings, expansion, and industry-leading net revenue retention while transitioning $20M+ in annual customer support demand to self-service channels
 
-â€¢ Developed and led global teams through a 400% increase in organizational headcount while partnering closely with executive leadership on customer strategy and business outcomes
+• Developed and led global teams through a 400% increase in organizational headcount while partnering closely with executive leadership on customer strategy and business outcomes
 
 Initial Public Offerings (IPO), Customer Experience Strategy & Operations and +3 skills
 
@@ -112,15 +112,15 @@ Senior Advisor, Strategy, Services, & Success (Progressive Roles)
 
 Lithium Technologies
 
-2005 - 2015 Â· 10 yrs
+2005 - 2015 · 10 yrs
 
 Held progressive leadership and advisory roles spanning frontline operations through enterprise consulting, supporting global brands in building, scaling, and operating customer programs.
 
-â€¢ Delivered strategic community, social, and customer engagement guidance to Fortune 500 and global consumer brands, contributing to nine-figure business impact as measured by clients
+• Delivered strategic community, social, and customer engagement guidance to Fortune 500 and global consumer brands, contributing to nine-figure business impact as measured by clients
 
-â€¢ Led enterprise customer success and services engagements across North America, EMEA, and APAC for complex platform deployments, supporting adoption, long-term value, and strategic alignment
+• Led enterprise customer success and services engagements across North America, EMEA, and APAC for complex platform deployments, supporting adoption, long-term value, and strategic alignment
 
-â€¢ Clients included: Acer, Autodesk, eBay, OpenTable, Sephora, Warner Bros., Hewlett-Packard, Home Depot, Cisco, SAP, Barnes & Noble, Sony PlayStation, Nintendo, and others
+• Clients included: Acer, Autodesk, eBay, OpenTable, Sephora, Warner Bros., Hewlett-Packard, Home Depot, Cisco, SAP, Barnes & Noble, Sony PlayStation, Nintendo, and others
 
 Value Engineering, Executive Advisory and +3 skills
 
@@ -137,27 +137,27 @@ Given
 
 Naya Joseph
 
-Â· 3rd+
+· 3rd+
 
 Human-Centered Experience Designer | Culture, Events & Connection Strategist | Reiki Practitioner
 
-September 5, 2022, Brian was senior to Naya but didnâ€™t manage Naya directly
+September 5, 2022, Brian was senior to Naya but didn’t manage Naya directly
 
-Brian is the kind of leader you hope to encounter early in your career â€“Â incredibly wise and generous with his knowledge, affirming of the value of his teammates while still creating and pointing out opportunities to do and be better, and exemplifying what it means to take your work seriously while still having a good time. He was able to offer me strategic direction in my career and provide insightful feedback & guidance on our team's organization and strategy, which not only improved how we worked but also built up our confidence. To work with Brian is to end up better than you were when you started.
+Brian is the kind of leader you hope to encounter early in your career – incredibly wise and generous with his knowledge, affirming of the value of his teammates while still creating and pointing out opportunities to do and be better, and exemplifying what it means to take your work seriously while still having a good time. He was able to offer me strategic direction in my career and provide insightful feedback & guidance on our team's organization and strategy, which not only improved how we worked but also built up our confidence. To work with Brian is to end up better than you were when you started.
 
 Glenda Gataleta
 
-Â· 3rd
+· 3rd
 
 Multiplying Ops - Strategy & Operations Partner for scaling founders
 
-September 3, 2022, Brian was senior to Glenda but didnâ€™t manage Glenda directly
+September 3, 2022, Brian was senior to Glenda but didn’t manage Glenda directly
 
-Brian is the literal embodiment of a servant and encouraging leader, he knows what heâ€™s doing, has a wealth of experience and is not afraid to speak up for what he believes in. Alongside his leadership and strategic planning, Brian remained a skilful doer, building and rolling out projects first hand with extreme precision. He is always willing to lend a helping hand and truly makes sure no one is left behind when struggling. He is an inspiration to everyone who crosses his path.
+Brian is the literal embodiment of a servant and encouraging leader, he knows what he’s doing, has a wealth of experience and is not afraid to speak up for what he believes in. Alongside his leadership and strategic planning, Brian remained a skilful doer, building and rolling out projects first hand with extreme precision. He is always willing to lend a helping hand and truly makes sure no one is left behind when struggling. He is an inspiration to everyone who crosses his path.
 
 Diego C.
 
-Â· 3rd+
+· 3rd+
 
 Senior Security Engineer
 
@@ -167,7 +167,7 @@ I'm writing this testimonial not to point out Brian's expertise but to share the
 
 Peter Klipfel
 
-Â· 3rd
+· 3rd
 
 Helping businesses grow
 
@@ -177,7 +177,7 @@ Brian is a highly effective leader. He was able to build and support a great tea
 
 Ablla Strainer
 
-Â· 3rd
+· 3rd
 
 Senior RevOps leader focused GTM strategy, processes and systems
 
@@ -187,17 +187,17 @@ I had the pleasure of working with Brian for 3 years at Alteryx, and I'm so than
 
 Chris Shernaman
 
-Â· 3rd
+· 3rd
 
 Atlassian Champion Program Lead | Developing programs to accelerate product adoption, upskill end-users, and scale product governance.
 
 April 9, 2020, Chris reported to Brian directly
 
-I first met Brian 3 years ago, when I began working at Alteryx. Being the person Brian is (passionate, emotionally intelligent, and a visionary people-leader), he opened my eyes to what great communities are and the huge impact they have on customers and companies alike. Under his direction, my team and I were able to deliver best-in-class user group programs. I canâ€™t thank Brian enough for the significant mark he has made on my professional and personal development over the years. Brian has an amazing resume and background, and he will be the most valuable asset to any organization!
+I first met Brian 3 years ago, when I began working at Alteryx. Being the person Brian is (passionate, emotionally intelligent, and a visionary people-leader), he opened my eyes to what great communities are and the huge impact they have on customers and companies alike. Under his direction, my team and I were able to deliver best-in-class user group programs. I can’t thank Brian enough for the significant mark he has made on my professional and personal development over the years. Brian has an amazing resume and background, and he will be the most valuable asset to any organization!
 
 Linda Haviland
 
-Â· 3rd+
+· 3rd+
 
 Lead AI Product Manager | Product Builder
 
@@ -206,11 +206,11 @@ April 6, 2020, Linda reported to Brian directly
 Six months ago I made a huge career switch from the comfort of technical writing into community content development, a brand new area and role at DataRobot. As Community VP, Brian explained the value of a community and how to develop and manage content that educates and engages members. Brian built a positive and supportive community team while accomplishing fantastic milestones toward building a world class community.
 
 In addition to being intensely passionate and an incredibly knowledgeable expert on all things "community," Brian is an inspiring and sincere leader and one of the best people I've had the opportunity to work with. If you haven't figured it out by now, I would indeed work with Brian again if given the opportunity, and so should you.
-â€¦ more
+… more
 
 Joshua Weiner
 
-Â· 3rd+
+· 3rd+
 
 Machine Learning Engineer
 
@@ -220,7 +220,7 @@ Brian is highly effective at seeing large projects through to completion. He bri
 
 Lili McDonald
 
-Â· 3rd+
+· 3rd+
 
 On a mission to create safe and inclusive spaces
 
@@ -230,7 +230,7 @@ Brian has a passion for his people that I have never encountered before. His phi
 
 Chris McDermott
 
-Â· 3rd
+· 3rd
 
 AE Studio
 
@@ -240,18 +240,18 @@ Working with Brian was a great pleasure. He's passionate, hard-working, professi
 
 Robert F.
 
-Â· 3rd+
+· 3rd+
 
 Global Community Manager at Aveva
 
 March 29, 2020, Robert reported to Brian directly
 
 Brian and I first connected when he joined DataRobot. In our community strategy planning conversations, it was evident we were like twins in our thinking. If I began a thought, he could perfectly finish it. Brian knows community and the value / importance it brings to any organization more than any other person I have ever met. SImply put, Brian gets it. He understands how community critically drives business growth, from launch planning though launch and the stages of community maturity with business aligned, detailed programs that support community / brand  awareness, engagement, adoption and conversion, while continually focusing on customer experience. Brian operates on a community level that is extremely rare and would be an impossible to measure asset for any business.  I consider myself incredibly fortunate to have met and worked with such a special people person in Brian, who deeply cares about people and giving back.
-â€¦ more
+… more
 
 Phil Gurbacki
 
-Â· 3rd
+· 3rd
 
 AI Product Management Executive @ Weights & Biases - The AI Developer Platform
 
@@ -262,7 +262,7 @@ Brian is the best manager I have ever had on my team. His knowledge of Customer 
 
 Thomas McCrory
 
-Â· 3rd+
+· 3rd+
 
 VP of Americas
 
@@ -272,7 +272,7 @@ Brian is a great human being first and an Incredible co worker second ! He Bring
 
 Joe Miller
 
-Â· 3rd+
+· 3rd+
 
 Where AI meets customer obsession | Transforming CX
 
@@ -280,14 +280,14 @@ April 24, 2019, Joe reported to Brian directly
 
 Brian is a model visionary, influencer, thought-leader, manager, and all-around human being.  I reported to Brian for more than in two years, and together, were able to deliver industry-leading customer enablement under his leadership. Brian has an incredibly impressive resume of experiences, proven results, and established himself as a titan of industry. Brian is the man for the job on his results alone, but his real value lies in the intangible virtues, intuition, and people skills that don't appear on a CV.
 
-Jake Miknuk ðŸ“Š
+Jake Miknuk 📊
 
-Â· 3rd
+· 3rd
 
-Iâ€™m the Data Dude! || Snowflake Consultant at 7Rivers || AI || Alteryx || KNIME || Dataiku || Tableau || Power BI || Snowflake || Sigma
+I’m the Data Dude! || Snowflake Consultant at 7Rivers || AI || Alteryx || KNIME || Dataiku || Tableau || Power BI || Snowflake || Sigma
 
-April 24, 2019, Brian was senior to Jake but didnâ€™t manage Jake directly
+April 24, 2019, Brian was senior to Jake but didn’t manage Jake directly
 
-Brian is one of those very few people that you work with in your career who has a substantial impact on how you work and why you do it. With an amazing mindset and great mentoring skills, Brian facilitated and managed me on some of the most important projects I have ever worked on. Brianâ€™s passion in everything he does is commendable and he is one of the best in the business at producing results.
+Brian is one of those very few people that you work with in your career who has a substantial impact on how you work and why you do it. With an amazing mindset and great mentoring skills, Brian facilitated and managed me on some of the most important projects I have ever worked on. Brian’s passion in everything he does is commendable and he is one of the best in the business at producing results.
 
 About

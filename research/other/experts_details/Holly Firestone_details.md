@@ -1,4 +1,4 @@
-﻿# Detailed Profile: thehollyfirestone
+# Detailed Profile: thehollyfirestone
 
 ==================================================
 ## Main Profile & About
@@ -6,7 +6,7 @@
 
 Holly Firestone
 
-Â· 3rd
+· 3rd
 
 Community Executive & Strategist l Former Atlassian, Salesforce, Venafi
 
@@ -26,68 +26,68 @@ Bettermode
 
 Visit website
 
-4mo â€¢
+4mo •
 
-Big congrats to the Webflow team on the launch of their new community homebase. ðŸŽ‰
+Big congrats to the Webflow team on the launch of their new community homebase. 🎉
 
-Weâ€™re proud to be the platform powering this next chapter of the Webflow Community.
+We’re proud to be the platform powering this next chapter of the Webflow Community.
 
 Huge kudos to Veronica Hsiao and the entire Webflow team for the execution, and special thanks to Holly Firestone for her thoughtful and strategic contribution along the way.
 
 This is what it looks like when community is treated as a strategic initiative, not a side project.
 
-Excited to see this space grow with the people who make Webflow what it is. ðŸš€
-â€¦ more
+Excited to see this space grow with the people who make Webflow what it is. 🚀
+… more
 
 Webflow
 
-4mo â€¢
+4mo •
 
-Say hello to the new homebase for the Webflow Community ðŸ¡
+Say hello to the new homebase for the Webflow Community 🏡
 
-Weâ€™ve reimagined how our community connects. Bringing conversations, events, challenges, and peer-led learning into one modern, centralized space.
+We’ve reimagined how our community connects. Bringing conversations, events, challenges, and peer-led learning into one modern, centralized space.
 
 Our new homebase makes it easier to:
-â€“ Join discussions, showcase your work, and see whatâ€™s new in Webflow
-â€“ Explore Network Groups and events
-â€“ Stay up to date on the latest community news
-â€“ Connect directly with the Webflow team
+– Join discussions, showcase your work, and see what’s new in Webflow
+– Explore Network Groups and events
+– Stay up to date on the latest community news
+– Connect directly with the Webflow team
 
-Itâ€™s designed to support deeper connection, showcase creativity, and grow alongside this community.
+It’s designed to support deeper connection, showcase creativity, and grow alongside this community.
 
-ðŸ‘‰ Join the new community: https://wfl.io/4k3oXZd
+👉 Join the new community: https://wfl.io/4k3oXZd
 
-â€¦ more
-
-Holly Firestone
-
-Community Executive & Strategist l Former Atlassian, Salesforce, Venafi
-
-7mo â€¢
-
-â­ Austin Community Pros â­
-
-Join both myself and CMX for a morning of engaging discussions, networking, and a panel focused on Community + AI. Iâ€™m excited to connect with y'all and to explore how AI is shaping the future of our work.
-
-ðŸ“… November 12
-ðŸ“ East Austin
-ðŸŽŸï¸ Space is limited â€” be sure to sign up soon!
-
-âœ¨ More info and event sign-up here: https://lnkd.in/gvh9fUqP
-â€¦ more
+… more
 
 Holly Firestone
 
 Community Executive & Strategist l Former Atlassian, Salesforce, Venafi
 
-10mo â€¢
+7mo •
+
+⭐ Austin Community Pros ⭐
+
+Join both myself and CMX for a morning of engaging discussions, networking, and a panel focused on Community + AI. I’m excited to connect with y'all and to explore how AI is shaping the future of our work.
+
+📅 November 12
+📍 East Austin
+🎟️ Space is limited — be sure to sign up soon!
+
+✨ More info and event sign-up here: https://lnkd.in/gvh9fUqP
+… more
+
+Holly Firestone
+
+Community Executive & Strategist l Former Atlassian, Salesforce, Venafi
+
+10mo •
 
 Community Role Alert!
 
 Check out the Director of Community Engagement role at Zioness Movement Inc. The Zioness Movement is an awesome organization with incredible leadership, and they're looking for someone to lead their community strategy.
 
 https://lnkd.in/dn2Y9TPZ
-â€¦ more
+… more
 
 Director of Community Engagement Job Description
 Director of Community Engagement Job Description
@@ -98,31 +98,31 @@ Holly Firestone
 
 Community Executive & Strategist l Former Atlassian, Salesforce, Venafi
 
-11mo â€¢
+11mo •
 
 Webflow is hiring a Senior Community Marketing Manager! This is an awesome opportunity to reimagine and execute on the community strategy for a community of VERY enthusiastic and engaged individuals. What a dream!
-â€¦ more
+… more
 
 Veronica Hsiao
 
 Customer Marketing at Anthropic
 
-11mo â€¢ Edited â€¢
+11mo • Edited •
 
-Iâ€™m thrilled to share that weâ€™re hiring a Senior Community Marketing Manager to help lead the next era of Webflowâ€™s community ðŸš€
+I’m thrilled to share that we’re hiring a Senior Community Marketing Manager to help lead the next era of Webflow’s community 🚀
 
-Webflowâ€™s community is our superpower â€“Â from passionate freelancers, to award-winning agencies, to diverse teams across marketing, design and engineering. As we grow, weâ€™re evolving how we serve and scale that magic and this role is at the heart of it. Weâ€™re looking for someone who:
+Webflow’s community is our superpower – from passionate freelancers, to award-winning agencies, to diverse teams across marketing, design and engineering. As we grow, we’re evolving how we serve and scale that magic and this role is at the heart of it. We’re looking for someone who:
 
-ðŸ’™ Lives and breathes community, with deep familiarity or curiosity for the web design and development space (bonus points if you can walk the Webflow walk!)
-ðŸ“ˆ Can turn insights into action, build smart systems, and operationalize programs that scale
-ðŸ¤ Knows how to connect the dots across functions â€” marketing, product, support, content â€” to deliver both meaningful impact for our community and measurable value for the business
+💙 Lives and breathes community, with deep familiarity or curiosity for the web design and development space (bonus points if you can walk the Webflow walk!)
+📈 Can turn insights into action, build smart systems, and operationalize programs that scale
+🤝 Knows how to connect the dots across functions — marketing, product, support, content — to deliver both meaningful impact for our community and measurable value for the business
 
-Youâ€™ll shape how we bring value to new audiences like developers, marketers, and enterprise teams, while staying grounded in what makes our existing community so damn special. If that sounds exciting, please apply!
+You’ll shape how we bring value to new audiences like developers, marketers, and enterprise teams, while staying grounded in what makes our existing community so damn special. If that sounds exciting, please apply!
 
 Ps. I won't be able to respond to all DMs so the quickest way to get your JD reviewed is by applying below :)
 
 #hiring #webflow #community
-â€¦ more
+… more
 
 Senior Community Marketing Manager
 Senior Community Marketing Manager
@@ -135,7 +135,7 @@ Evan Hamilton
 
 Leading community, customer marketing, customer education, and scaled success teams to drive business outcomes. Privileged to have worked at HubSpot, Reddit, and more.
 
-1yr â€¢
+1yr •
 
 Some of my favorite human beings on stage at #cmxsummit!
 
@@ -148,60 +148,60 @@ Holly Firestone
 
 Community Executive & Strategist l Former Atlassian, Salesforce, Venafi
 
-1yr â€¢ Edited â€¢
+1yr • Edited •
 
-ðŸŽ‰ This is the most exciting thing to happen to the community industry in as long as I can remember! ðŸŽ‰
+🎉 This is the most exciting thing to happen to the community industry in as long as I can remember! 🎉
 
 I truly believe there is no better person in this world to do this than Erica Kuhl. Her 20+ years of experience in community and learning uniquely position her to bring together all of these different functions under one cohesive strategy. Solid move from Nick Mehta and Chuck Ganapathi at Gainsight. Thrilled to see Gainsight amplifying their work in the community and learning spaces. I can't wait to see what's to come.
 
 Congrats, Gainsight on the acquisition of one of the best, most trusted brands in the community industry.
 
-Congrats to you, Erica Kuhl. You've always been, and continue to be, my community north star. â­ï¸
-â€¦ more
+Congrats to you, Erica Kuhl. You've always been, and continue to be, my community north star. ⭐️
+… more
 
 Erica Kuhl
 
 EVP & GM at Gainsight | Sharing real lessons across Community, Customer Education, CS & PX
 
-1yr â€¢
+1yr •
 
-Very exciting news to share! ðŸŽ‰ Today marks the start of a new chapter for me as Gainsight has acquired Erica Kuhl Consulting (EKC).Â  Iâ€™ll be joining as EVP & GM of a newly created business unit that combines the companyâ€™s customer community, learning, and in-app experience offerings.Â  With an added bonus of being on this journey with Chuck Ganapathi, my Salesforce partner in crime since 2007.
+Very exciting news to share! 🎉 Today marks the start of a new chapter for me as Gainsight has acquired Erica Kuhl Consulting (EKC).  I’ll be joining as EVP & GM of a newly created business unit that combines the company’s customer community, learning, and in-app experience offerings.  With an added bonus of being on this journey with Chuck Ganapathi, my Salesforce partner in crime since 2007.
 
-Throughout my career, I've been a passionate advocate for the power of integrated community and learning to drive tangible business results. Thatâ€™s why I am so excited to shape Gainsight's product strategy and lead strategic advisory services, enabling companies to engage customers in ways that increase retention, spark product innovation, and accelerate revenue growth.
+Throughout my career, I've been a passionate advocate for the power of integrated community and learning to drive tangible business results. That’s why I am so excited to shape Gainsight's product strategy and lead strategic advisory services, enabling companies to engage customers in ways that increase retention, spark product innovation, and accelerate revenue growth.
 
-To my valued EKC clients: your trust and partnership have been an integral part of my journey.Â  I'm so grateful for the incredible work we've done together and for inspiring me every step of the way. Iâ€™m excited to continue supporting your success-now with expanded resources and reach as part of Gainsight. Together, weâ€™ll unlock new possibilities with a unifiedÂ  community, learning, and product experience.
+To my valued EKC clients: your trust and partnership have been an integral part of my journey.  I'm so grateful for the incredible work we've done together and for inspiring me every step of the way. I’m excited to continue supporting your success-now with expanded resources and reach as part of Gainsight. Together, we’ll unlock new possibilities with a unified  community, learning, and product experience.
 
-Hereâ€™s to this next chapter and the incredible opportunities ahead!
+Here’s to this next chapter and the incredible opportunities ahead!
 
 Read the press release here: https://lnkd.in/gjfmbfVj
-â€¦ more
+… more
 
 Holly Firestone reposted this
 
 CMX
 
-1yr â€¢
+1yr •
 
-ðŸš€ Big News! CMX Summit 2025 Speaker Announcement! ðŸš€
+🚀 Big News! CMX Summit 2025 Speaker Announcement! 🚀
 
-Weâ€™re thrilled to welcome Erica Kuhl and Holly Firestone to the CMX Summit 2025 stage! ðŸŽ¤âœ¨ These two community powerhouses have shaped some of the most impactful enterprise communities in the world, and now theyâ€™re bringing their expertise to our community.
+We’re thrilled to welcome Erica Kuhl and Holly Firestone to the CMX Summit 2025 stage! 🎤✨ These two community powerhouses have shaped some of the most impactful enterprise communities in the world, and now they’re bringing their expertise to our community.
 
-ðŸ”¹ Erica Kuhl: With 20+ years of enterprise community leadership, Erica built Salesforceâ€™s community from scratchâ€”crafting strategy, programs, and measurable ROI. Sheâ€™s helped scale companies from 176 to 49,000 employees and now works with top brands like Slack, Zendesk, and Notion to create world-class community programs. More at https://bit.ly/3Q4nP9e.
+🔹 Erica Kuhl: With 20+ years of enterprise community leadership, Erica built Salesforce’s community from scratch—crafting strategy, programs, and measurable ROI. She’s helped scale companies from 176 to 49,000 employees and now works with top brands like Slack, Zendesk, and Notion to create world-class community programs. More at https://bit.ly/3Q4nP9e.
 
-ðŸ”¹ Holly Firestone: Holly has led and grown some of the largest community programs in the worldâ€”including Salesforceâ€™s Trailblazer Community and Atlassianâ€™s User Group program. Sheâ€™s worked across enterprise, nonprofit, and startup spaces, and now runs her own consultancy helping brands build thriving, engaged communities.
+🔹 Holly Firestone: Holly has led and grown some of the largest community programs in the world—including Salesforce’s Trailblazer Community and Atlassian’s User Group program. She’s worked across enterprise, nonprofit, and startup spaces, and now runs her own consultancy helping brands build thriving, engaged communities.
 
-These two bring unparalleled experience, strategic insights, and real talk on what it takes to build, scale, and sustain high-impact communities. You wonâ€™t want to miss their workshop!
+These two bring unparalleled experience, strategic insights, and real talk on what it takes to build, scale, and sustain high-impact communities. You won’t want to miss their workshop!
 
-ðŸ“… Join us at CMX Summit 2025 for an unforgettable experience with the best in the industry: https://bit.ly/4aNegFy
+📅 Join us at CMX Summit 2025 for an unforgettable experience with the best in the industry: https://bit.ly/4aNegFy
 
 #CMX #CMXSummit #CommunityLeadership #CommunityBuilding #EnterpriseCommunity"
-â€¦ more
+… more
 
 Holly Firestone
 
 Community Executive & Strategist l Former Atlassian, Salesforce, Venafi
 
-1yr â€¢
+1yr •
 
 I have breast cancer. Enjoy your dinner!
 
@@ -209,9 +209,9 @@ Sharing this post on Linkedin because I want to tell this audience two important
 
 1. GET YOUR MAMMOGRAMS. This was caught on my very first mammogram, which I did just a few weeks after I turned 40. I caught this early. DO. NOT. WAIT.
 
-2. I probably wonâ€™t be on here all that much over the next few weeks. I know itâ€™s shocking, right? Iâ€™ll be reading, needlepointing, and binging trash TV (always looking for recommendations if you have any!) So for the folks trying to sell me something or asking me to invest in your startup for the 10th time, donâ€™t you worry, nothing will change for you! I will continue to ignore you!Â ðŸ˜‰
-For everyone elseâ€” most especially those who want to connect about building community, if I donâ€™t respond right away,  just remember, Iâ€™ll be back. And I CANâ€™T WAIT to connect with you!
-â€¦ more
+2. I probably won’t be on here all that much over the next few weeks. I know it’s shocking, right? I’ll be reading, needlepointing, and binging trash TV (always looking for recommendations if you have any!) So for the folks trying to sell me something or asking me to invest in your startup for the 10th time, don’t you worry, nothing will change for you! I will continue to ignore you! 😉
+For everyone else— most especially those who want to connect about building community, if I don’t respond right away,  just remember, I’ll be back. And I CAN’T WAIT to connect with you!
+… more
 
 I have Breast Cancer. Enjoy your dinner!
 I have Breast Cancer. Enjoy your dinner!
@@ -225,7 +225,7 @@ Holly Firestone
 
 Community Executive & Strategist l Former Atlassian, Salesforce, Venafi
 
-2yr â€¢ Edited â€¢
+2yr • Edited •
 
 At the end of last year, I decided to spend the next several months focused fully on my family- most especially the new baby I was expecting.
 
@@ -236,7 +236,7 @@ My sweet baby girl Eve is 8 months old tomorrow, and my son Max is officially 2 
 I'm back, baby!
 
 *I recognize that not everyone can do this. I also recognize that parental leave in the US is abysmal, and many parents couldn't dream of getting a single month off, let alone eight. I can't express in words how amazing it is to spend what I felt was the right amount of time letting my mind and body recover before jumping back into work. Some of my favorite companies/orgs that are fighting hard to support parents is Bobbie and Chamber of Mothers. Check them and the many incredible partners of theirs out to learn more about the crisis parents are facing around this country and how we can advocate for change.
-â€¦ more
+… more
 
 1/2
 
@@ -247,20 +247,20 @@ Holly Firestone
 
 Community Executive & Strategist l Former Atlassian, Salesforce, Venafi
 
-2yr â€¢
+2yr •
 
 The community team at Docusign just launched their new community! The team that produced this is absolutely incredible, and the community is already a shining example of what community can be. Check it out and join!
-â€¦ more
+… more
 
 Tanya Faddoul
 
 Vice President, Product and Technology Strategy and Planning
 
-2yr â€¢
+2yr •
 
-Exciting News!Â ðŸŽ‰
+Exciting News! 🎉
 
-I'm thrilled to announce the launch of our new digital community â€“ The DocuSign Community!
+I'm thrilled to announce the launch of our new digital community – The DocuSign Community!
 
 At DocuSign, we believe in fostering meaningful connections, and that's why we've created a space where our community can come together to collaborate, share insights, and propel each other to new heights.
 
@@ -274,10 +274,10 @@ Join us in building a vibrant ecosystem where ideas flourish and thrive. Togethe
 
 Ready to join the conversation? Become a part of The DocuSign Community: https://lnkd.in/gtuXnbiJ
 
-Let's unlock limitless possibilities together!Â Can't wait to see you there.
+Let's unlock limitless possibilities together! Can't wait to see you there.
 
 #DigitalCommunity #BusinessNetworking #InnovationHub #LaunchDay
-â€¦ more
+… more
 
 Join the conversation | Community
 Join the conversation | Community
@@ -294,9 +294,9 @@ Experience
 
 Chief Executive Officer
 
-Holly Firestone Consulting Â· Self-employed
+Holly Firestone Consulting · Self-employed
 
-Feb 2023 - Present Â· 3 yrs 5 mos
+Feb 2023 - Present · 3 yrs 5 mos
 
 Austin, Texas, United States
 
@@ -306,31 +306,31 @@ Limited Partner
 
 GTMfund
 
-Jan 2021 - Present Â· 5 yrs 6 mos
+Jan 2021 - Present · 5 yrs 6 mos
 
 Investor
 
 Commsor
 
-Nov 2020 - Present Â· 5 yrs 8 mos
+Nov 2020 - Present · 5 yrs 8 mos
 
 Investor
 
 Bevy
 
-Mar 2021 - Present Â· 5 yrs 4 mos
+Mar 2021 - Present · 5 yrs 4 mos
 
 Limited Partner & Product Council
 
 Bling Capital
 
-Aug 2018 - Present Â· 7 yrs 11 mos
+Aug 2018 - Present · 7 yrs 11 mos
 
 Advisor
 
 Pledge 1%
 
-Aug 2020 - Present Â· 5 yrs 11 mos
+Aug 2020 - Present · 5 yrs 11 mos
 
 Thrilled to be giving back by doing pro bono work for Pledge 1% by advising on their Community strategy, technology, and hiring.
 
@@ -340,15 +340,15 @@ Pledge 1%, believes that all companies have the capacity to give, and they can h
 
 Home - Pledge 1%
 
-We want to change the world by inspiring earlyâ€“stage corporate philanthropy. Pledge 1% is an easy way to leverage a portion of your future success to support nonprofits in your community. Itâ€™s a small commitment today that can make a huge impact...
+We want to change the world by inspiring early–stage corporate philanthropy. Pledge 1% is an easy way to leverage a portion of your future success to support nonprofits in your community. It’s a small commitment today that can make a huge impact...
 
 Venafi
 
-Full-time Â· 3 yrs 1 mo
+Full-time · 3 yrs 1 mo
 
 EVP, Community
 
-Feb 2021 - Jan 2023 Â· 2 yrs
+Feb 2021 - Jan 2023 · 2 yrs
 
 VP of Community at Venafi- Member of the Executive Leadership Team
 
@@ -358,7 +358,7 @@ Skills: Recognition Programs
 
 Head of Community
 
-Jan 2020 - Feb 2021 Â· 1 yr 2 mos
+Jan 2020 - Feb 2021 · 1 yr 2 mos
 
 Building a community for security experts, developers, partners, CISOs, and others who are deeply invested in the success of security and Machine Identity Management.
 
@@ -368,7 +368,7 @@ Advisor
 
 Chainlink Labs
 
-Jun 2021 - Dec 2021 Â· 7 mos
+Jun 2021 - Dec 2021 · 7 mos
 
 Salesforce
 
@@ -376,7 +376,7 @@ Salesforce
 
 Senior Director, Trailblazer Community
 
-Aug 2019 - Nov 2019 Â· 4 mos
+Aug 2019 - Nov 2019 · 4 mos
 
 Senior Director of the Trailblazer Community at Salesforce, running and setting the strategy for Salesforce's most valuable and recognizable community programs. Building the community for audiences such as developers, admins, marketing experts, analysts, and more.
 
@@ -395,7 +395,7 @@ Skills: Recognition Programs
 
 Director, Community
 
-Apr 2017 - Aug 2019 Â· 2 yrs 5 mos
+Apr 2017 - Aug 2019 · 2 yrs 5 mos
 
 Austin, Texas Area
 
@@ -403,7 +403,7 @@ Skills: Recognition Programs
 
 Senior Manager, Community Programs
 
-Mar 2015 - Apr 2017 Â· 2 yrs 2 mos
+Mar 2015 - Apr 2017 · 2 yrs 2 mos
 
 San Francisco Bay Area
 
@@ -421,7 +421,7 @@ Atlassian
 
 Global Community Lead
 
-Jan 2015 - Feb 2015 Â· 2 mos
+Jan 2015 - Feb 2015 · 2 mos
 
 San Francisco Bay Area
 
@@ -429,7 +429,7 @@ Skills: Recognition Programs
 
 Community Manager
 
-Oct 2013 - Dec 2014 Â· 1 yr 3 mos
+Oct 2013 - Dec 2014 · 1 yr 3 mos
 
 San Francisco Bay Area
 
@@ -437,7 +437,7 @@ Skills: Recognition Programs
 
 Community Specialist
 
-Jan 2013 - Oct 2013 Â· 10 mos
+Jan 2013 - Oct 2013 · 10 mos
 
 San Francisco, CA
 
@@ -449,7 +449,7 @@ San Francisco, CA
 
 - Work with Product Marketing Managers and User Group leaders to facilitate product-specific sponsorships for Atlassian User Groups as well as external User Groups (Java User Groups, Ruby User Groups, etc)
 
-- Develop Community program for Atlassianâ€™s User Conference, Summit. This entails planning Community Space (booth) requirements, Community Leader Appreciation dinner and gifts, Community Leader roundtable lunch, creating collateral, and pre-Summit promotion through Community programs
+- Develop Community program for Atlassian’s User Conference, Summit. This entails planning Community Space (booth) requirements, Community Leader Appreciation dinner and gifts, Community Leader roundtable lunch, creating collateral, and pre-Summit promotion through Community programs
 
 - Create and oversee budget for Community programs
 
@@ -480,7 +480,7 @@ Given
 
 Kendall Odom
 
-Â· 3rd+
+· 3rd+
 
 Principal Technical Program Manager & RTE @ Twilio | Former Salesforce, Pinterest
 
