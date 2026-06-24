@@ -1,11 +1,11 @@
 ---
-expert_name: David Spinks
-video_title: How to Build a Thriving Community with David Spinks
-publish_date: 1 year ago
-source_channel: The Marketing Millennials
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=jW48Kpc0XKg
-transcript_language: en
+expert_name: "David Spinks"
+video_title: "How to Build a Thriving Community with David Spinks"
+publish_date: "1 year ago"
+source_channel: "The Marketing Millennials"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=jW48Kpc0XKg"
+transcript_language: "en"
 ---
 
 # How to Build a Thriving Community with David Spinks

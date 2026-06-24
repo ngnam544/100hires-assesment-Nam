@@ -1,11 +1,11 @@
 ---
-expert_name: Wesley Faulkner
-video_title: The benefits of sponsored communities | Ep. 48 with Amazon AWS's Wesley Faulkner [podcast]
-publish_date: 3 years ago
-source_channel: UserTesting
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=s3Jht5npetk
-transcript_language: en
+expert_name: "Wesley Faulkner"
+video_title: "The benefits of sponsored communities | Ep. 48 with Amazon AWS's Wesley Faulkner [podcast]"
+publish_date: "3 years ago"
+source_channel: "UserTesting"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=s3Jht5npetk"
+transcript_language: "en"
 ---
 
 # The benefits of sponsored communities | Ep. 48 with Amazon AWS's Wesley Faulkner [podcast]

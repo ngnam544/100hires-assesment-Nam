@@ -1,11 +1,11 @@
 ---
-expert_name: Dani Weinstein
-video_title: Community Life #21 with Dani Weinstein
-publish_date: 3 years ago
-source_channel: Communiverse
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=1XEnLkbA024
-transcript_language: en
+expert_name: "Dani Weinstein"
+video_title: "Community Life #21 with Dani Weinstein"
+publish_date: "3 years ago"
+source_channel: "Communiverse"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=1XEnLkbA024"
+transcript_language: "en"
 ---
 
 # Community Life #21 with Dani Weinstein

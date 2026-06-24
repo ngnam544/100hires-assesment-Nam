@@ -1,11 +1,11 @@
 ---
-expert_name: Joshua Zerkel
-video_title: Community Reporting Blueprint w/ Joshua Zerkel (Asana)
-publish_date: 4 months ago
-source_channel: Community Inc.
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=Uo1f5nHlNHg
-transcript_language: en
+expert_name: "Joshua Zerkel"
+video_title: "Community Reporting Blueprint w/ Joshua Zerkel (Asana)"
+publish_date: "4 months ago"
+source_channel: "Community Inc."
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=Uo1f5nHlNHg"
+transcript_language: "en"
 ---
 
 # Community Reporting Blueprint w/ Joshua Zerkel (Asana)

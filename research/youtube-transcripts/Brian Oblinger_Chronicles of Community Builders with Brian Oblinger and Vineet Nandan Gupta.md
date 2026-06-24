@@ -1,11 +1,11 @@
 ---
-expert_name: Brian Oblinger
-video_title: Chronicles of Community Builders with Brian Oblinger and Vineet Nandan Gupta
-publish_date: 4 years ago
-source_channel: Community Folks
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=d3EXDflJkR8
-transcript_language: en
+expert_name: "Brian Oblinger"
+video_title: "Chronicles of Community Builders with Brian Oblinger and Vineet Nandan Gupta"
+publish_date: "4 years ago"
+source_channel: "Community Folks"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=d3EXDflJkR8"
+transcript_language: "en"
 ---
 
 # Chronicles of Community Builders with Brian Oblinger and Vineet Nandan Gupta

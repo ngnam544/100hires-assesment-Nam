@@ -1,11 +1,11 @@
 ---
-expert_name: David Spinks
-video_title: The top 3 Mistakes even Smart Community Managers Make with David Spinks
-publish_date: 4 years ago
-source_channel: Game Thinking TV
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=wPSueujVYHE
-transcript_language: en
+expert_name: "David Spinks"
+video_title: "The top 3 Mistakes even Smart Community Managers Make with David Spinks"
+publish_date: "4 years ago"
+source_channel: "Game Thinking TV"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=wPSueujVYHE"
+transcript_language: "en"
 ---
 
 # The top 3 Mistakes even Smart Community Managers Make with David Spinks

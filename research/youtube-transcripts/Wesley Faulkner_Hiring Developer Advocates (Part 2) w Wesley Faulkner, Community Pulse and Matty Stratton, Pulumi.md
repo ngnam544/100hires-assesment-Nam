@@ -1,11 +1,11 @@
 ---
-expert_name: Wesley Faulkner
-video_title: Hiring Developer Advocates (Part 2) w/ Wesley Faulkner, Community Pulse and Matty Stratton, Pulumi
-publish_date: 4 years ago
-source_channel: Developer Advocast
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=PeufPjq0roE
-transcript_language: en
+expert_name: "Wesley Faulkner"
+video_title: "Hiring Developer Advocates (Part 2) w/ Wesley Faulkner, Community Pulse and Matty Stratton, Pulumi"
+publish_date: "4 years ago"
+source_channel: "Developer Advocast"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=PeufPjq0roE"
+transcript_language: "en"
 ---
 
 # Hiring Developer Advocates (Part 2) w/ Wesley Faulkner, Community Pulse and Matty Stratton, Pulumi

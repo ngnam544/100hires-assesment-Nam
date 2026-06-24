@@ -1,11 +1,11 @@
 ---
-expert_name: David Spinks
-video_title: David Spinks: The Future of the Community Industry
-publish_date: 10 years ago
-source_channel: CMX
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=tmJ8E_oT3uc
-transcript_language: en
+expert_name: "David Spinks"
+video_title: "David Spinks: The Future of the Community Industry"
+publish_date: "10 years ago"
+source_channel: "CMX"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=tmJ8E_oT3uc"
+transcript_language: "en"
 ---
 
 # David Spinks: The Future of the Community Industry

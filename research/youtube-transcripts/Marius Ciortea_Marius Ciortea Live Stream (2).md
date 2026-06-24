@@ -1,11 +1,11 @@
 ---
-expert_name: Marius Ciortea
-video_title: Marius Ciortea Live Stream
-publish_date: Streamed 9 years ago
-source_channel: Marius Ciortea
-appearance: own channel
-source_url: https://www.youtube.com/watch?v=Em4qpQ14dUc
-transcript_language: en
+expert_name: "Marius Ciortea"
+video_title: "Marius Ciortea Live Stream"
+publish_date: "Streamed 9 years ago"
+source_channel: "Marius Ciortea"
+appearance: "own channel"
+source_url: "https://www.youtube.com/watch?v=Em4qpQ14dUc"
+transcript_language: "en"
 ---
 
 # Marius Ciortea Live Stream

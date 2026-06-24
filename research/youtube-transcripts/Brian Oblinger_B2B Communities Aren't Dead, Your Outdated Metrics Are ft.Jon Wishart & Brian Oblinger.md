@@ -1,11 +1,11 @@
 ---
-expert_name: Brian Oblinger
-video_title: B2B Communities Aren't Dead, Your Outdated Metrics Are ft.Jon Wishart & Brian Oblinger
-publish_date: 3 months ago
-source_channel: Gainsight
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=mxjU_-BpZ5k
-transcript_language: en
+expert_name: "Brian Oblinger"
+video_title: "B2B Communities Aren't Dead, Your Outdated Metrics Are ft.Jon Wishart & Brian Oblinger"
+publish_date: "3 months ago"
+source_channel: "Gainsight"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=mxjU_-BpZ5k"
+transcript_language: "en"
 ---
 
 # B2B Communities Aren't Dead, Your Outdated Metrics Are ft.Jon Wishart & Brian Oblinger

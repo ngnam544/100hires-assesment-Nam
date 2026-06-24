@@ -1,11 +1,11 @@
 ---
-expert_name: Brian Oblinger
-video_title: Advanced Strategies: Communities at Scale a workshop with Brian Oblinger
-publish_date: 2 years ago
-source_channel: Led by Community
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=68akk2_gXJ8
-transcript_language: en
+expert_name: "Brian Oblinger"
+video_title: "Advanced Strategies: Communities at Scale a workshop with Brian Oblinger"
+publish_date: "2 years ago"
+source_channel: "Led by Community"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=68akk2_gXJ8"
+transcript_language: "en"
 ---
 
 # Advanced Strategies: Communities at Scale a workshop with Brian Oblinger

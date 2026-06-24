@@ -1,11 +1,11 @@
 ---
-expert_name: Holly Firestone
-video_title: India Dreamin '17 Keynote Speaker | Salesforce Ohana - A Force to be Reckoned With | Holly Firestone
-publish_date: 8 years ago
-source_channel: India Dreamin
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=56W0rwZLEaA
-transcript_language: en
+expert_name: "Holly Firestone"
+video_title: "India Dreamin '17 Keynote Speaker | Salesforce Ohana - A Force to be Reckoned With | Holly Firestone"
+publish_date: "8 years ago"
+source_channel: "India Dreamin"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=56W0rwZLEaA"
+transcript_language: "en"
 ---
 
 # India Dreamin '17 Keynote Speaker | Salesforce Ohana - A Force to be Reckoned With | Holly Firestone

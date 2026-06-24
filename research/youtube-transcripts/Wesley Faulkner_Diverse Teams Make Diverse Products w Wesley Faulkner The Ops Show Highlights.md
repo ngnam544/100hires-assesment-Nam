@@ -1,11 +1,11 @@
 ---
-expert_name: Wesley Faulkner
-video_title: Diverse Teams Make Diverse Products w/ Wesley Faulkner | The Ops Show Highlights
-publish_date: 5 years ago
-source_channel: CTO ai
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=ZGFnZ-oUmMU
-transcript_language: en
+expert_name: "Wesley Faulkner"
+video_title: "Diverse Teams Make Diverse Products w/ Wesley Faulkner | The Ops Show Highlights"
+publish_date: "5 years ago"
+source_channel: "CTO ai"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=ZGFnZ-oUmMU"
+transcript_language: "en"
 ---
 
 # Diverse Teams Make Diverse Products w/ Wesley Faulkner | The Ops Show Highlights

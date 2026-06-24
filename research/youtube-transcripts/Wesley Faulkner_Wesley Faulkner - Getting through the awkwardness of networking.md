@@ -1,11 +1,11 @@
 ---
-expert_name: Wesley Faulkner
-video_title: Wesley Faulkner - Getting through the awkwardness of networking
-publish_date: 3 years ago
-source_channel: JuneteenthConf
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=XJowVFiOFx4
-transcript_language: en
+expert_name: "Wesley Faulkner"
+video_title: "Wesley Faulkner - Getting through the awkwardness of networking"
+publish_date: "3 years ago"
+source_channel: "JuneteenthConf"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=XJowVFiOFx4"
+transcript_language: "en"
 ---
 
 # Wesley Faulkner - Getting through the awkwardness of networking

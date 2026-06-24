@@ -1,11 +1,11 @@
 ---
-expert_name: Sarah Jane Morris
-video_title: Bridging the Gap: Inclusive Community Engagement Strategies
-publish_date: 9 years ago
-source_channel: Sarah-Jane Morris
-appearance: own channel
-source_url: https://www.youtube.com/watch?v=Qtd-ElkXqD0
-transcript_language: en
+expert_name: "Sarah Jane Morris"
+video_title: "Bridging the Gap: Inclusive Community Engagement Strategies"
+publish_date: "9 years ago"
+source_channel: "Sarah-Jane Morris"
+appearance: "own channel"
+source_url: "https://www.youtube.com/watch?v=Qtd-ElkXqD0"
+transcript_language: "en"
 ---
 
 # Bridging the Gap: Inclusive Community Engagement Strategies

@@ -1,11 +1,11 @@
 ---
-expert_name: David Spinks
-video_title: The State of the Community Industry | David Spinks
-publish_date: 6 years ago
-source_channel: CMX
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=DZG2qlwc0uc
-transcript_language: en
+expert_name: "David Spinks"
+video_title: "The State of the Community Industry | David Spinks"
+publish_date: "6 years ago"
+source_channel: "CMX"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=DZG2qlwc0uc"
+transcript_language: "en"
 ---
 
 # The State of the Community Industry | David Spinks

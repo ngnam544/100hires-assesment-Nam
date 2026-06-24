@@ -1,11 +1,11 @@
 ---
-expert_name: Brian Oblinger
-video_title: Solving Business Problems and Calculating ROI (Brian Oblinger) - MASTERCLASS
-publish_date: 4 years ago
-source_channel: IS-CL (International Startup Community Leaders)
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=PocWqw0au2M
-transcript_language: en
+expert_name: "Brian Oblinger"
+video_title: "Solving Business Problems and Calculating ROI (Brian Oblinger) - MASTERCLASS"
+publish_date: "4 years ago"
+source_channel: "IS-CL (International Startup Community Leaders)"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=PocWqw0au2M"
+transcript_language: "en"
 ---
 
 # Solving Business Problems and Calculating ROI (Brian Oblinger) - MASTERCLASS

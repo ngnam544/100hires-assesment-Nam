@@ -1,11 +1,11 @@
 ---
-expert_name: David Spinks
-video_title: Build Community in Your Company | David Spinks, Co-Founder of CMX
-publish_date: 4 years ago
-source_channel: On Deck Clips
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=KuKLvP2rhoA
-transcript_language: en
+expert_name: "David Spinks"
+video_title: "Build Community in Your Company | David Spinks, Co-Founder of CMX"
+publish_date: "4 years ago"
+source_channel: "On Deck Clips"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=KuKLvP2rhoA"
+transcript_language: "en"
 ---
 
 # Build Community in Your Company | David Spinks, Co-Founder of CMX

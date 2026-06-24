@@ -1,11 +1,11 @@
 ---
-expert_name: Joshua Zerkel
-video_title: The Blueprint for Community Reporting that gets Buy-in w/ Joshua Zerkel
-publish_date: 1 year ago
-source_channel: Community Inc.
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=nnzY5fpeIRo
-transcript_language: en
+expert_name: "Joshua Zerkel"
+video_title: "The Blueprint for Community Reporting that gets Buy-in w/ Joshua Zerkel"
+publish_date: "1 year ago"
+source_channel: "Community Inc."
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=nnzY5fpeIRo"
+transcript_language: "en"
 ---
 
 # The Blueprint for Community Reporting that gets Buy-in w/ Joshua Zerkel

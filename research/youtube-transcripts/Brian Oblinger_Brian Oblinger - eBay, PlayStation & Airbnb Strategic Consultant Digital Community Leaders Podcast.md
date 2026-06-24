@@ -1,11 +1,11 @@
 ---
-expert_name: Brian Oblinger
-video_title: Brian Oblinger - eBay, PlayStation & Airbnb Strategic Consultant | Digital Community Leaders Podcast
-publish_date: 1 year ago
-source_channel: Pete - Steadfast Collective
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=P-uOHs4i7UE
-transcript_language: en
+expert_name: "Brian Oblinger"
+video_title: "Brian Oblinger - eBay, PlayStation & Airbnb Strategic Consultant | Digital Community Leaders Podcast"
+publish_date: "1 year ago"
+source_channel: "Pete - Steadfast Collective"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=P-uOHs4i7UE"
+transcript_language: "en"
 ---
 
 # Brian Oblinger - eBay, PlayStation & Airbnb Strategic Consultant | Digital Community Leaders Podcast

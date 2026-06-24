@@ -1,11 +1,11 @@
 ---
-expert_name: Holly Firestone
-video_title: Getting Executive Buy-In | Holly Firestone, Jeff Hudson, Beth McIntyre
-publish_date: 4 years ago
-source_channel: CMX
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=yQQPwBu-amc
-transcript_language: en
+expert_name: "Holly Firestone"
+video_title: "Getting Executive Buy-In | Holly Firestone, Jeff Hudson, Beth McIntyre"
+publish_date: "4 years ago"
+source_channel: "CMX"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=yQQPwBu-amc"
+transcript_language: "en"
 ---
 
 # Getting Executive Buy-In | Holly Firestone, Jeff Hudson, Beth McIntyre

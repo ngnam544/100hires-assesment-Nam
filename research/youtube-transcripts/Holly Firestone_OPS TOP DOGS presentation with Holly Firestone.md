@@ -1,11 +1,11 @@
 ---
-expert_name: Holly Firestone
-video_title: OPS TOP DOGS presentation with Holly Firestone
-publish_date: 4 years ago
-source_channel: Community OPServations
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=gSS1jw7PapI
-transcript_language: en
+expert_name: "Holly Firestone"
+video_title: "OPS TOP DOGS presentation with Holly Firestone"
+publish_date: "4 years ago"
+source_channel: "Community OPServations"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=gSS1jw7PapI"
+transcript_language: "en"
 ---
 
 # OPS TOP DOGS presentation with Holly Firestone

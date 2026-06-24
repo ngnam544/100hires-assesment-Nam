@@ -1,11 +1,11 @@
 ---
-expert_name: Wesley Faulkner
-video_title: Intro - Wesley Faulkner
-publish_date: 3 years ago
-source_channel: Wesley Faulkner
-appearance: own channel
-source_url: https://www.youtube.com/watch?v=gQ_4eCQa-xI
-transcript_language: en
+expert_name: "Wesley Faulkner"
+video_title: "Intro - Wesley Faulkner"
+publish_date: "3 years ago"
+source_channel: "Wesley Faulkner"
+appearance: "own channel"
+source_url: "https://www.youtube.com/watch?v=gQ_4eCQa-xI"
+transcript_language: "en"
 ---
 
 # Intro - Wesley Faulkner

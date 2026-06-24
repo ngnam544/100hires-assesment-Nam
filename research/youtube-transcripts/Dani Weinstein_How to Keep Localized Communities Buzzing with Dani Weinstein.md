@@ -1,11 +1,11 @@
 ---
-expert_name: Dani Weinstein
-video_title: How to Keep Localized Communities Buzzing with Dani Weinstein
-publish_date: 4 years ago
-source_channel: CMX
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=zOHHF4vKAoU
-transcript_language: en
+expert_name: "Dani Weinstein"
+video_title: "How to Keep Localized Communities Buzzing with Dani Weinstein"
+publish_date: "4 years ago"
+source_channel: "CMX"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=zOHHF4vKAoU"
+transcript_language: "en"
 ---
 
 # How to Keep Localized Communities Buzzing with Dani Weinstein

@@ -1,11 +1,11 @@
 ---
-expert_name: Brian Oblinger
-video_title: How Community unlocks value through the customer journey - Brian Oblinger
-publish_date: 3 years ago
-source_channel: CLG Campus
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=f9iiu-b4rEM
-transcript_language: en
+expert_name: "Brian Oblinger"
+video_title: "How Community unlocks value through the customer journey - Brian Oblinger"
+publish_date: "3 years ago"
+source_channel: "CLG Campus"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=f9iiu-b4rEM"
+transcript_language: "en"
 ---
 
 # How Community unlocks value through the customer journey - Brian Oblinger

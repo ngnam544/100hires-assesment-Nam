@@ -1,11 +1,11 @@
 ---
-expert_name: Dani Weinstein
-video_title: Selling the value of community as strategic for your executive management team - Dani Weinstein
-publish_date: 5 years ago
-source_channel: Base
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=g9LYQ23_tuc
-transcript_language: en
+expert_name: "Dani Weinstein"
+video_title: "Selling the value of community as strategic for your executive management team - Dani Weinstein"
+publish_date: "5 years ago"
+source_channel: "Base"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=g9LYQ23_tuc"
+transcript_language: "en"
 ---
 
 # Selling the value of community as strategic for your executive management team - Dani Weinstein

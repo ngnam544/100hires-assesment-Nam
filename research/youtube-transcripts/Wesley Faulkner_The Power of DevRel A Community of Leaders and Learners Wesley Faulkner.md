@@ -1,11 +1,11 @@
 ---
-expert_name: Wesley Faulkner
-video_title: The Power of DevRel: A Community of Leaders and Learners: Wesley Faulkner
-publish_date: 2 years ago
-source_channel: Dev Rel
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=rPOy0vhb4n8
-transcript_language: en
+expert_name: "Wesley Faulkner"
+video_title: "The Power of DevRel: A Community of Leaders and Learners: Wesley Faulkner"
+publish_date: "2 years ago"
+source_channel: "Dev Rel"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=rPOy0vhb4n8"
+transcript_language: "en"
 ---
 
 # The Power of DevRel: A Community of Leaders and Learners: Wesley Faulkner

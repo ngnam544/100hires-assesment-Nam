@@ -1,11 +1,11 @@
 ---
-expert_name: Holly Firestone
-video_title: Enterprise Communities: The What, Who, Why, When & How | @VenafiCo Head of Community Holly Firestone
-publish_date: 4 years ago
-source_channel: SaaStr AI
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=CHV_GUO_FZw
-transcript_language: en
+expert_name: "Holly Firestone"
+video_title: "Enterprise Communities: The What, Who, Why, When & How | @VenafiCo Head of Community Holly Firestone"
+publish_date: "4 years ago"
+source_channel: "SaaStr AI"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=CHV_GUO_FZw"
+transcript_language: "en"
 ---
 
 # Enterprise Communities: The What, Who, Why, When & How | @VenafiCo Head of Community Holly Firestone

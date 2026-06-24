@@ -1,11 +1,11 @@
 ---
-expert_name: Dani Weinstein
-video_title: Dani Weinstein of Kaltura | Talk About Your Community
-publish_date: Streamed 4 years ago
-source_channel: Clocktower Advisors
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=hCyo27Q76MQ
-transcript_language: en
+expert_name: "Dani Weinstein"
+video_title: "Dani Weinstein of Kaltura | Talk About Your Community"
+publish_date: "Streamed 4 years ago"
+source_channel: "Clocktower Advisors"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=hCyo27Q76MQ"
+transcript_language: "en"
 ---
 
 # Dani Weinstein of Kaltura | Talk About Your Community

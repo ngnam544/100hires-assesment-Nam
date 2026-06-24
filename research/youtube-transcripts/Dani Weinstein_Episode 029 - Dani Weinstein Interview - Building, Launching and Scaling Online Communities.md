@@ -1,11 +1,11 @@
 ---
-expert_name: Dani Weinstein
-video_title: Episode 029 - Dani Weinstein Interview - Building, Launching and Scaling Online Communities
-publish_date: 2 years ago
-source_channel: CX Nexus Podcast
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=61QvBln0pi0
-transcript_language: en
+expert_name: "Dani Weinstein"
+video_title: "Episode 029 - Dani Weinstein Interview - Building, Launching and Scaling Online Communities"
+publish_date: "2 years ago"
+source_channel: "CX Nexus Podcast"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=61QvBln0pi0"
+transcript_language: "en"
 ---
 
 # Episode 029 - Dani Weinstein Interview - Building, Launching and Scaling Online Communities

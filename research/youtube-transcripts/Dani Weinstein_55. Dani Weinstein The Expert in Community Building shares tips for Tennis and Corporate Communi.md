@@ -1,11 +1,11 @@
 ---
-expert_name: Dani Weinstein
-video_title: 55. Dani Weinstein: The Expert in Community Building shares tips for Tennis and Corporate Communi...
-publish_date: 2 years ago
-source_channel: Grand Slam Journey
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=5ms-XfPoHW4
-transcript_language: en
+expert_name: "Dani Weinstein"
+video_title: "55. Dani Weinstein: The Expert in Community Building shares tips for Tennis and Corporate Communi..."
+publish_date: "2 years ago"
+source_channel: "Grand Slam Journey"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=5ms-XfPoHW4"
+transcript_language: "en"
 ---
 
 # 55. Dani Weinstein: The Expert in Community Building shares tips for Tennis and Corporate Communi...

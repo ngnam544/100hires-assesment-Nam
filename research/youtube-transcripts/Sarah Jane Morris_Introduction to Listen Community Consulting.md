@@ -1,11 +1,11 @@
 ---
-expert_name: Sarah Jane Morris
-video_title: Introduction to Listen Community Consulting
-publish_date: 7 years ago
-source_channel: Sarah Jane (SJ) Morris
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=gn_Gmwvs86g
-transcript_language: en
+expert_name: "Sarah Jane Morris"
+video_title: "Introduction to Listen Community Consulting"
+publish_date: "7 years ago"
+source_channel: "Sarah Jane (SJ) Morris"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=gn_Gmwvs86g"
+transcript_language: "en"
 ---
 
 # Introduction to Listen Community Consulting

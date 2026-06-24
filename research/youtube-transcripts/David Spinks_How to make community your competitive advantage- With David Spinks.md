@@ -1,11 +1,11 @@
 ---
-expert_name: David Spinks
-video_title: How to make community your competitive advantage- With David Spinks
-publish_date: Streamed 5 years ago
-source_channel: IS-CL (International Startup Community Leaders)
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=lR0x3fEUxqw
-transcript_language: en
+expert_name: "David Spinks"
+video_title: "How to make community your competitive advantage- With David Spinks"
+publish_date: "Streamed 5 years ago"
+source_channel: "IS-CL (International Startup Community Leaders)"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=lR0x3fEUxqw"
+transcript_language: "en"
 ---
 
 # How to make community your competitive advantage- With David Spinks

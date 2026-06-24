@@ -1,11 +1,11 @@
 ---
-expert_name: Wesley Faulkner
-video_title: What Amazon's Wesley Faulkner means when he says community shapes us
-publish_date: 3 years ago
-source_channel: UserTesting
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=K8gaj8kENEU
-transcript_language: en
+expert_name: "Wesley Faulkner"
+video_title: "What Amazon's Wesley Faulkner means when he says community shapes us"
+publish_date: "3 years ago"
+source_channel: "UserTesting"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=K8gaj8kENEU"
+transcript_language: "en"
 ---
 
 # What Amazon's Wesley Faulkner means when he says community shapes us

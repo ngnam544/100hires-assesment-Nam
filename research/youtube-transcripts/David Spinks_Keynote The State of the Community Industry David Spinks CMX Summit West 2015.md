@@ -1,11 +1,11 @@
 ---
-expert_name: David Spinks
-video_title: Keynote: The State of the Community Industry | David Spinks | CMX Summit West 2015
-publish_date: 10 years ago
-source_channel: CMX
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=vg49WiSgw7I
-transcript_language: en
+expert_name: "David Spinks"
+video_title: "Keynote: The State of the Community Industry | David Spinks | CMX Summit West 2015"
+publish_date: "10 years ago"
+source_channel: "CMX"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=vg49WiSgw7I"
+transcript_language: "en"
 ---
 
 # Keynote: The State of the Community Industry | David Spinks | CMX Summit West 2015

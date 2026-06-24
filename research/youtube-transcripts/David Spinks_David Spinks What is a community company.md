@@ -1,11 +1,11 @@
 ---
-expert_name: David Spinks
-video_title: David Spinks: What is a community company?
-publish_date: 5 years ago
-source_channel: Christopher Wink
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=ID2NekyELAM
-transcript_language: en
+expert_name: "David Spinks"
+video_title: "David Spinks: What is a community company?"
+publish_date: "5 years ago"
+source_channel: "Christopher Wink"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=ID2NekyELAM"
+transcript_language: "en"
 ---
 
 # David Spinks: What is a community company?

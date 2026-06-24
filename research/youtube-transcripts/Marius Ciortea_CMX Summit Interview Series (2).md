@@ -1,11 +1,11 @@
 ---
-expert_name: Marius Ciortea
-video_title: CMX Summit Interview Series
-publish_date: 3 weeks ago
-source_channel: The Community Collective
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=bDYuO8E11dg
-transcript_language: en
+expert_name: "Marius Ciortea"
+video_title: "CMX Summit Interview Series"
+publish_date: "3 weeks ago"
+source_channel: "The Community Collective"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=bDYuO8E11dg"
+transcript_language: "en"
 ---
 
 # CMX Summit Interview Series

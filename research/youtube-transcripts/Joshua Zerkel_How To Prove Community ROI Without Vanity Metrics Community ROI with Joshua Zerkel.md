@@ -1,11 +1,11 @@
 ---
-expert_name: Joshua Zerkel
-video_title: How To Prove Community ROI Without Vanity Metrics | Community ROI with Joshua Zerkel
-publish_date: 5 months ago
-source_channel: Communiverse and Humans of Business
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=sF1ni_KoOto
-transcript_language: en
+expert_name: "Joshua Zerkel"
+video_title: "How To Prove Community ROI Without Vanity Metrics | Community ROI with Joshua Zerkel"
+publish_date: "5 months ago"
+source_channel: "Communiverse and Humans of Business"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=sF1ni_KoOto"
+transcript_language: "en"
 ---
 
 # How To Prove Community ROI Without Vanity Metrics | Community ROI with Joshua Zerkel

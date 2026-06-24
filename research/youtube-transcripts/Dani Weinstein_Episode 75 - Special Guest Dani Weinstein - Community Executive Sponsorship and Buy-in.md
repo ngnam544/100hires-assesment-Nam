@@ -1,11 +1,11 @@
 ---
-expert_name: Dani Weinstein
-video_title: Episode 75 - Special Guest Dani Weinstein - Community Executive Sponsorship and Buy-in
-publish_date: 4 years ago
-source_channel: CX Nexus Podcast
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=9dwttdIN2Ks
-transcript_language: en
+expert_name: "Dani Weinstein"
+video_title: "Episode 75 - Special Guest Dani Weinstein - Community Executive Sponsorship and Buy-in"
+publish_date: "4 years ago"
+source_channel: "CX Nexus Podcast"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=9dwttdIN2Ks"
+transcript_language: "en"
 ---
 
 # Episode 75 - Special Guest Dani Weinstein - Community Executive Sponsorship and Buy-in

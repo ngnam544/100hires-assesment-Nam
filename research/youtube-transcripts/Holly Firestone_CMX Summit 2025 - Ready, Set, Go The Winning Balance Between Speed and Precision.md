@@ -1,11 +1,11 @@
 ---
-expert_name: Holly Firestone
-video_title: CMX Summit 2025 - Ready, Set, Go: The Winning Balance Between Speed and Precision
-publish_date: 1 year ago
-source_channel: CMX
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=Yy90eUwyYE0
-transcript_language: en
+expert_name: "Holly Firestone"
+video_title: "CMX Summit 2025 - Ready, Set, Go: The Winning Balance Between Speed and Precision"
+publish_date: "1 year ago"
+source_channel: "CMX"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=Yy90eUwyYE0"
+transcript_language: "en"
 ---
 
 # CMX Summit 2025 - Ready, Set, Go: The Winning Balance Between Speed and Precision

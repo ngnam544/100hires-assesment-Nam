@@ -1,11 +1,11 @@
 ---
-expert_name: Wesley Faulkner
-video_title: #18 - Wesley Faulkner: AWS, Community Management, DevRel | The Reconfigured Podcast
-publish_date: 3 years ago
-source_channel: Reconfigured
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=0rCO46uCcD0
-transcript_language: en
+expert_name: "Wesley Faulkner"
+video_title: "#18 - Wesley Faulkner: AWS, Community Management, DevRel | The Reconfigured Podcast"
+publish_date: "3 years ago"
+source_channel: "Reconfigured"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=0rCO46uCcD0"
+transcript_language: "en"
 ---
 
 # #18 - Wesley Faulkner: AWS, Community Management, DevRel | The Reconfigured Podcast

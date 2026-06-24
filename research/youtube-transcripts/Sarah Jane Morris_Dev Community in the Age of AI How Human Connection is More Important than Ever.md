@@ -1,11 +1,11 @@
 ---
-expert_name: Sarah Jane Morris
-video_title: Dev Community in the Age of AI: How Human Connection is More Important than Ever
-publish_date: 4 months ago
-source_channel: Sarah-Jane Morris
-appearance: own channel
-source_url: https://www.youtube.com/watch?v=-3_FFGRRF5U
-transcript_language: en
+expert_name: "Sarah Jane Morris"
+video_title: "Dev Community in the Age of AI: How Human Connection is More Important than Ever"
+publish_date: "4 months ago"
+source_channel: "Sarah-Jane Morris"
+appearance: "own channel"
+source_url: "https://www.youtube.com/watch?v=-3_FFGRRF5U"
+transcript_language: "en"
 ---
 
 # Dev Community in the Age of AI: How Human Connection is More Important than Ever

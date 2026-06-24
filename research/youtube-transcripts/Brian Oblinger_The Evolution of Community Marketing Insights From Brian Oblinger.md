@@ -1,11 +1,11 @@
 ---
-expert_name: Brian Oblinger
-video_title: The Evolution of Community Marketing: Insights From Brian Oblinger
-publish_date: 2 years ago
-source_channel: LikeMinds
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=v4V-PZ-vwcY
-transcript_language: en
+expert_name: "Brian Oblinger"
+video_title: "The Evolution of Community Marketing: Insights From Brian Oblinger"
+publish_date: "2 years ago"
+source_channel: "LikeMinds"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=v4V-PZ-vwcY"
+transcript_language: "en"
 ---
 
 # The Evolution of Community Marketing: Insights From Brian Oblinger

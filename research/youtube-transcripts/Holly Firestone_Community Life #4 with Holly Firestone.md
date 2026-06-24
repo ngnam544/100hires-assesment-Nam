@@ -1,11 +1,11 @@
 ---
-expert_name: Holly Firestone
-video_title: Community Life #4 with Holly Firestone
-publish_date: 3 years ago
-source_channel: Communiverse
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=k_8IkqZCRy8
-transcript_language: en
+expert_name: "Holly Firestone"
+video_title: "Community Life #4 with Holly Firestone"
+publish_date: "3 years ago"
+source_channel: "Communiverse"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=k_8IkqZCRy8"
+transcript_language: "en"
 ---
 
 # Community Life #4 with Holly Firestone

@@ -1,11 +1,11 @@
 ---
-expert_name: Holly Firestone
-video_title: dreamOlé '18 - ENG - Opening Keynote with Holly Firestone
-publish_date: 8 years ago
-source_channel: dreamOlé
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=p2Gd5e7gTjw
-transcript_language: en
+expert_name: "Holly Firestone"
+video_title: "dreamOlé '18 - ENG - Opening Keynote with Holly Firestone"
+publish_date: "8 years ago"
+source_channel: "dreamOlé"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=p2Gd5e7gTjw"
+transcript_language: "en"
 ---
 
 # dreamOlé '18 - ENG - Opening Keynote with Holly Firestone

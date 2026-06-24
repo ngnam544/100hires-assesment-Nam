@@ -1,11 +1,11 @@
 ---
-expert_name: Wesley Faulkner
-video_title: Creating the Right Developer Community for Your Company | AWS
-publish_date: 3 years ago
-source_channel: AI Council
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=zCoBTPoCH8o
-transcript_language: en
+expert_name: "Wesley Faulkner"
+video_title: "Creating the Right Developer Community for Your Company | AWS"
+publish_date: "3 years ago"
+source_channel: "AI Council"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=zCoBTPoCH8o"
+transcript_language: "en"
 ---
 
 # Creating the Right Developer Community for Your Company | AWS

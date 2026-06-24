@@ -1,11 +1,11 @@
 ---
-expert_name: David Spinks
-video_title: Session 8 - David Spinks on Building a Community
-publish_date: 4 years ago
-source_channel: Makerpad
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=YmgAG2xkYB4
-transcript_language: en
+expert_name: "David Spinks"
+video_title: "Session 8 - David Spinks on Building a Community"
+publish_date: "4 years ago"
+source_channel: "Makerpad"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=YmgAG2xkYB4"
+transcript_language: "en"
 ---
 
 # Session 8 - David Spinks on Building a Community

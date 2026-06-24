@@ -1,11 +1,11 @@
 ---
-expert_name: Marius Ciortea
-video_title: Community is a Brand We All Are Responsible For | Marius Ciortea
-publish_date: 4 years ago
-source_channel: CMX
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=scPWEOPqXls
-transcript_language: en
+expert_name: "Marius Ciortea"
+video_title: "Community is a Brand We All Are Responsible For | Marius Ciortea"
+publish_date: "4 years ago"
+source_channel: "CMX"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=scPWEOPqXls"
+transcript_language: "en"
 ---
 
 # Community is a Brand We All Are Responsible For | Marius Ciortea

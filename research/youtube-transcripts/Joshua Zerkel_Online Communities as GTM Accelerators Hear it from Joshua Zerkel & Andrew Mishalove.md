@@ -1,11 +1,11 @@
 ---
-expert_name: Joshua Zerkel
-video_title: Online Communities as GTM Accelerators | Hear it from Joshua Zerkel & Andrew Mishalove
-publish_date: 7 months ago
-source_channel: Grazitti Interactive
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=JMHv62ee8Ao
-transcript_language: en
+expert_name: "Joshua Zerkel"
+video_title: "Online Communities as GTM Accelerators | Hear it from Joshua Zerkel & Andrew Mishalove"
+publish_date: "7 months ago"
+source_channel: "Grazitti Interactive"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=JMHv62ee8Ao"
+transcript_language: "en"
 ---
 
 # Online Communities as GTM Accelerators | Hear it from Joshua Zerkel & Andrew Mishalove

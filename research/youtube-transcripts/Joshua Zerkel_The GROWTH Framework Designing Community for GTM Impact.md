@@ -1,11 +1,11 @@
 ---
-expert_name: Joshua Zerkel
-video_title: The GROWTH Framework: Designing Community for GTM Impact
-publish_date: Streamed 11 days ago
-source_channel: Clocktower Advisors
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=KH7fXiW54m8
-transcript_language: en
+expert_name: "Joshua Zerkel"
+video_title: "The GROWTH Framework: Designing Community for GTM Impact"
+publish_date: "Streamed 11 days ago"
+source_channel: "Clocktower Advisors"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=KH7fXiW54m8"
+transcript_language: "en"
 ---
 
 # The GROWTH Framework: Designing Community for GTM Impact

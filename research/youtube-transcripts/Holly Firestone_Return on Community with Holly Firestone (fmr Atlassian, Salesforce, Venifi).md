@@ -1,11 +1,11 @@
 ---
-expert_name: Holly Firestone
-video_title: Return on Community with Holly Firestone (fmr Atlassian, Salesforce, Venifi)
-publish_date: 2 years ago
-source_channel: Common Room
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=ZPeMwkj5FJY
-transcript_language: en
+expert_name: "Holly Firestone"
+video_title: "Return on Community with Holly Firestone (fmr Atlassian, Salesforce, Venifi)"
+publish_date: "2 years ago"
+source_channel: "Common Room"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=ZPeMwkj5FJY"
+transcript_language: "en"
 ---
 
 # Return on Community with Holly Firestone (fmr Atlassian, Salesforce, Venifi)

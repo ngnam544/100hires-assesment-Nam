@@ -1,11 +1,11 @@
 ---
-expert_name: Marius Ciortea
-video_title: Trends in Tech: CCO of IBM
-publish_date: Streamed 1 year ago
-source_channel: Clocktower Advisors
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=EFNLqA4Pxy0
-transcript_language: en
+expert_name: "Marius Ciortea"
+video_title: "Trends in Tech: CCO of IBM"
+publish_date: "Streamed 1 year ago"
+source_channel: "Clocktower Advisors"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=EFNLqA4Pxy0"
+transcript_language: "en"
 ---
 
 # Trends in Tech: CCO of IBM

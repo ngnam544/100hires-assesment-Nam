@@ -1,11 +1,11 @@
 ---
-expert_name: Joshua Zerkel
-video_title: Asana’s Joshua Zerkel on How to Build a B2B Community with a B2C Feel
-publish_date: 3 years ago
-source_channel: Influitive
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=pXel4_LW_z0
-transcript_language: en
+expert_name: "Joshua Zerkel"
+video_title: "Asana’s Joshua Zerkel on How to Build a B2B Community with a B2C Feel"
+publish_date: "3 years ago"
+source_channel: "Influitive"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=pXel4_LW_z0"
+transcript_language: "en"
 ---
 
 # Asana’s Joshua Zerkel on How to Build a B2B Community with a B2C Feel

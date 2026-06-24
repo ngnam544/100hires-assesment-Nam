@@ -1,11 +1,11 @@
 ---
-expert_name: Dani Weinstein
-video_title: Catching Up With Dani Weinstein
-publish_date: Streamed 3 years ago
-source_channel: Clocktower Advisors
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=KCPfl8ONJYQ
-transcript_language: en
+expert_name: "Dani Weinstein"
+video_title: "Catching Up With Dani Weinstein"
+publish_date: "Streamed 3 years ago"
+source_channel: "Clocktower Advisors"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=KCPfl8ONJYQ"
+transcript_language: "en"
 ---
 
 # Catching Up With Dani Weinstein

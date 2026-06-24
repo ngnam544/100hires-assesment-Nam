@@ -1,11 +1,11 @@
 ---
-expert_name: Marius Ciortea
-video_title: The Benefits of Developing A Community Strategy with Marius Ciortea
-publish_date: 4 years ago
-source_channel: CMX
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=Yh6MYGF5FtM
-transcript_language: en
+expert_name: "Marius Ciortea"
+video_title: "The Benefits of Developing A Community Strategy with Marius Ciortea"
+publish_date: "4 years ago"
+source_channel: "CMX"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=Yh6MYGF5FtM"
+transcript_language: "en"
 ---
 
 # The Benefits of Developing A Community Strategy with Marius Ciortea

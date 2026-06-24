@@ -1,11 +1,11 @@
 ---
-expert_name: Brian Oblinger
-video_title: Brian Oblinger & Dan Farley - Building Scalable Customer Success Through Communities
-publish_date: 2 years ago
-source_channel: MeltingSpot | Digital Adoption & User Training
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=4qZtV35t0F4
-transcript_language: en
+expert_name: "Brian Oblinger"
+video_title: "Brian Oblinger & Dan Farley - Building Scalable Customer Success Through Communities"
+publish_date: "2 years ago"
+source_channel: "MeltingSpot | Digital Adoption & User Training"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=4qZtV35t0F4"
+transcript_language: "en"
 ---
 
 # Brian Oblinger & Dan Farley - Building Scalable Customer Success Through Communities

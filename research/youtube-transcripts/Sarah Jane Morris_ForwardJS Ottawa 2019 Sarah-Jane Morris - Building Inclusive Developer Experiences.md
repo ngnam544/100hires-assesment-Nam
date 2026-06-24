@@ -1,11 +1,11 @@
 ---
-expert_name: Sarah Jane Morris
-video_title: ForwardJS Ottawa 2019: Sarah-Jane Morris - Building Inclusive Developer Experiences
-publish_date: 7 years ago
-source_channel: Sarah Jane (SJ) Morris
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=0D0dF_Ko5u4
-transcript_language: en
+expert_name: "Sarah Jane Morris"
+video_title: "ForwardJS Ottawa 2019: Sarah-Jane Morris - Building Inclusive Developer Experiences"
+publish_date: "7 years ago"
+source_channel: "Sarah Jane (SJ) Morris"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=0D0dF_Ko5u4"
+transcript_language: "en"
 ---
 
 # ForwardJS Ottawa 2019: Sarah-Jane Morris - Building Inclusive Developer Experiences

@@ -1,11 +1,11 @@
 ---
-expert_name: David Spinks
-video_title: Community as a Business Value  | David Spinks, Co-Founder of CMX
-publish_date: 4 years ago
-source_channel: ODF - Founders and Startups
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=JDhrzE2ackY
-transcript_language: en
+expert_name: "David Spinks"
+video_title: "Community as a Business Value  | David Spinks, Co-Founder of CMX"
+publish_date: "4 years ago"
+source_channel: "ODF - Founders and Startups"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=JDhrzE2ackY"
+transcript_language: "en"
 ---
 
 # Community as a Business Value  | David Spinks, Co-Founder of CMX

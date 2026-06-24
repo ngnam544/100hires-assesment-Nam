@@ -1,11 +1,11 @@
 ---
-expert_name: Joshua Zerkel
-video_title: 01: Asana's Joshua Zerkel On Running a Productive and Efficient Remote Team
-publish_date: 5 years ago
-source_channel: Marquis Murray
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=ou_PUvP65XQ
-transcript_language: en
+expert_name: "Joshua Zerkel"
+video_title: "01: Asana's Joshua Zerkel On Running a Productive and Efficient Remote Team"
+publish_date: "5 years ago"
+source_channel: "Marquis Murray"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=ou_PUvP65XQ"
+transcript_language: "en"
 ---
 
 # 01: Asana's Joshua Zerkel On Running a Productive and Efficient Remote Team

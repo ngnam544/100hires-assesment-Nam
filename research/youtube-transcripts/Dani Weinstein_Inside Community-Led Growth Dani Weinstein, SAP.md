@@ -1,11 +1,11 @@
 ---
-expert_name: Dani Weinstein
-video_title: Inside Community-Led Growth | Dani Weinstein, SAP
-publish_date: 2 years ago
-source_channel: Zapnito
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=bROWJ8b4rHQ
-transcript_language: en
+expert_name: "Dani Weinstein"
+video_title: "Inside Community-Led Growth | Dani Weinstein, SAP"
+publish_date: "2 years ago"
+source_channel: "Zapnito"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=bROWJ8b4rHQ"
+transcript_language: "en"
 ---
 
 # Inside Community-Led Growth | Dani Weinstein, SAP

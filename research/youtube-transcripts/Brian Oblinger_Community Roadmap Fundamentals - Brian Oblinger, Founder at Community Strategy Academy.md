@@ -1,11 +1,11 @@
 ---
-expert_name: Brian Oblinger
-video_title: Community Roadmap Fundamentals - Brian Oblinger, Founder at Community Strategy Academy
-publish_date: 2 years ago
-source_channel: Led by Community
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=6dGjmp8kZq8
-transcript_language: en
+expert_name: "Brian Oblinger"
+video_title: "Community Roadmap Fundamentals - Brian Oblinger, Founder at Community Strategy Academy"
+publish_date: "2 years ago"
+source_channel: "Led by Community"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=6dGjmp8kZq8"
+transcript_language: "en"
 ---
 
 # Community Roadmap Fundamentals - Brian Oblinger, Founder at Community Strategy Academy

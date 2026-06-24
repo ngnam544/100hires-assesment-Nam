@@ -1,11 +1,11 @@
 ---
-expert_name: Joshua Zerkel
-video_title: The Power of Community in Education & Enablement  | Joshua Zerkel, Asana
-publish_date: 2 years ago
-source_channel: Tango
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=qY2H4mzm2XM
-transcript_language: en
+expert_name: "Joshua Zerkel"
+video_title: "The Power of Community in Education & Enablement  | Joshua Zerkel, Asana"
+publish_date: "2 years ago"
+source_channel: "Tango"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=qY2H4mzm2XM"
+transcript_language: "en"
 ---
 
 # The Power of Community in Education & Enablement  | Joshua Zerkel, Asana

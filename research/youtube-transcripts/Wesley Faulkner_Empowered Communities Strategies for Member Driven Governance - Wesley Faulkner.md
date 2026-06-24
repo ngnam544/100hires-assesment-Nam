@@ -1,11 +1,11 @@
 ---
-expert_name: Wesley Faulkner
-video_title: Empowered Communities  Strategies for Member Driven Governance - Wesley Faulkner
-publish_date: 1 year ago
-source_channel: CMX
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=srztUWzDMVA
-transcript_language: en
+expert_name: "Wesley Faulkner"
+video_title: "Empowered Communities  Strategies for Member Driven Governance - Wesley Faulkner"
+publish_date: "1 year ago"
+source_channel: "CMX"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=srztUWzDMVA"
+transcript_language: "en"
 ---
 
 # Empowered Communities  Strategies for Member Driven Governance - Wesley Faulkner

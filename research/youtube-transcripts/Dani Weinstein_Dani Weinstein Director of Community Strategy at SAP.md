@@ -1,11 +1,11 @@
 ---
-expert_name: Dani Weinstein
-video_title: Dani Weinstein: Director of Community Strategy at SAP
-publish_date: 3 years ago
-source_channel: Clocktower Advisors
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=Ikr_sVKAXw4
-transcript_language: en
+expert_name: "Dani Weinstein"
+video_title: "Dani Weinstein: Director of Community Strategy at SAP"
+publish_date: "3 years ago"
+source_channel: "Clocktower Advisors"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=Ikr_sVKAXw4"
+transcript_language: "en"
 ---
 
 # Dani Weinstein: Director of Community Strategy at SAP

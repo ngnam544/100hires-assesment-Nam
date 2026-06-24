@@ -1,11 +1,11 @@
 ---
-expert_name: Holly Firestone
-video_title: Holly Firestone – Swarm 2020 – Community Engagement: From a Small Flame to a Raging Fire
-publish_date: 5 months ago
-source_channel: Australian Community Managers
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=mXgdhx658HY
-transcript_language: en
+expert_name: "Holly Firestone"
+video_title: "Holly Firestone – Swarm 2020 – Community Engagement: From a Small Flame to a Raging Fire"
+publish_date: "5 months ago"
+source_channel: "Australian Community Managers"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=mXgdhx658HY"
+transcript_language: "en"
 ---
 
 # Holly Firestone – Swarm 2020 – Community Engagement: From a Small Flame to a Raging Fire

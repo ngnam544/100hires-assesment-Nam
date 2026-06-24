@@ -1,11 +1,11 @@
 ---
-expert_name: Holly Firestone
-video_title: The What, Why, and How of Customer Communities with Venafi Head of Community Holly Firestone
-publish_date: Streamed 5 years ago
-source_channel: SaaStr AI
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=fl9r_UfpzSA
-transcript_language: en
+expert_name: "Holly Firestone"
+video_title: "The What, Why, and How of Customer Communities with Venafi Head of Community Holly Firestone"
+publish_date: "Streamed 5 years ago"
+source_channel: "SaaStr AI"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=fl9r_UfpzSA"
+transcript_language: "en"
 ---
 
 # The What, Why, and How of Customer Communities with Venafi Head of Community Holly Firestone

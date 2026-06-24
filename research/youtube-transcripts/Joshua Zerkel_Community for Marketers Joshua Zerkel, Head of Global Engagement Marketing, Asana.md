@@ -1,11 +1,11 @@
 ---
-expert_name: Joshua Zerkel
-video_title: Community for Marketers | Joshua Zerkel, Head of Global Engagement Marketing, Asana
-publish_date: 4 years ago
-source_channel: Leadtail
-appearance: guest appearance
-source_url: https://www.youtube.com/watch?v=6siuvL8bjUw
-transcript_language: en
+expert_name: "Joshua Zerkel"
+video_title: "Community for Marketers | Joshua Zerkel, Head of Global Engagement Marketing, Asana"
+publish_date: "4 years ago"
+source_channel: "Leadtail"
+appearance: "guest appearance"
+source_url: "https://www.youtube.com/watch?v=6siuvL8bjUw"
+transcript_language: "en"
 ---
 
 # Community for Marketers | Joshua Zerkel, Head of Global Engagement Marketing, Asana
